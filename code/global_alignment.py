@@ -1,4 +1,6 @@
 import sys
+import argparse
+from argparse import ArgumentParser
 
 class global_align:
     def __init__(self, seqs, scoring_matrix, gap_penalty):
@@ -94,8 +96,10 @@ class global_align:
         return new_str
                     
 if __name__ == "__main__":
-    seqs = sys.argv[1]
-    scoring_matrix = sys.argv[2]
-    gap_penalty = sys.argv[3]
-    align = global_align(seqs, scoring_matrix, gap_penalty)
+    parser = ArgumentParser()
+    parser.add_argument('--seqs',type=str,required=True)
+    parser.add_argument('--sm',type=str,required=True)
+    parser.add_argument('--gapPen', type=str, required=True)
+    config = parser.parse_args()
+    align = global_align(config.seqs, config.sm, config.gapPen)
     align.global_align()

@@ -1,4 +1,7 @@
 import sys
+import argparse
+from argparse import ArgumentParser
+
 class affine_align:
     def __init__(self, seqs, scoring_matrix, gap_penalty, start_penalty):
         self.seq_file = seqs
@@ -122,9 +125,11 @@ class affine_align:
 
 
 if __name__ == "__main__":
-    seqs = sys.argv[1]
-    scoring_matrix = sys.argv[2]
-    gap_penalty = sys.argv[4]
-    start_penalty = sys.argv[3]
-    align = affine_align(seqs, scoring_matrix, gap_penalty, start_penalty)
+    parser = ArgumentParser()
+    parser.add_argument('--seqs',type=str,required=True)
+    parser.add_argument('--sm',type=str,required=True)
+    parser.add_argument('--gapPen', type=str, required=True)
+    parser.add_argument('--startPen', type=str, required=True)
+    config = parser.parse_args()
+    align = affine_align(config.seqs, config.sm, config.gapPen, config.startPen)
     align.affine_aligning()

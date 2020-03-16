@@ -1,4 +1,6 @@
 import sys
+import argparse
+from argparse import ArgumentParser
 
 class local_aligning:
     def __init__(self, seqs, scoring_matrix, gap_penalty):
@@ -61,13 +63,13 @@ class local_aligning:
                 else:
                     self.direction_matrix[i][j] = 1
     def trace_back(self):
-        row_index = len(self.seq1)
-        col_index = len(self.seq2)
         top_string = ""
         bottom_string = ""
         boolean = True
+        row_index = self.max_Rindex
+        col_index = self.max_Cindex
         while boolean:
-            value = self.direction_matrix[self.max_Rindex][self.max_Cindex]
+            value = self.direction_matrix[row_index][col_index]
             if value == -1 :
                 bottom_string += "-"
                 top_string += self.seq1[row_index -1]
@@ -101,8 +103,10 @@ class local_aligning:
         return new_str
                     
 if __name__ == "__main__":
-    seqs = sys.argv[1]
-    scoring_matrix = sys.argv[2]
-    gap_penalty = sys.argv[3]
-    align = local_aligning(seqs, scoring_matrix, gap_penalty)
+    parser = ArgumentParser()
+    parser.add_argument('--seqs',type=str,required=True)
+    parser.add_argument('--sm',type=str,required=True)
+    parser.add_argument('--gapPen', type=str, required=True)
+    config = parser.parse_args()
+    align = local_aligning(config.seqs, config.sm, config.gapPen)
     align.local_align()
