@@ -1,6 +1,7 @@
 import sys
 import argparse
 from argparse import ArgumentParser
+import math
 
 class global_align:
     def __init__(self, seqs, scoring_matrix, gap_penalty):
@@ -89,6 +90,7 @@ class global_align:
         print(self.final_top_seq)
         print(self.final_bottom_seq)
         print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+        print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100} % Alignment")
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):
