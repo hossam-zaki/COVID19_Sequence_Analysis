@@ -90,21 +90,26 @@ class global_align:
         self.get_scoring_matrix()
         self.align_globally()
         self.trace_back()
-        matches = re.search(r"sequences\/(.+)_Genome", self.seq_file1)
-        matches1 = re.search(r"sequences\/(.+)_Genome", self.seq_file2)
+        matches = re.search(r"data\/(.+)", self.seq_file1)
+        matches1 = re.search(r"data\/(.+)", self.seq_file1)
+        # matches = re.search(r"sequences\/(.+)_Genome", self.seq_file1)
+        # matches1 = re.search(r"sequences\/(.+)_Genome", self.seq_file2)
         try:
             os.mkdir(f"../results/{matches[1]}_{matches1[1]}")
         except:
             pass
         with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
-            print(self.final_top_seq)
-            file.write(f"{self.final_top_seq} \n")
-            print(self.final_bottom_seq)
-            file.write(f"{self.final_bottom_seq} \n")
-            print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
-            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]} \n")
-            print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
-            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment \n")
+            for i in range(0, len(self.final_top_seq), 175):
+                try:
+                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+175]} \n")
+                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+175]} \n")
+                    file.write(f"\n")
+                except:
+                    file.write(f"{matches[1]} {i}:{self.final_top_seq[i:]} \n")
+                    file.write(f"{matches1[1]} {i}:{self.final_bottom_seq[i:]} \n")
+                    file.write(f"\n")
+            file.write(f"Score: {self.alignment_matrix[len(self.seq1)][len(self.seq2)]} out of maximum score of {(min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2)))}\n")
+            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ (min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2))) * 100}% Similarity based on scoring scheme \n")
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):

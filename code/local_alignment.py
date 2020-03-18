@@ -101,13 +101,18 @@ class local_aligning:
             os.mkdir(f"../results/{matches[1]}_{matches1[1]}")
         except:
             pass
-        with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
-            print(self.final_top_seq)
-            file.write(f"{self.final_top_seq} \n")
-            print(self.final_bottom_seq)
-            file.write(f"{self.final_bottom_seq} \n")
-            print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
-            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]} \n")
+        with open(f"../results/{matches[1]}_{matches1[1]}/Local_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
+            for i in range(0, len(self.final_top_seq), 60):
+                try:
+                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+60]} \n")
+                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+60]} \n")
+                    file.write(f"\n")
+                except:
+                    file.write(f"{matches[1]} {i}:{self.final_top_seq[i:]} \n")
+                    file.write(f"{matches1[1]} {i}:{self.final_bottom_seq[i:]} \n")
+                    file.write(f"\n")
+            file.write(f"Score: {self.alignment_matrix[len(self.seq1)][len(self.seq2)]} out of maximum score of {(min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2)))}\n")
+            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ (min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2))) * 100}% Similarity based on scoring scheme \n")
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):
