@@ -19,6 +19,7 @@ class global_align:
         self.direction_matrix = None
         self.final_top_seq = None
         self.final_bottom_seq = None
+        self.final_alignment_seq = None
         self.counter = 0
     def retrieve_seqs(self):
         with open(self.seq_file1) as f:
@@ -65,26 +66,34 @@ class global_align:
         col_index = len(self.seq2)
         top_string = ""
         bottom_string = ""
+        alignment_string = ""
         while row_index != 0 or col_index != 0:
             value = self.direction_matrix[row_index][col_index]
             if value == 1 and (self.seq2[col_index-1] == self.seq1[row_index - 1]):
                 self.counter += 1
             if value == -1 :
                 bottom_string += "-"
+                alignment_string += " "
                 top_string += self.seq1[row_index -1]
                 row_index = row_index - 1
             if value == 0 :
                 top_string += "-"
+                alignment_string += " "
                 bottom_string += self.seq2[col_index - 1]
                 col_index = col_index - 1
             if value == 1:
                 bottom_string += self.seq2[col_index -1]
                 top_string += self.seq1[row_index - 1]
+                if(self.seq1[row_index - 1] == self.seq2[col_index -1]):
+                    alignment_string += "|"
+                else:
+                    alignment_string += "/"
                 col_index = col_index - 1
                 row_index = row_index - 1
 
         self.final_top_seq=(self.reverse_str(top_string))
         self.final_bottom_seq=(self.reverse_str(bottom_string))
+        self.final_alignment_seq = (self.reverse_str(alignment_string))
     def global_align(self):
         self.retrieve_seqs()
         self.get_scoring_matrix()
@@ -97,14 +106,25 @@ class global_align:
         except:
             pass
         with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
+            minLen = min(len(matches[1]), len(matches1[1]))
+            maxLen = max(len(matches[1]), len(matches1[1]))
+            if minLen == len(matches[1]):
+                offset = len(matches1[1]) - len(matches[1])
+                offset1 = 0
+            else:
+                offset1 = len(matches[1]) - len(matches1[1])
+                offset = 0
             for i in range(0, len(self.final_top_seq), 175):
                 try:
-                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+175]} \n")
-                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+175]} \n")
+                    file.write(f"{matches[1]}" + ' ' * offset +  f" {i}: {self.final_top_seq[i: i+175]} \n")
+                    file.write((' ' * maxLen) + '   ' + (' ' * len(str(i))) + f"{self.final_alignment_seq[i: i+175]} \n")
+                    file.write(f"{matches1[1]}" + ' ' * offset1 +  f" {i}: {self.final_bottom_seq[i: i+175]} \n")
                     file.write(f"\n")
                 except:
-                    file.write(f"{matches[1]} {i}:{self.final_top_seq[i:]} \n")
-                    file.write(f"{matches1[1]} {i}:{self.final_bottom_seq[i:]} \n")
+                    print(maxLen)
+                    file.write(f"{matches[1]} {i}:" + ' ' * offset +  f"{self.final_top_seq[i:]} \n")
+                    file.write((' ' * maxLen) + '   ' + (' ' * len(str(i))) + f"{self.final_alignment_seq[i:]} \n")
+                    file.write(f"{matches1[1]} {i}:" + ' ' * offset1 +  f"{self.final_bottom_seq[i:]} \n")
                     file.write(f"\n")
             file.write(f"Score: {self.alignment_matrix[len(self.seq1)][len(self.seq2)]} out of maximum score of {(min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2)))}\n")
             file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ (min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2))) * 100}% Similarity based on scoring scheme \n")
