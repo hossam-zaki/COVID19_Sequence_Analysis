@@ -99,10 +99,10 @@ class global_align:
         except:
             pass
         with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
-            for i in range(0, len(self.final_top_seq), 110):
+            for i in range(0, len(self.final_top_seq), 175):
                 try:
-                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+110]} \n")
-                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+110]} \n")
+                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+175]} \n")
+                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+175]} \n")
                     file.write(f"\n")
                 except:
                     file.write(f"{matches[1]} {i}:{self.final_top_seq[i:]} \n")
