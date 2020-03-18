@@ -10,7 +10,9 @@ This project is in the beginning stages, so we will use standard alignment algor
 
 For global, local, and affine alignment, we will be using the following parameters
 
-```--seqs``` Following this tag should be a file with the two sequences, each on seperate lines. Please see ```data/test_cases/``` for examples
+```--seq1``` Following this tag should be a file with the first sequence. This will be the first sequence in the directory and file name
+
+```--seq2``` Following this tag should be a file with the second sequence
 
 ```--sm``` This is a scoring matrix. This will score different nucleotide alignments. please see ``scoringMatrices/``` for examples
 

@@ -1,6 +1,8 @@
 import sys
 import argparse
 from argparse import ArgumentParser
+import os
+import re
 
 class local_aligning:
     def __init__(self, seq1, seq2, scoring_matrix, gap_penalty):
@@ -95,11 +97,19 @@ class local_aligning:
         self.get_scoring_matrix()
         self.align_locally()
         self.trace_back()
-        print(self.final_top_seq)
-        print(self.final_bottom_seq)
-        print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
-        print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
-
+        matches = re.match(r"sequences\/(.+)_Genome", self.seq_file1)
+        matches1 = re.match(r"sequences\/(.+)_Genome", self.seq_file2)
+        try:
+            os.mkdir(f"../results/{matches[1]}_{matches1[1]}")
+        except:
+            pass
+        with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
+            print(self.final_top_seq)
+            file.write(self.final_top_seq)
+            print(self.final_bottom_seq)
+            file.write(self.final_bottom_seq)
+            print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+            file.write(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):

@@ -2,6 +2,8 @@ import sys
 import argparse
 from argparse import ArgumentParser
 import math
+import re
+import os
 
 class global_align:
     def __init__(self, seq1, seq2, scoring_matrix, gap_penalty):
@@ -10,8 +12,8 @@ class global_align:
         self.scoring_matrix_file = scoring_matrix
         self.scoring_matrix = None
         self.gap_penalty = int(gap_penalty)
-        self.seq1 = None
-        self.seq2 = None
+        self.seq1 = ""
+        self.seq2 = ""
         self.scoring_dict = {}
         self.alignment_matrix = None
         self.direction_matrix = None
@@ -21,12 +23,10 @@ class global_align:
     def retrieve_seqs(self):
         with open(self.seq_file1) as f:
             for line in f:
-                if self.seq1 == None:
-                    self.seq1 = line.strip()
+                self.seq1 += line.strip()
         with open(self.seq_file2) as f:
             for line in f:
-                if self.seq2 == None:
-                    self.seq2 = line.strip()       
+                self.seq2 += line.strip()      
     def get_scoring_matrix(self):
         with open(self.scoring_matrix_file) as f:
             index = 0
@@ -90,10 +90,21 @@ class global_align:
         self.get_scoring_matrix()
         self.align_globally()
         self.trace_back()
-        print(self.final_top_seq)
-        print(self.final_bottom_seq)
-        print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
-        print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
+        matches = re.match(r"sequences\/(.+)_Genome", self.seq_file1)
+        matches1 = re.match(r"sequences\/(.+)_Genome", self.seq_file2)
+        try:
+            os.mkdir(f"../results/{matches[1]}_{matches1[1]}")
+        except:
+            pass
+        with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
+            print(self.final_top_seq)
+            file.write(self.final_top_seq)
+            print(self.final_bottom_seq)
+            file.write(self.final_bottom_seq)
+            print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+            file.write(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+            print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
+            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):
