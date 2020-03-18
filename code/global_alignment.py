@@ -98,13 +98,13 @@ class global_align:
             pass
         with open(f"../results/{matches[1]}_{matches1[1]}/Global_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
             print(self.final_top_seq)
-            file.write(self.final_top_seq)
+            file.write(f"{self.final_top_seq} \n")
             print(self.final_bottom_seq)
-            file.write(self.final_bottom_seq)
+            file.write(f"{self.final_bottom_seq} \n")
             print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
-            file.write(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]} \n")
             print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
-            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
+            file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment \n")
     def reverse_str(self, string):
         new_str = ""
         for i in range (len(string) - 1, -1, -1):
