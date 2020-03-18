@@ -95,8 +95,8 @@ class local_aligning:
         self.get_scoring_matrix()
         self.align_locally()
         self.trace_back()
-        matches = re.match(r"sequences\/(.+)_Genome", self.seq_file1)
-        matches1 = re.match(r"sequences\/(.+)_Genome", self.seq_file2)
+        matches = re.search(r"sequences\/(.+)_Genome", self.seq_file1)
+        matches1 = re.search(r"sequences\/(.+)_Genome", self.seq_file2)
         try:
             os.mkdir(f"../results/{matches[1]}_{matches1[1]}")
         except:
