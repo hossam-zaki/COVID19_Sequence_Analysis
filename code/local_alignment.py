@@ -11,8 +11,8 @@ class local_aligning:
         self.scoring_matrix_file = scoring_matrix
         self.scoring_matrix = None
         self.gap_penalty = int(gap_penalty)
-        self.seq1 = None
-        self.seq2 = None
+        self.seq1 = ""
+        self.seq2 = ""
         self.scoring_dict = {}
         self.alignment_matrix = None
         self.direction_matrix = None
@@ -23,12 +23,10 @@ class local_aligning:
     def retrieve_seqs(self):
         with open(self.seq_file1) as f:
             for line in f:
-                if self.seq1 == None:
-                    self.seq1 = line.strip()
+                self.seq1 += line.strip()
         with open(self.seq_file2) as f:
             for line in f:
-                if self.seq2 == None:
-                    self.seq2 = line.strip()    
+                self.seq2 += line.strip()      
     def get_scoring_matrix(self):
         with open(self.scoring_matrix_file) as f:
             index = 0

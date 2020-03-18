@@ -26,7 +26,7 @@ class global_align:
                 self.seq1 += line.strip()
         with open(self.seq_file2) as f:
             for line in f:
-                self.seq2 += line.strip()      
+                self.seq2 += line.strip()
     def get_scoring_matrix(self):
         with open(self.scoring_matrix_file) as f:
             index = 0
