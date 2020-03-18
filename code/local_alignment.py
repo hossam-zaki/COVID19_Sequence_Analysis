@@ -102,10 +102,10 @@ class local_aligning:
         except:
             pass
         with open(f"../results/{matches[1]}_{matches1[1]}/Local_{matches[1]}_{matches1[1]}_Alignment.txt", "w+") as file:
-            for i in range(0, len(self.final_top_seq), 60):
+            for i in range(0, len(self.final_top_seq), 175):
                 try:
-                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+60]} \n")
-                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+60]} \n")
+                    file.write(f"{matches[1]} {i}: {self.final_top_seq[i: i+175]} \n")
+                    file.write(f"{matches1[1]} {i}: {self.final_bottom_seq[i: i+175]} \n")
                     file.write(f"\n")
                 except:
                     file.write(f"{matches[1]} {i}:{self.final_top_seq[i:]} \n")
