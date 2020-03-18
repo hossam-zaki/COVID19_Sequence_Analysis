@@ -3,8 +3,9 @@ import argparse
 from argparse import ArgumentParser
 
 class local_aligning:
-    def __init__(self, seqs, scoring_matrix, gap_penalty):
-        self.seq_file = seqs
+    def __init__(self, seq1, seq2, scoring_matrix, gap_penalty):
+        self.seq_file1 = seq1
+        self.seq_file2 = seq2
         self.scoring_matrix_file = scoring_matrix
         self.scoring_matrix = None
         self.gap_penalty = int(gap_penalty)
@@ -18,12 +19,14 @@ class local_aligning:
         self.final_top_seq = None
         self.final_bottom_seq = None
     def retrieve_seqs(self):
-        with open(self.seq_file) as f:
+        with open(self.seq_file1) as f:
             for line in f:
                 if self.seq1 == None:
                     self.seq1 = line.strip()
-                else:
-                    self.seq2 = line.strip()
+        with open(self.seq_file2) as f:
+            for line in f:
+                if self.seq2 == None:
+                    self.seq2 = line.strip()    
     def get_scoring_matrix(self):
         with open(self.scoring_matrix_file) as f:
             index = 0
@@ -95,6 +98,7 @@ class local_aligning:
         print(self.final_top_seq)
         print(self.final_bottom_seq)
         print(self.alignment_matrix[len(self.seq1)][len(self.seq2)])
+        print(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ min(len(self.seq1),len(self.seq2)) * 100}% Alignment")
 
     def reverse_str(self, string):
         new_str = ""
@@ -104,9 +108,10 @@ class local_aligning:
                     
 if __name__ == "__main__":
     parser = ArgumentParser()
-    parser.add_argument('--seqs',type=str,required=True)
+    parser.add_argument('--seq1',type=str,required=True)
+    parser.add_argument('--seq2',type=str,required=True)
     parser.add_argument('--sm',type=str,required=True)
     parser.add_argument('--gapPen', type=str, required=True)
     config = parser.parse_args()
-    align = local_aligning(config.seqs, config.sm, config.gapPen)
+    align = local_aligning(config.seq1, config.seq2, config.sm, config.gapPen)
     align.local_align()
