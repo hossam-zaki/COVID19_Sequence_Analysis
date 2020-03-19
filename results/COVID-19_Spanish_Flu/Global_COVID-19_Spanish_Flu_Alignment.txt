@@ -1,0 +1,686 @@
+COVID-19    0: ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAGTGCACTCACGCAGTATAATTAATAACTAATTACTGTCGTTGACAGGACACGAGTAACTCGT 
+               ||    ||   |          ||   |||              || ||     |   |||          |   |       || |||   |   | | |  |||||  || |  ||     ||  ||          | ||  | || |    |  | |||| |  |  |    
+Spanish_Flu 0: AT----GG---A----------GG---CAA--------------GA-CT-----A---CTG----------G---T-------CT-TGT---T---A-T-G--TGCAT--TT-G--CA-----GC--TA----------C-AA--A-TG-C----A--G-ACAC-A--A--T--- 
+
+COVID-19    175: CTATCTTCTGCAGGCTGCTTACGGTTTCGTCCGTGTTGCAGCCGATCATCAGCACATCTAGGTTTCGTCCGGGTGTGACCGAAAGGTAAGATGGAGAGCCTTGTCCCTGGTTTCAACGAGAAAACACACGTCCAACTCAGTTTGCCTGTTTTACAGGTTCGCGACGTGCTCGTAC 
+                   ||     |     |    |   |              ||  |  | | | | |||   |    ||          |   |    |||         | |   |         |||       |    |   | |  |     | ||||     |       ||        || 
+Spanish_Flu 175: --AT-----G-----T----A---T--------------AG--G--C-T-A-C-CAT---G----CG----------A---A----TAA---------C-T---C---------AAC-------C----G---A-C--A-----C-TGTT-----G-------AC--------AC 
+
+COVID-19    350: GTGGCTTTGGAGACTCCGTGGAGGAGGTCTTATCAGAGGCACGTCAACATCTTAAAGATGGCACTTGTGGCTTAGTAGAAGTTGAAAAAGGCGTTTTGCCTCAACTTGAACAGCCCTATGTGTTCATCAAACGTTCGGATGCTCGAACTGCACCTCATGGTCATGTTATGGTTGA 
+                           ||  |      |      ||   | ||   |    ||         ||    | | |||    |                 |      |        |        |  |     | ||  |      |  |||    ||    |  |    |    |        
+Spanish_Flu 350: ----------AG--T------A------CT---C-GA---A----AA---------GA----A-T-GTG----A-----------------C------C--------G--------T--G-----A-CA--C------A--CTC----TG----T--T----A----A------- 
+
+COVID-19    525: GCTGGTAGCAGAACTCGAAGGCATTCAGTACGGTCGTAGTGGTGAGACACTTGGTGTCCTTGTCCCTCATGTGGGCGAAATACCAGTGGCTTACCGCAAGGTTCTTCTTCGTAAGAACGGTAATAAAGGAGCTGGTGGCCATAGTTACGGCGCCGATCTAAAGTCATTTGACTTA 
+                  |      |     | |    | | | | |       ||     |  ||   |    ||         |      | ||   |  | |    |    ||             |    |  || |   |    |       | |   |         | ||||   |   |      
+Spanish_Flu 525: -C------C-----T-G----C-T-C-G-A-------AG-----A--CA---G----CC---------A------C-AA---C--G-G----A----AA-------------A----C--TA-T---G----T-------A-A---A---------T-TAAA---A---G----- 
+
+COVID-19    700: GGCGACGAGCTTGGCACTGATCCTTATGAAGATTTTCAAGAAAACTGGAACACTAAACATAGCAGTGGTGTTACCCGTGAACTCATGCGTGAGCTTAACGGAGGGGCATACACTCGCTATGTCGATAACAACTTCTGTGGCCCTGATGGCTACCCTCTTGAGTGCATTAAAGACC 
+                 |   |  |  |    |  |  ||             |       |   |    |     || ||        |    |    |   | | | |   ||   |      |      | ||     |||     | | |   ||  |  |   |   |   | |  | |      |  
+Spanish_Flu 700: G---A--A--T----A--G--CC-------------C-------C---A----T-----TA-CA--------A----T----T---G-G-G-G---AA---A------T------G-TA-----ATA-----T-C-G---CC--G--G---A---T---G-G--C-T------C- 
+
+COVID-19    875: TTCTAGCACGTGCTGGTAAAGCTTCATGCACTTTGTCCGAACAACTGGACTTTATTGACACTAAGAGGGGTGTATACTGCTGCCGTGAACATGAGCATGAAATTGCTTGGTACACGGAACGTTCTGAAAAGAGCTATGAATTGCAGACACCTTTTGAAATTAAATTGGCAAAGAA 
+                 ||   |   | |     ||| |  |   |     |   |||    ||  |      ||   |        | ||  ||||| |    | || |  |  ||    |||     ||       |   |    |   |        |   |   |    |  | |  |||         
+Spanish_Flu 875: TT---G---G-G-----AAA-C--C---C-----G---GAA----TG--C------GA---T--------T-TA--CTGCT-C----A-CA-G--C--GA----GCT-----CA-------T---G----G---T--------C---C---T----A--T-A--TTG-------- 
+
+COVID-19    1050: ATTTGACACCTTCAATGGGGAATGTCCAAATTTTGTATTTCCCTTAAATTCCATAATCAAGACTATTCAACCAAGGGTTGAAAAGAAAAAGCTTGATGGCTTTATGGGTAGAATTCGATCTGTCTATCCAGTTGCGTCACCAAATGAATGCAACCAAATGTGCCTTTCAACTCTC 
+                   |   |          |   ||     |            |    |  | |         ||  |  |         |             |   | |     | |   | | |  |    |   |   |    |   |     ||  |         |         | | | | 
+Spanish_Flu 1050: -T---A----------G---AA-----A------------C----A--T-C---------GA--A--C---------T-------------C---A-G-----A-G---A-A-T--G----G---A---A----C---A-----TG--T---------T---------A-C-C-C 
+
+COVID-19    1225: ATGAAGTGTGATCATTGTGGTGAAACTTCATGGCAGACGGGCGATTTTGTTAAAGCCACTTGCGAATTTTGTGGCACTGAGAATTTGACTAAAGAAGGTGCCACTACTTGTGGTTACTTACCCCAAAATGCTGTTGTTAAAATTTATTGTCCAGCATGTCACAATTCAGAAGTAG 
+                  | |  |    |     |     |   ||  |  ||         |          |     |  |         |  | |   |  ||  |  |||    |   |    |     |             |  |  |  |         | | |  || |         || |    
+Spanish_Flu 1225: A-G--G----A-----G-----A---TT--T--CA---------T----------C-----G--A---------C--T-A---T--GA--A--GAA----C---T----G-----A-------------G--G--G--A---------G-C-A--AT-T---------GA-G--- 
+
+COVID-19    1400: GACCTGAGCATAGTCTTGCCGAATACCATAATGAATCTGGCTTGAAAACCATTCTTCGTAAGGGTGGTCGCACTATTGCCTTTGGAGGCTGTGTGTTCTCTTATGTTGGTTGCCATAACAAGTGTGCCTATTGGGTTCCACGTGCTAGCGCTAACATAGGTTGTAACCATACAGG 
+                    | |   ||  ||   |     | | ||       | |  ||        |     | ||          |  |          |   | |     |      |         | ||    |      |||   | || |     |     |     |     | | | |  |  
+Spanish_Flu 1400: --C-T---CA--GT---G-----T-C-AT-------C-G--TT--------T-----G-AA----------A--A----------A---T-T-----C------G---------A-AA----T------ATT---T-CC-C-----A-----A-----G-----A-C-A-A--G- 
+
+COVID-19    1575: TGTTGTTGGAGAAGGTTCCGAAGGTCTTAATGACAACCTTCTTGAAATACTCCAAAAAGAGAAAGTCAACATCAATATTGTTGGTGACTTTAAACTTAATGAAGAGATCGCCATTATTTTGGCATCTTTTTCTGCTTCCACAAGTGCTTTTGTGGAAACTGTGAAAGGTTTGGAT 
+                                   |      ||     |      |    |              |       |  |  ||||           |   |   |    ||| |   |   |  |      |  |             | ||| | |   ||  || | | |             
+Spanish_Flu 1575: -----------------C------TC-----G------T----G--------------G-------C--C--CAAT-----------C---A---T----GAA-A---C---A--A------C--C-------------A-AAG-G-T---GT--AA-C-G-G------------ 
+
+COVID-19    1750: TATAAAGCATTCAAACAAATTGTTGAATCCTGTGGTAATTTTAAAGTTACAAAAGGAAAAGCTAAAAAAGGTGCCTGGAATATTGGTGAACAGAAATCAATACTGAGTCCTCTTTATGCATTTGCATCAGAGGCTGCTCGTGTTGTACGATCAATTTTCTCCCGCACTCTTGAAA 
+                         ||            |      |       | |      |   |            |          |||  | |   |     | |           | |        | |||     |   |   |            | | |   ||||       ||     |   
+Spanish_Flu 1750: -------CA------------G------C-------A-T------G---C------------T----------CCT--A-T---G-----C-G-----------G-G--------A-GCA-----A---G---C------------A-G-T---TTTT-------AC-----A-- 
+
+COVID-19    1925: CTGCTCAAAATTCTGTGCGTGTTTTACAGAAGGCCGCTATAACAATACTAGATGGAATTTCACAGTATTCACTGAGACTCATTGATGCTATGATGTTCACATCTGATTTGGCTACTAACAATCTAGTTGTAATGGCCTACATTACAGGTGGTGTTGTTCAGTTGACTTCGCAGTG 
+                    |   ||| || ||  | |||      |  | |   |            ||        || |  |      || |      |  |    ||     |     |      || | |    |  |          ||  ||  | ||           |  || |    |||    
+Spanish_Flu 1925: --G---AAA-TT-TG--C-TGT------G--G-C---T------------GA--------CA-A--A------GA-A------G--G----GA-----A-----G------CT-C-A----T--A----------CC--CA--A-AG-----------C--TT-A----GCA--- 
+
+COVID-19    2100: GCTAACTAACATCTTTGGCACTGTTTATGAAAAACTCAAACCCGTCCTTGATTGGCTTGAAGAGAAGTTTAAGGAAGGTGTAGAGTTTCTTAGAGACGGTTGGGAAATTGTTAAATTTATCTCAACCTGTGCTTGTGAAATTGTCGGTGGACAAATTGTCACCTGTGCAAAGGAA 
+                     |            |    |            | |       |     || |  | |||                           |  | |     |    |||  |                  | |      |||  |       | |    ||| | | ||         
+Spanish_Flu 2100: ---A------------G----T------------C-C-------T-----AT-G--T-GAA---------------------------C--A-A-----T----AAA--G------------------G-G------AAA--G-------A-A----GTC-C-T-TG-------- 
+
+COVID-19    2275: ATTAAGGAGAGTGTTCAGACATTCTTTAAGCTTGTAAATAAATTTTTGGCTTTGTGTGCTGACTCTATCATTATTGGTGGAGCTAAACTTAAAGCCTTGAATTTAGGTGAAACATTTGTCACGCACTCAAAGGGATTGTACAGAAAGTGTGTTAAATCCAGAGAAGAAACTGGCC 
+                   | |           |     |     |   | |             ||    ||||  |  |   |||||           |    |     ||||  |            |      |  |        |   |   ||      ||    |  || | |       |      
+Spanish_Flu 2275: -T-A-----------C-----T-----A---T-G-------------GG----GTGT--T--C---ATCAT-----------C----C-----GCCT--A------------C------C--G--------G---T---AC------TG----A--TC-A-A-------C----- 
+
+COVID-19    2450: TACTCATGCCTCTAAAAGCCCCAAAAGAAATTATCTTCTTAGAGGGAGAAACACTTCCCACAGAAGTGTTAACAGAGGAAGTTGTCTTGAAAACTGGTGATTTACAACCATTAGAACAACCTACTAGTGAAGCTGTTGAAGCTCCATTGGTTGGTACACCAGTTTGTATTAACGG 
+                   |     |     |   |            |   || || |             | |  |  ||| ||    ||||     | | ||| |    || |      |     |     |    |    || | |  |  |    || ||         ||  |      |  |     
+Spanish_Flu 2450: -A-----G-----A---G------------T---CT-CT-A-------------T-C--A--GAA-TG----CAGA-----T-G-CTT-A----TG-T------C-----T-----C----T----GT-A-G--G--G----TC-AT---------CA--A------A--A---- 
+
+COVID-19    2625: GCTTATGTTGCTCGAAATCAAAGACACAGAAAAGTACTGTGCCCTTGCACCTAATATGATGGTAACAAACAATACCTTCACACTCAAAGGCGGTGCACCAACAAAGGTTACTTTTGGTGATGACACTGTGATAGAAGTGCAAGGTTACAAGAGTGTGAATATCACTTTTGAACTT 
+                    | ||        ||  ||  |     ||   | | | | |      |||              |   |                  ||      |  ||      | |     |       ||  |           |  |   |   ||          | |       |   
+Spanish_Flu 2625: --T-AT--------AA--CA--G-----GA---G-A-T-T-C------ACC--------------C---C------------------GG------A--AA------T-A-----G-------CA--G-----------C--G---A---GA----------C-C-------C-- 
+
+COVID-19    2800: GATGAAAGGATTGATAAAGTACTTAATGAGAAGTGCTCTGCCTATACAGTTGAACTCGGTACAGAAGTAAATGAGTTCGCCTGTGTTGTGGCAGATGCTGTCATAAAAACTTTGCAACCAGTATCTGAATTACTTACACCACTGGGCATTGATTTAGATGAGTGGAGTATGGCTA 
+                   |  || |  |  | |  | |      ||    | |       | |  |     || ||    || |     || |  |             | |  ||   ||      |    | |   |    |                |   |                        | | 
+Spanish_Flu 2800: -A--AA-G--T--A-A--G-A------GA----T-C-------A-A--G-----CT-GG----GA-G-----GA-T--G-------------A-A--CT---AT------T----A-C---T----G----------------G---A------------------------C-A 
+
+COVID-19    2975: CATACTACTTATTTGATGAGTCTGGTGAGTTTAAATTGGCTTCACATATGTATTGTTCTTTCTACCCTCCAGATGAGGATGAAGAAGAAGGTGATTGTGAAGAAGAAGAGTTTGAGCCATCAACTCAATATGAGTATGGTACTGAAGATGATTACCAAGGTAAACCTTTGGAATT 
+                    |  |||| |   ||  |  |                 |  |      |    |        |       ||                                           | | ||| | ||             |  |   |  ||     |  |       ||     
+Spanish_Flu 2975: --T--TACT-A---GA--A--C-----------------C--C------G----G--------A-------GA-------------------------------------------C-A-CAA-T-AA-------------C--A---T--TT-----G--A-------GG---- 
+
+COVID-19    3150: TGGTGCCACTTCTGCTGCTCTTCAACCTGAAGAAGAGCAAGAAGAAGATTGGTTAGATGATGATAGTCAACAAACTGTTGGTCAACAAGACGGCAGTGAGGACAATCAGACAACTACTATTCAAACAATTGTTGAGGTTCAACCTCAATTAGAGATGGAACTTACACCAGTTGTT 
+                       | |               | | ||  ||| |            |                  |       |       ||           | ||  ||  |   ||  |               |  |   |  |   |      |        |||       |     
+Spanish_Flu 3150: -----C-A---------------A-C-TG--GAA-A------------T------------------C-------T-------AA-----------T-AG--CA--C---CA--T---------------G--G---T--A---T------G--------CTT-------T---- 
+
+COVID-19    3325: CAGACTATTGAAGTGAATAGTTTTAGTGGTTATTTAAAACTTACTGACAATGTATACATTAAAAATGCAGACATTGTGGAAGAAGCTAAAAAGGTAAAACCAACAGTGGTTGTTAATGCAGCCAATGTTTACCTTAAACATGGAGGAGGTGTTGCAGGAGCCTTAAATAAGGCTA 
+                  | | | |                                ||    || | |  |            | ||     ||         |            |      |||     | | |  |    |              |       |     |      |         | | 
+Spanish_Flu 3325: C-G-C-A--------------------------------CT----GA-A-T--A------------G-AG-----GT---------T------------C------TGG-----A-T-C--C----G--------------G-------T-----A------T---------C-A 
+
+COVID-19    3500: CTAACAATGCCATGCAAGTTGAATCTGATGATTACATAGCTACTAATGGACCACTTAAAGTGGGTGGTAGTTGTGTTTTAAGCGGACACAATCTTGCTAAACACTGTCTTCATGTTGTCGGCCCAAATGTTAACAAAGGTGAAGACATTCAACTTCTTAAGAGTGCTTATGAAAA 
+                   |  ||   |  |     |     |  | ||   |   || ||       | |      |||                    |  |     |   |  |     | |      ||         ||       ||          |              ||      | |     
+Spanish_Flu 3500: -T--CA---C--T-----T-----C--A-GA---C---GC-AC-------C-A------GTG--------------------C--A-----T---G--A-----T-T------GT---------AA-------CA----------C--------------GA------A-G---- 
+
+COVID-19    3675: TTTTAATCAGCACGAAGTTCTACTTGCACCATTATTATCAGCTGGTATTTTTGGTGCTGACCCTATACATTCTTTAAGAGTTTGTGTAGATACTGTTCGCACAAATGTCTACTTAGCTGTCTTTGATAAAAATCTCTATGACAAACTTGTTTCAAGCTTTTTGGAAATGAAGAGT 
+                  |        |       | | |     |  |       || |              |   ||  ||           | ||  |        ||      |    |    |   |          |       |   | | ||     ||  |    |                  
+Spanish_Flu 3675: T--------G-------T-C-A-----A--A-------CA-C--------------C---CC--AT-----------G-GT--G--------CT------A----T----A---A----------A-------C---A-G-CA-----GT--C----T----------------- 
+
+COVID-19    3850: GAAAAGCAAGTTGAACAAAAGATCGCTGAGATTCCTAAAGAGGAAGTTAAGCCATTTATAACTGAAAGTAAACCTTCAGTTGAACAGAGAAAACAAGATGATAAGAAAATCAAAGCTTGTGTTGAAGAAGTTACAACAACTCTGGAAGAAACTAAGTTCCTCACAGAAAACTTGT 
+                        |        |       |  |    |||| |  ||  |  | |     |  |   |  |   |   ||   |||    ||       |||  | |   |         |         | || ||            |       |      ||  | | ||   |    
+Spanish_Flu 3850: ------C--------C-------C--T----TTCC-A--GA--A--T-A-----T--A---C--A---T---CC---AGT----CA-------CAA--T-A---G---------G---------A-GA-GT------------G-------C------CC--A-A-AA---T--- 
+
+COVID-19    4025: TACTTTATATTGACATTAATGGCAATCTTCATCCAGATTCTGCCACTCTTGTTAGTGACATTGACATCACTTTCTTAAAGAAAGATGCTCCATATATAGTGGGTGATGTTGTTCAAGAGGGTGTTTTAACTGCTGTGGTTATACCTACTAAAAAGGCTGGTGGCACTACTGAAAT 
+                   ||        |   |      ||           |     |  |     || |    |     ||  |       |        |  |         |      | |  |   |      ||        |||      |  |  |       ||        ||||   |    
+Spanish_Flu 4025: -AC--------G---T------CA-----------G-----G--A-----GT-A----C-----CA--A-------A--------T--T---------G------A-G--G---A------TG--------GCT------A--C--A-------GG--------ACTA---A--- 
+
+COVID-19    4200: GCTAGCGAAAGCTTTGAGAAAAGTGCCAACAGACAATTATATAACCACTTACCCGGGTCAGGGTTTAAATGGTTACACTGTAGAGGAGGCAAAGACAGTGCTTAAAAAGTGTAAAAGTGCCTTTTACATTCTACCATCTATTATCTCTAATGAGAAGCAAGAAATTCTTGGAACT 
+                  |  |   ||  |    |      |            |       ||| |  |     | |   ||          ||    |                | |                  |     |                         | |  |   |   | ||   |  | 
+Spanish_Flu 4200: G--A---AA--C----A------T------------T-------CCA-T--C-----T-A---TT----------CA----A----------------T-C------------------C-----A-------------------------G-G--G---G---T-CT---A--T 
+
+COVID-19    4375: GTTTCTTGGAATTTGCGAGAAATGCTTGCACATGCAGAAGAAACACGCAAATTAATGCCTGTCTGTGTGGAAACTAAAGCCATAGTTTCAACTATACAGCGTAAATATAAGGGTATTAAAATACAAGAGGGTGTGGTTGATTATGGTGCTAGATTTTACTTTTACACCAGTAAAA 
+                   ||    |||    ||        |    |  |                  |    ||| |   || |      |       || ||           |   |       |||             | ||         ||   ||    |       ||         |      
+Spanish_Flu 4375: -TT----GGA----GC--------C----A--T------------------T----GCC-G---GT-T------T-------TA-TT-----------G---A-------GGG-------------G-GG---------AT---GG----A-------CT---------G----- 
+
+COVID-19    4550: CAACTGTAGCGTCACTTATCAACACACTTAACGATCTAAATGAAACTCTTGTTACAATGCCACTTGGCTATGTAACACATGGCTTAAATTTGGAAGAAGCTGCTCGGTATATGAGATCTCTCAAAGTGCCAGCTACAGTTTCTGTTTCTTCACCTGATGCTGTTACAGCGTATAA 
+                       | |     | |                |||  |   ||   |   |       |  | | || ||||        |  |||  |          |        ||       |    |   | | ||  | | |    |       |    |  |    |  | |      
+Spanish_Flu 4550: -----G-A-----A-T----------------GAT--A---GA---T---G-------G--A-T-GG-TATG--------G--TTA--T----------C--------AT-------C----A---T-C-AG--A-A-T----G-------A----A--C----A--G-G----- 
+
+COVID-19    4725: TGGTTATCTTACTTCTTCTTCTAAAACACCTGAAGAACATTTTATTGAAACCATCTCACTTGCTGGTTCCTATAAAGATTGGTCCTATTCTGGACAATCTACACAACTAGGTATAGAATTTCTTAAGAGAGGTGATAAAAGTGTATATTACACTAGTAATCCTACCACATTCCAC 
+                   |   |||  |                    |  |  | |   || |   | |        || ||     ||          |  |      | ||   | |      |           |  |                         ||| |  ||    |     |      
+Spanish_Flu 4725: -G---ATC--A--------------------G--G--C-T---AT-G---C-A--------GC-GG-----AT----------C--A------A-AA---A-A------G-----------C--A-------------------------CAC-A--AA----A-----T----- 
+
+COVID-19    4900: CTAGATGGTGAAGTTATCACCTTTGACAATCTTAAGACACTTCTTTCTTTGAGAGAAGTGAGGACTATTAAGGTGTTTACAACAGTAGACAACATTAACCTCCACACGCAAGTTGTGGACATGTCAATGACATATGGACAACAGTTTGGTCCAACTTATTTGGATGGAGCTGATG 
+                     |             | |     |   | |   |||            | | ||  |      ||            ||| |     |||               |   || |   | || ||  ||   | |  |      |     |          | | | |    |   
+Spanish_Flu 4900: ---G-------------C-C-----A---T-T---GAC------------G-G-GA--T------TA------------CAA-A-----CAA---------------G---GT-G---A-AT-TC--TG---T-T--A------T-----C----------G-A-G-A----A-- 
+
+COVID-19    5075: TTACTAAAATAAAACCTCATAATTCACATGAAGGTAAAACATTTTATGTTTTACCTAATGATGACACTCTACGTGTTGAGGCTTTTGAGTACTACCACACAACTGATCCTAGTTTTCTGGGTAGGTACATGTCAGCATTAAATCACACTAAAAAGTGGAAATACCCACAAGTTAA 
+                    |  |   |                   |||       ||            ||         ||    |  | |     |     |   | |          |  |  |||     |||||   | | |  |  |||    || || ||            |       |||  
+Spanish_Flu 5075: --A--A---T-------------------GAA-------CA------------CC---------CA----A--T-T-----C-----A---C-A----------G--C--AGT-----GGGTA---A-A-G--A--ATT----CA-AC-AA------------C-------TTA- 
+
+COVID-19    5250: TGGTTTAACTTCTATTAAATGGGCAGATAACAACTGTTATCTTGCCACTGCATTGTTAACACTCCAACAAATAGAGTTGAAGTTTAATCCACCTGCTCTACAAGATGCTTATTACAGAGCAAGGGCTGGTGAAGCTGCTAACTTTTGTGCACTTATCTTAGCCTACTGTAATAAG 
+                   |    ||     |      |   | |        |       |  | |  |  |  || |    |     |    || ||    | |  |        | || |     |     |         |       | |  |  |   |   | |       |      | | |    
+Spanish_Flu 5250: -G----AA-----A------G---A-A--------G-------G--A-T--A--G--AA-A----A-----T----TT-AA----A-T--A--------A-AA-A-----A-----G---------T-------C-G--A--T---G---A-T-------G------G-A-T--- 
+
+COVID-19    5425: ACAGTAGGTGAGTTAGGTGATGTTAGAGAAACAATGAGTTACTTGTTTCAACATGCCAATTTAGATTCTTGCAAAAGAGTCTTGAACGTGGTGTGTAAAACTTGTGGACAACAGCAGACAACCCTTAAGGGTGTAGAAGCTGTTATGTACATGGGCACACTTTCTTATGAACAAT 
+                      |   |                      |  || |  | |      |   |     ||  |      | |       |   |   |       |    |     | |              |   |          |    | | | ||        |       |     | 
+Spanish_Flu 5425: ----T---T----------------------C--TG-G--A-T------A---T-----TT--G------G-A-------C---A---T-------A----T-----A-A--------------T---G----------C----A-G-A-AT--------T-------G-----T 
+
+COVID-19    5600: TTAAGAAAGGTGTTCAGATACCTTGTACGTGTGGTAAACAAGCTACAAAATATCTAGTACAACAGGAGTCACCTTTTGTTATGATGTCAGCACCACCTGCTCAGTATGAACTTAAGCATGGTACATTTACTTGTGCTAGTGAGTACACTGGTAATTACCAGTGTGGTCACTATAA 
+                  | | |     | | |   ||| | |   |      ||| |   |            | | ||  | |   |||              |         ||    | ||    ||   |      |||      |    |       |  |        | |        |  ||   
+Spanish_Flu 5600: T-A-G-----T-T-C---TAC-T-G---G------AAA-A---T------------G-A-AA--G-A---ACC--------------C---------TG----G-AT----TT---C------CAT------G----A-------C--T--------C-A--------A--AT-- 
+
+COVID-19    5775: ACATATAACTTCTAAAGAAACTTTGTATTGCATAGACGGTGCTTTACTTACAAAGTCCTCAGAATACAAAGGTCCTATTACGGATGTTTTCTACAAAGAAAACAGTTACACAACAACCATAAAACCAGTTACTTATAAATTGGATGGTGTTGTTTGTACAGAAATTGACCCTAAG 
+                                  |    |    |    |  |  |       |   |     || |  |  ||      |        | | |      | || |       | | | || |            |   |                          || |  || |    ||| 
+Spanish_Flu 5775: ----------------G----T----A----A--G--G-------A---A-----TC-T--G--TA------T--------G-A-G------A-AA-G-------T-A-A-AA-A------------G---C--------------------------CA-A--TT-A----AAG 
+
+COVID-19    5950: TTGGACAATTATTATAAGAAAGACAATTCTTATTTCACAGAGCAACCAATTGATCTTGTACCAAACCAACCATATCCAAACGCAAGCTTCGATAATTTTAAGTTTGTATGTGATAATATCAAATTTGCTGATGATTTAAACCAGTTAACTGGTTATAAGAAACCTGCTTCAAGAG 
+                      | | | |  ||  |     |    |  |    |  | | ||  | |    |  |                       | ||      ||        |   | ||||  |  | |       |   | | ||    |   | | |             |       |     
+Spanish_Flu 5950: ----A-A-T-A--AT--G-----C----C--A----A--G-G-AA--A-T----C--G-----------------------G-AA------AT--------G---G-ATGT--T--T-T-------G---A-G-TT----C---T-A-C-------------C-------A---- 
+
+COVID-19    6125: AGCTTAAAGTTACATTTTTCCCTGACTTAAATGGTGATGTGGTGGCTATTGATTATAAACACTACACACCCTCTTTTAAGAAAGGAGCTAAATTGTTACATAAACCTATTGTTTGGCATGTTAACAATGCAACTAATAAAGCCACGTATAAACCAAATACCTGGTGTATACGTTG 
+                    |  || ||             |  |     |   |        |    |||                          |       | |  | |   |||         |   |  |    ||    |    |      |     || |            |    | |      
+Spanish_Flu 6125: --C--AA-GT-------------G--T-----G---A--------C----GAT--------------------------G-------C-A--T-G---CAT---------G---G--A----AA----G----T------G-----TA-A------------G----A-A----- 
+
+COVID-19    6300: TCTTTGGAGCACAAAACCAGTTGAAACATCAAATTCGTTTGATGTACTGAAGTCAGAGGACGCGCAGGGAATGGATAATCTTGCCTGCGAAGATCTAAAACCAGTCTCTGAAGAAGTAGTGGAAAATCCTACCATACAGAAAGACGTTCTTGAGTGTAATGTGAAAACTACCGAA 
+                         |            | |             |   ||    ||    | |                || ||  |          |    |     |||       || |  || |      ||  |       ||| ||        | |            | |   || 
+Spanish_Flu 6300: -------A------------T-G-------------G---GA----CT----T-A----------------TG-AT--T----------A----C-----CCA-------AA-A--TA-T------TC--A-------GAA-GA--------A-T------------C-A---AA 
+
+COVID-19    6475: GTTGTAGGAGACATTATACTTAAACCAGCAAATAATAGTTTAAAAATTACAGAAGAGGTTGGCCACACAGATCTAATGGCTGCTTATGTAGACAATTCTAGTCTTACTATTAAGAAACCTAATGAATTATCTAGAGTATTAGGTTTGAAAACCCTTGCTACTCATGGTTTAGCTG 
+                  |||| |  |  ||              | |       |   ||        ||| |  |     |    |||     ||      | || || ||||  ||    |  ||       |  ||||         | |     |||       |  |    | ||| |    |  |  
+Spanish_Flu 6475: GTTG-A--A--CA--------------G-A-------G---AA--------GAA-A--T-----A----GAT-----GG------A-GT-GA-AATT--AG----A--AT-------C--AATG---------G-G-----GGT-------C--T----A-TCA-G----A--T- 
+
+COVID-19    6650: CTGTTAATAGTGTCCCTTGGGATACTATAGCTAATTATGCTAAGCCTTTTCTTAACAAAGTTGTTAGTACAACTACTAACATAGTTACACGGTGTTTAAACCGTGTTTGTACTAATTATATGCCTTATTTCTTTACTTTATTGCTACAATTGTGTACTTTTACTAGAAGTACAAA 
+                   |           |  | ||    |    |  | |    |||  | |   |  |||    | ||     |             |   | |       |    || |     | |        | | |               | |      |    ||       |   |      
+Spanish_Flu 6650: -T-----------C--T-GG----C----G--A-T----CTA--C-T---C--AAC----T-GT-----C-------------G---C-C-------A----GT-T-----C-A--------C-T-A---------------G-T------G----CT-------G---T----- 
+
+COVID-19    6825: TTCTAGAATTAAAGCATCTATGCCGACTACTATAGCAAAGAATACTGTTAAGAGTGTCGGTAAATTTTGTCTAGAGGCTTCATTTAATTATTTGAAGTCACCTAATTTTTCTAAACTGATAAATATTATAATTTGGTTTTTACTATTAAGTGTTTGCCTAGGTTCTTTAATCTAC 
+                  |   ||  |     | ||    ||   |      |    |      |    | |   |   || |     | ||   |||| |          |  |  |  |              | |              | ||    |||  |  ||   |    | | ||||        
+Spanish_Flu 6825: T---AG--T-----C-TC----CC---T------G----G------G----G-G---C---AA-T-----C-AG---CTTC-T----------G--G--A--T--------------G-T--------------G-TT----CTA--A--TG---G----G-T-CTTT------- 
+
+COVID-19    7000: TCAACCGCTGCTTTAGGTGTTTTAATGTCTAATTTAGGCATGCCTTCTTACTGTACTGGTTACAGAGAAGGCTATTTGAACTCTACTAATGTCACTATTGCAACCTACTGTACTGGTTCTATACCTTGTAGTGTTTGTCTTAGTGGTTTAGATTCTTTAGACACCTATCCTTCTT 
+                        ||      || ||         | |     |  |         | |  | ||    ||        | || ||                                                                                                 
+Spanish_Flu 7000: ------GC------AG-TG---------C-A-----G--A---------A-T--A-TG----CA--------T-TT-GA------------------------------------------------------------------------------------------------ 
+
+COVID-19    7175: TAGAAACTATACAAATTACCATTTCATCTTTTAAATGGGATTTAACTGCTTTTGGCTTAGTTGCAGAGTGGTTTTTGGCATATATTCTTTTCACTAGGTTTTTCTATGTACTTGGATTGGCTGCAATCATGCAATTGTTTTTCAGCTATTTTGCAGTACATTTTATTAGTAATTC 
+                                                                                                                                                                                                  
+Spanish_Flu 7175: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    7350: TTGGCTTATGTGGTTAATAATTAATCTTGTACAAATGGCCCCGATTTCAGCTATGGTTAGAATGTACATCTTCTTTGCATCATTTTATTATGTATGGAAAAGTTATGTGCATGTTGTAGACGGTTGTAATTCATCAACTTGTATGATGTGTTACAAACGTAATAGAGCAACAAGA 
+                                                                                                                                                                                                  
+Spanish_Flu 7350: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    7525: GTCGAATGTACAACTATTGTTAATGGTGTTAGAAGGTCCTTTTATGTCTATGCTAATGGAGGTAAAGGCTTTTGCAAACTACACAATTGGAATTGTGTTAATTGTGATACATTCTGTGCTGGTAGTACATTTATTAGTGATGAAGTTGCGAGAGACTTGTCACTACAGTTTAAAA 
+                                                                                                                                                                                                  
+Spanish_Flu 7525: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    7700: GACCAATAAATCCTACTGACCAGTCTTCTTACATCGTTGATAGTGTTACAGTGAAGAATGGTTCCATCCATCTTTACTTTGATAAAGCTGGTCAAAAGACTTATGAAAGACATTCTCTCTCTCATTTTGTTAACTTAGACAACCTGAGAGCTAATAACACTAAAGGTTCATTGCC 
+                                                                                                                                                                                                  
+Spanish_Flu 7700: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    7875: TATTAATGTTATAGTTTTTGATGGTAAATCAAAATGTGAAGAATCATCTGCAAAATCAGCGTCTGTTTACTACAGTCAGCTTATGTGTCAACCTATACTGTTACTAGATCAGGCATTAGTGTCTGATGTTGGTGATAGTGCGGAAGTTGCAGTTAAAATGTTTGATGCTTACGTT 
+                                                                                                                                                                                                  
+Spanish_Flu 7875: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8050: AATACGTTTTCATCAACTTTTAACGTACCAATGGAAAAACTCAAAACACTAGTTGCAACTGCAGAAGCTGAACTTGCAAAGAATGTGTCCTTAGACAATGTCTTATCTACTTTTATTTCAGCAGCTCGGCAAGGGTTTGTTGATTCAGATGTAGAAACTAAAGATGTTGTTGAAT 
+                                                                                                                                                                                                  
+Spanish_Flu 8050: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8225: GTCTTAAATTGTCACATCAATCTGACATAGAAGTTACTGGCGATAGTTGTAATAACTATATGCTCACCTATAACAAAGTTGAAAACATGACACCCCGTGACCTTGGTGCTTGTATTGACTGTAGTGCGCGTCATATTAATGCGCAGGTAGCAAAAAGTCACAACATTGCTTTGAT 
+                                                                                                                                                                                                  
+Spanish_Flu 8225: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8400: ATGGAACGTTAAAGATTTCATGTCATTGTCTGAACAACTACGAAAACAAATACGTAGTGCTGCTAAAAAGAATAACTTACCTTTTAAGTTGACATGTGCAACTACTAGACAAGTTGTTAATGTTGTAACAACAAAGATAGCACTTAAGGGTGGTAAAATTGTTAATAATTGGTTG 
+                                                                                                                                                                                                  
+Spanish_Flu 8400: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8575: AAGCAGTTAATTAAAGTTACACTTGTGTTCCTTTTTGTTGCTGCTATTTTCTATTTAATAACACCTGTTCATGTCATGTCTAAACATACTGACTTTTCAAGTGAAATCATAGGATACAAGGCTATTGATGGTGGTGTCACTCGTGACATAGCATCTACAGATACTTGTTTTGCTA 
+                                                                                                                                                                                                  
+Spanish_Flu 8575: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8750: ACAAACATGCTGATTTTGACACATGGTTTAGCCAGCGTGGTGGTAGTTATACTAATGACAAAGCTTGCCCATTGATTGCTGCAGTCATAACAAGAGAAGTGGGTTTTGTCGTGCCTGGTTTGCCTGGCACGATATTACGCACAACTAATGGTGACTTTTTGCATTTCTTACCTAG 
+                                                                                                                                                                                                  
+Spanish_Flu 8750: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    8925: AGTTTTTAGTGCAGTTGGTAACATCTGTTACACACCATCAAAACTTATAGAGTACACTGACTTTGCAACATCAGCTTGTGTTTTGGCTGCTGAATGTACAATTTTTAAAGATGCTTCTGGTAAGCCAGTACCATATTGTTATGATACCAATGTACTAGAAGGTTCTGTTGCTTAT 
+                                                                                                                                                                                                  
+Spanish_Flu 8925: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9100: GAAAGTTTACGCCCTGACACACGTTATGTGCTCATGGATGGCTCTATTATTCAATTTCCTAACACCTACCTTGAAGGTTCTGTTAGAGTGGTAACAACTTTTGATTCTGAGTACTGTAGGCACGGCACTTGTGAAAGATCAGAAGCTGGTGTTTGTGTATCTACTAGTGGTAGAT 
+                                                                                                                                                                                                  
+Spanish_Flu 9100: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9275: GGGTACTTAACAATGATTATTACAGATCTTTACCAGGAGTTTTCTGTGGTGTAGATGCTGTAAATTTACTTACTAATATGTTTACACCACTAATTCAACCTATTGGTGCTTTGGACATATCAGCATCTATAGTAGCTGGTGGTATTGTAGCTATCGTAGTAACATGCCTTGCCTA 
+                                                                                                                                                                                                  
+Spanish_Flu 9275: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9450: CTATTTTATGAGGTTTAGAAGAGCTTTTGGTGAATACAGTCATGTAGTTGCCTTTAATACTTTACTATTCCTTATGTCATTCACTGTACTCTGTTTAACACCAGTTTACTCATTCTTACCTGGTGTTTATTCTGTTATTTACTTGTACTTGACATTTTATCTTACTAATGATGTT 
+                                                                                                                                                                                                  
+Spanish_Flu 9450: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9625: TCTTTTTTAGCACATATTCAGTGGATGGTTATGTTCACACCTTTAGTACCTTTCTGGATAACAATTGCTTATATCATTTGTATTTCCACAAAGCATTTCTATTGGTTCTTTAGTAATTACCTAAAGAGACGTGTAGTCTTTAATGGTGTTTCCTTTAGTACTTTTGAAGAAGCTG 
+                                                                                                                                                                                                  
+Spanish_Flu 9625: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9800: CGCTGTGCACCTTTTTGTTAAATAAAGAAATGTATCTAAAGTTGCGTAGTGATGTGCTATTACCTCTTACGCAATATAATAGATACTTAGCTCTTTATAATAAGTACAAGTATTTTAGTGGAGCAATGGATACAACTAGCTACAGAGAAGCTGCTTGTTGTCATCTCGCAAAGGC 
+                                                                                                                                                                                                  
+Spanish_Flu 9800: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    9975: TCTCAATGACTTCAGTAACTCAGGTTCTGATGTTCTTTACCAACCACCACAAACCTCTATCACCTCAGCTGTTTTGCAGAGTGGTTTTAGAAAAATGGCATTCCCATCTGGTAAAGTTGAGGGTTGTATGGTACAAGTAACTTGTGGTACAACTACACTTAACGGTCTTTGGCTT 
+                                                                                                                                                                                                  
+Spanish_Flu 9975: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    10150: GATGACGTAGTTTACTGTCCAAGACATGTGATCTGCACCTCTGAAGACATGCTTAACCCTAATTATGAAGATTTACTCATTCGTAAGTCTAATCATAATTTCTTGGTACAGGCTGGTAATGTTCAACTCAGGGTTATTGGACATTCTATGCAAAATTGTGTACTTAAGCTTAAGG 
+                                                                                                                                                                                                   
+Spanish_Flu 10150: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    10325: TTGATACAGCCAATCCTAAGACACCTAAGTATAAGTTTGTTCGCATTCAACCAGGACAGACTTTTTCAGTGTTAGCTTGTTACAATGGTTCACCATCTGGTGTTTACCAATGTGCTATGAGGCCCAATTTCACTATTAAGGGTTCATTCCTTAATGGTTCATGTGGTAGTGTTGG 
+                                                                                                                                                                                                   
+Spanish_Flu 10325: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    10500: TTTTAACATAGATTATGACTGTGTCTCTTTTTGTTACATGCACCATATGGAATTACCAACTGGAGTTCATGCTGGCACAGACTTAGAAGGTAACTTTTATGGACCTTTTGTTGACAGGCAAACAGCACAAGCAGCTGGTACGGACACAACTATTACAGTTAATGTTTTAGCTTGG 
+                                                                                                                                                                                                   
+Spanish_Flu 10500: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    10675: TTGTACGCTGCTGTTATAAATGGAGACAGGTGGTTTCTCAATCGATTTACCACAACTCTTAATGACTTTAACCTTGTGGCTATGAAGTACAATTATGAACCTCTAACACAAGACCATGTTGACATACTAGGACCTCTTTCTGCTCAAACTGGAATTGCCGTTTTAGATATGTGTG 
+                                                                                                                                                                                                   
+Spanish_Flu 10675: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    10850: CTTCATTAAAAGAATTACTGCAAAATGGTATGAATGGACGTACCATATTGGGTAGTGCTTTATTAGAAGATGAATTTACACCTTTTGATGTTGTTAGACAATGCTCAGGTGTTACTTTCCAAAGTGCAGTGAAAAGAACAATCAAGGGTACACACCACTGGTTGTTACTCACAAT 
+                                                                                                                                                                                                   
+Spanish_Flu 10850: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11025: TTTGACTTCACTTTTAGTTTTAGTCCAGAGTACTCAATGGTCTTTGTTCTTTTTTTTGTATGAAAATGCCTTTTTACCTTTTGCTATGGGTATTATTGCTATGTCTGCTTTTGCAATGATGTTTGTCAAACATAAGCATGCATTTCTCTGTTTGTTTTTGTTACCTTCTCTTGCC 
+                                                                                                                                                                                                   
+Spanish_Flu 11025: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11200: ACTGTAGCTTATTTTAATATGGTCTATATGCCTGCTAGTTGGGTGATGCGTATTATGACATGGTTGGATATGGTTGATACTAGTTTGTCTGGTTTTAAGCTAAAAGACTGTGTTATGTATGCATCAGCTGTAGTGTTACTAATCCTTATGACAGCAAGAACTGTGTATGATGATG 
+                                                                                                                                                                                                   
+Spanish_Flu 11200: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11375: GTGCTAGGAGAGTGTGGACACTTATGAATGTCTTGACACTCGTTTATAAAGTTTATTATGGTAATGCTTTAGATCAAGCCATTTCCATGTGGGCTCTTATAATCTCTGTTACTTCTAACTACTCAGGTGTAGTTACAACTGTCATGTTTTTGGCCAGAGGTATTGTTTTTATGTG 
+                                                                                                                                                                                                   
+Spanish_Flu 11375: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11550: TGTTGAGTATTGCCCTATTTTCTTCATAACTGGTAATACACTTCAGTGTATAATGCTAGTTTATTGTTTCTTAGGCTATTTTTGTACTTGTTACTTTGGCCTCTTTTGTTTACTCAACCGCTACTTTAGACTGACTCTTGGTGTTTATGATTACTTAGTTTCTACACAGGAGTTT 
+                                                                                                                                                                                                   
+Spanish_Flu 11550: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11725: AGATATATGAATTCACAGGGACTACTCCCACCCAAGAATAGCATAGATGCCTTCAAACTCAACATTAAATTGTTGGGTGTTGGTGGCAAACCTTGTATCAAAGTAGCCACTGTACAGTCTAAAATGTCAGATGTAAAGTGCACATCAGTAGTCTTACTCTCAGTTTTGCAACAAC 
+                                                                                                                                                                                                   
+Spanish_Flu 11725: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    11900: TCAGAGTAGAATCATCATCTAAATTGTGGGCTCAATGTGTCCAGTTACACAATGACATTCTCTTAGCTAAAGATACTACTGAAGCCTTTGAAAAAATGGTTTCACTACTTTCTGTTTTGCTTTCCATGCAGGGTGCTGTAGACATAAACAAGCTTTGTGAAGAAATGCTGGACAA 
+                                                                                                                                                                                                   
+Spanish_Flu 11900: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12075: CAGGGCAACCTTACAAGCTATAGCCTCAGAGTTTAGTTCCCTTCCATCATATGCAGCTTTTGCTACTGCTCAAGAAGCTTATGAGCAGGCTGTTGCTAATGGTGATTCTGAAGTTGTTCTTAAAAAGTTGAAGAAGTCTTTGAATGTGGCTAAATCTGAATTTGACCGTGATGCA 
+                                                                                                                                                                                                   
+Spanish_Flu 12075: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12250: GCCATGCAACGTAAGTTGGAAAAGATGGCTGATCAAGCTATGACCCAAATGTATAAACAGGCTAGATCTGAGGACAAGAGGGCAAAAGTTACTAGTGCTATGCAGACAATGCTTTTCACTATGCTTAGAAAGTTGGATAATGATGCACTCAACAACATTATCAACAATGCAAGAG 
+                                                                                                                                                                                                   
+Spanish_Flu 12250: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12425: ATGGTTGTGTTCCCTTGAACATAATACCTCTTACAACAGCAGCCAAACTAATGGTTGTCATACCAGACTATAACACATATAAAAATACGTGTGATGGTACAACATTTACTTATGCATCAGCATTGTGGGAAATCCAACAGGTTGTAGATGCAGATAGTAAAATTGTTCAACTTAG 
+                                                                                                                                                                                                   
+Spanish_Flu 12425: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12600: TGAAATTAGTATGGACAATTCACCTAATTTAGCATGGCCTCTTATTGTAACAGCTTTAAGGGCCAATTCTGCTGTCAAATTACAGAATAATGAGCTTAGTCCTGTTGCACTACGACAGATGTCTTGTGCTGCCGGTACTACACAAACTGCTTGCACTGATGACAATGCGTTAGCT 
+                                                                                                                                                                                                   
+Spanish_Flu 12600: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12775: TACTACAACACAACAAAGGGAGGTAGGTTTGTACTTGCACTGTTATCCGATTTACAGGATTTGAAATGGGCTAGATTCCCTAAGAGTGATGGAACTGGTACTATCTATACAGAACTGGAACCACCTTGTAGGTTTGTTACAGACACACCTAAAGGTCCTAAAGTGAAGTATTTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 12775: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    12950: ACTTTATTAAAGGATTAAACAACCTAAATAGAGGTATGGTACTTGGTAGTTTAGCTGCCACAGTACGTCTACAAGCTGGTAATGCAACAGAAGTGCCTGCCAATTCAACTGTATTATCTTTCTGTGCTTTTGCTGTAGATGCTGCTAAAGCTTACAAAGATTATCTAGCTAGTGG 
+                                                                                                                                                                                                   
+Spanish_Flu 12950: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    13125: GGGACAACCAATCACTAATTGTGTTAAGATGTTGTGTACACACACTGGTACTGGTCAGGCAATAACAGTTACACCGGAAGCCAATATGGATCAAGAATCCTTTGGTGGTGCATCGTGTTGTCTGTACTGCCGTTGCCACATAGATCATCCAAATCCTAAAGGATTTTGTGACTTA 
+                                                                                                                                                                                                   
+Spanish_Flu 13125: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    13300: AAAGGTAAGTATGTACAAATACCTACAACTTGTGCTAATGACCCTGTGGGTTTTACACTTAAAAACACAGTCTGTACCGTCTGCGGTATGTGGAAAGGTTATGGCTGTAGTTGTGATCAACTCCGCGAACCCATGCTTCAGTCAGCTGATGCACAATCGTTTTTAAACGGGTTTG 
+                                                                                                                                                                                                   
+Spanish_Flu 13300: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    13475: CGGTGTAAGTGCAGCCCGTCTTACACCGTGCGGCACAGGCACTAGTACTGATGTCGTATACAGGGCTTTTGACATCTACAATGATAAAGTAGCTGGTTTTGCTAAATTCCTAAAAACTAATTGTTGTCGCTTCCAAGAAAAGGACGAAGATGACAATTTAATTGATTCTTACTTT 
+                                                                                                                                                                                                   
+Spanish_Flu 13475: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    13650: GTAGTTAAGAGACACACTTTCTCTAACTACCAACATGAAGAAACAATTTATAATTTACTTAAGGATTGTCCAGCTGTTGCTAAACATGACTTCTTTAAGTTTAGAATAGACGGTGACATGGTACCACATATATCACGTCAACGTCTTACTAAATACACAATGGCAGACCTCGTCT 
+                                                                                                                                                                                                   
+Spanish_Flu 13650: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    13825: ATGCTTTAAGGCATTTTGATGAAGGTAATTGTGACACATTAAAAGAAATACTTGTCACATACAATTGTTGTGATGATGATTATTTCAATAAAAAGGACTGGTATGATTTTGTAGAAAACCCAGATATATTACGCGTATACGCCAACTTAGGTGAACGTGTACGCCAAGCTTTGTT 
+                                                                                                                                                                                                   
+Spanish_Flu 13825: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14000: AAAAACAGTACAATTCTGTGATGCCATGCGAAATGCTGGTATTGTTGGTGTACTGACATTAGATAATCAAGATCTCAATGGTAACTGGTATGATTTCGGTGATTTCATACAAACCACGCCAGGTAGTGGAGTTCCTGTTGTAGATTCTTATTATTCATTGTTAATGCCTATATTA 
+                                                                                                                                                                                                   
+Spanish_Flu 14000: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14175: ACCTTGACCAGGGCTTTAACTGCAGAGTCACATGTTGACACTGACTTAACAAAGCCTTACATTAAGTGGGATTTGTTAAAATATGACTTCACGGAAGAGAGGTTAAAACTCTTTGACCGTTATTTTAAATATTGGGATCAGACATACCACCCAAATTGTGTTAACTGTTTGGATG 
+                                                                                                                                                                                                   
+Spanish_Flu 14175: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14350: ACAGATGCATTCTGCATTGTGCAAACTTTAATGTTTTATTCTCTACAGTGTTCCCACCTACAAGTTTTGGACCACTAGTGAGAAAAATATTTGTTGATGGTGTTCCATTTGTAGTTTCAACTGGATACCACTTCAGAGAGCTAGGTGTTGTACATAATCAGGATGTAAACTTACA 
+                                                                                                                                                                                                   
+Spanish_Flu 14350: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14525: TAGCTCTAGACTTAGTTTTAAGGAATTACTTGTGTATGCTGCTGACCCTGCTATGCACGCTGCTTCTGGTAATCTATTACTAGATAAACGCACTACGTGCTTTTCAGTAGCTGCACTTACTAACAATGTTGCTTTTCAAACTGTCAAACCCGGTAATTTTAACAAAGACTTCTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 14525: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14700: GACTTTGCTGTGTCTAAGGGTTTCTTTAAGGAAGGAAGTTCTGTTGAATTAAAACACTTCTTCTTTGCTCAGGATGGTAATGCTGCTATCAGCGATTATGACTACTATCGTTATAATCTACCAACAATGTGTGATATCAGACAACTACTATTTGTAGTTGAAGTTGTTGATAAGT 
+                                                                                                                                                                                                   
+Spanish_Flu 14700: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    14875: ACTTTGATTGTTACGATGGTGGCTGTATTAATGCTAACCAAGTCATCGTCAACAACCTAGACAAATCAGCTGGTTTTCCATTTAATAAATGGGGTAAGGCTAGACTTTATTATGATTCAATGAGTTATGAGGATCAAGATGCACTTTTCGCATATACAAAACGTAATGTCATCCC 
+                                                                                                                                                                                                   
+Spanish_Flu 14875: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15050: TACTATAACTCAAATGAATCTTAAGTATGCCATTAGTGCAAAGAATAGAGCTCGCACCGTAGCTGGTGTCTCTATCTGTAGTACTATGACCAATAGACAGTTTCATCAAAAATTATTGAAATCAATAGCCGCCACTAGAGGAGCTACTGTAGTAATTGGAACAAGCAAATTCTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 15050: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15225: GGTGGTTGGCACAACATGTTAAAAACTGTTTATAGTGATGTAGAAAACCCTCACCTTATGGGTTGGGATTATCCTAAATGTGATAGAGCCATGCCTAACATGCTTAGAATTATGGCCTCACTTGTTCTTGCTCGCAAACATACAACGTGTTGTAGCTTGTCACACCGTTTCTATA 
+                                                                                                                                                                                                   
+Spanish_Flu 15225: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15400: GATTAGCTAATGAGTGTGCTCAAGTATTGAGTGAAATGGTCATGTGTGGCGGTTCACTATATGTTAAACCAGGTGGAACCTCATCAGGAGATGCCACAACTGCTTATGCTAATAGTGTTTTTAACATTTGTCAAGCTGTCACGGCCAATGTTAATGCACTTTTATCTACTGATGG 
+                                                                                                                                                                                                   
+Spanish_Flu 15400: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15575: TAACAAAATTGCCGATAAGTATGTCCGCAATTTACAACACAGACTTTATGAGTGTCTCTATAGAAATAGAGATGTTGACACAGACTTTGTGAATGAGTTTTACGCATATTTGCGTAAACATTTCTCAATGATGATACTCTCTGACGATGCTGTTGTGTGTTTCAATAGCACTTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 15575: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15750: GCATCTCAAGGTCTAGTGGCTAGCATAAAGAACTTTAAGTCAGTTCTTTATTATCAAAACAATGTTTTTATGTCTGAAGCAAAATGTTGGACTGAGACTGACCTTACTAAAGGACCTCATGAATTTTGCTCTCAACATACAATGCTAGTTAAACAGGGTGATGATTATGTGTACC 
+                                                                                                                                                                                                   
+Spanish_Flu 15750: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    15925: TTCCTTACCCAGATCCATCAAGAATCCTAGGGGCCGGCTGTTTTGTAGATGATATCGTAAAAACAGATGGTACACTTATGATTGAACGGTTCGTGTCTTTAGCTATAGATGCTTACCCACTTACTAAACATCCTAATCAGGAGTATGCTGATGTCTTTCATTTGTACTTACAATA 
+                                                                                                                                                                                                   
+Spanish_Flu 15925: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16100: CATAAGAAAGCTACATGATGAGTTAACAGGACACATGTTAGACATGTATTCTGTTATGCTTACTAATGATAACACTTCAAGGTATTGGGAACCTGAGTTTTATGAGGCTATGTACACACCGCATACAGTCTTACAGGCTGTTGGGGCTTGTGTTCTTTGCAATTCACAGACTTCA 
+                                                                                                                                                                                                   
+Spanish_Flu 16100: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16275: TTAAGATGTGGTGCTTGCATACGTAGACCATTCTTATGTTGTAAATGCTGTTACGACCATGTCATATCAACATCACATAAATTAGTCTTGTCTGTTAATCCGTATGTTTGCAATGCTCCAGGTTGTGATGTCACAGATGTGACTCAACTTTACTTAGGAGGTATGAGCTATTATT 
+                                                                                                                                                                                                   
+Spanish_Flu 16275: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16450: GTAAATCACATAAACCACCCATTAGTTTTCCATTGTGTGCTAATGGACAAGTTTTTGGTTTATATAAAAATACATGTGTTGGTAGCGATAATGTTACTGACTTTAATGCAATTGCAACATGTGACTGGACAAATGCTGGTGATTACATTTTAGCTAACACCTGTACTGAAAGACT 
+                                                                                                                                                                                                   
+Spanish_Flu 16450: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16625: CAAGCTTTTTGCAGCAGAAACGCTCAAAGCTACTGAGGAGACATTTAAACTGTCTTATGGTATTGCTACTGTACGTGAAGTGCTGTCTGACAGAGAATTACATCTTTCATGGGAAGTTGGTAAACCTAGACCACCACTTAACCGAAATTATGTCTTTACTGGTTATCGTGTAACT 
+                                                                                                                                                                                                   
+Spanish_Flu 16625: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16800: AAAAACAGTAAAGTACAAATAGGAGAGTACACCTTTGAAAAAGGTGACTATGGTGATGCTGTTGTTTACCGAGGTACAACAACTTACAAATTAAATGTTGGTGATTATTTTGTGCTGACATCACATACAGTAATGCCATTAAGTGCACCTACACTAGTGCCACAAGAGCACTATG 
+                                                                                                                                                                                                   
+Spanish_Flu 16800: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    16975: TTAGAATTACTGGCTTATACCCAACACTCAATATCTCAGATGAGTTTTCTAGCAATGTTGCAAATTATCAAAAGGTTGGTATGCAAAAGTATTCTACACTCCAGGGACCACCTGGTACTGGTAAGAGTCATTTTGCTATTGGCCTAGCTCTCTACTACCCTTCTGCTCGCATAGT 
+                                                                                                                                                                                                   
+Spanish_Flu 16975: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    17150: GTATACAGCTTGCTCTCATGCCGCTGTTGATGCACTATGTGAGAAGGCATTAAAATATTTGCCTATAGATAAATGTAGTAGAATTATACCTGCACGTGCTCGTGTAGAGTGTTTTGATAAATTCAAAGTGAATTCAACATTAGAACAGTATGTCTTTTGTACTGTAAATGCATTG 
+                                                                                                                                                                                                   
+Spanish_Flu 17150: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    17325: CCTGAGACGACAGCAGATATAGTTGTCTTTGATGAAATTTCAATGGCCACAAATTATGATTTGAGTGTTGTCAATGCCAGATTACGTGCTAAGCACTATGTGTACATTGGCGACCCTGCTCAATTACCTGCACCACGCACATTGCTAACTAAGGGCACACTAGAACCAGAATATT 
+                                                                                                                                                                                                   
+Spanish_Flu 17325: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    17500: TCAATTCAGTGTGTAGACTTATGAAAACTATAGGTCCAGACATGTTCCTCGGAACTTGTCGGCGTTGTCCTGCTGAAATTGTTGACACTGTGAGTGCTTTGGTTTATGATAATAAGCTTAAAGCACATAAAGACAAATCAGCTCAATGCTTTAAAATGTTTTATAAGGGTGTTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 17500: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    17675: CACGCATGATGTTTCATCTGCAATTAACAGGCCACAAATAGGCGTGGTAAGAGAATTCCTTACACGTAACCCTGCTTGGAGAAAAGCTGTCTTTATTTCACCTTATAATTCACAGAATGCTGTAGCCTCAAAGATTTTGGGACTACCAACTCAAACTGTTGATTCATCACAGGGC 
+                                                                                                                                                                                                   
+Spanish_Flu 17675: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    17850: TCAGAATATGACTATGTCATATTCACTCAAACCACTGAAACAGCTCACTCTTGTAATGTAAACAGATTTAATGTTGCTATTACCAGAGCAAAAGTAGGCATACTTTGCATAATGTCTGATAGAGACCTTTATGACAAGTTGCAATTTACAAGTCTTGAAATTCCACGTAGGAATG 
+                                                                                                                                                                                                   
+Spanish_Flu 17850: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18025: TGGCAACTTTACAAGCTGAAAATGTAACAGGACTCTTTAAAGATTGTAGTAAGGTAATCACTGGGTTACATCCTACACAGGCACCTACACACCTCAGTGTTGACACTAAATTCAAAACTGAAGGTTTATGTGTTGACATACCTGGCATACCTAAGGACATGACCTATAGAAGACT 
+                                                                                                                                                                                                   
+Spanish_Flu 18025: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18200: CATCTCTATGATGGGTTTTAAAATGAATTATCAAGTTAATGGTTACCCTAACATGTTTATCACCCGCGAAGAAGCTATAAGACATGTACGTGCATGGATTGGCTTCGATGTCGAGGGGTGTCATGCTACTAGAGAAGCTGTTGGTACCAATTTACCTTTACAGCTAGGTTTTTCT 
+                                                                                                                                                                                                   
+Spanish_Flu 18200: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18375: ACAGGTGTTAACCTAGTTGCTGTACCTACAGGTTATGTTGATACACCTAATAATACAGATTTTTCCAGAGTTAGTGCTAAACCACCGCCTGGAGATCAATTTAAACACCTCATACCACTTATGTACAAAGGACTTCCTTGGAATGTAGTGCGTATAAAGATTGTACAAATGTTAA 
+                                                                                                                                                                                                   
+Spanish_Flu 18375: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18550: GTGACACACTTAAAAATCTCTCTGACAGAGTCGTATTTGTCTTATGGGCACATGGCTTTGAGTTGACATCTATGAAGTATTTTGTGAAAATAGGACCTGAGCGCACCTGTTGTCTATGTGATAGACGTGCCACATGCTTTTCCACTGCTTCAGACACTTATGCCTGTTGGCATCA 
+                                                                                                                                                                                                   
+Spanish_Flu 18550: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18725: TTCTATTGGATTTGATTACGTCTATAATCCGTTTATGATTGATGTTCAACAATGGGGTTTTACAGGTAACCTACAAAGCAACCATGATCTGTATTGTCAAGTCCATGGTAATGCACATGTAGCTAGTTGTGATGCAATCATGACTAGGTGTCTAGCTGTCCACGAGTGCTTTGTT 
+                                                                                                                                                                                                   
+Spanish_Flu 18725: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    18900: AAGCGTGTTGACTGGACTATTGAATATCCTATAATTGGTGATGAACTGAAGATTAATGCGGCTTGTAGAAAGGTTCAACACATGGTTGTTAAAGCTGCATTATTAGCAGACAAATTCCCAGTTCTTCACGACATTGGTAACCCTAAAGCTATTAAGTGTGTACCTCAAGCTGATG 
+                                                                                                                                                                                                   
+Spanish_Flu 18900: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19075: TAGAATGGAAGTTCTATGATGCACAGCCTTGTAGTGACAAAGCTTATAAAATAGAAGAATTATTCTATTCTTATGCCACACATTCTGACAAATTCACAGATGGTGTATGCCTATTTTGGAATTGCAATGTCGATAGATATCCTGCTAATTCCATTGTTTGTAGATTTGACACTAG 
+                                                                                                                                                                                                   
+Spanish_Flu 19075: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19250: AGTGCTATCTAACCTTAACTTGCCTGGTTGTGATGGTGGCAGTTTGTATGTAAATAAACATGCATTCCACACACCAGCTTTTGATAAAAGTGCTTTTGTTAATTTAAAACAATTACCATTTTTCTATTACTCTGACAGTCCATGTGAGTCTCATGGAAAACAAGTAGTGTCAGAT 
+                                                                                                                                                                                                   
+Spanish_Flu 19250: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19425: ATAGATTATGTACCACTAAAGTCTGCTACGTGTATAACACGTTGCAATTTAGGTGGTGCTGTCTGTAGACATCATGCTAATGAGTACAGATTGTATCTCGATGCTTATAACATGATGATCTCAGCTGGCTTTAGCTTGTGGGTTTACAAACAATTTGATACTTATAACCTCTGGA 
+                                                                                                                                                                                                   
+Spanish_Flu 19425: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19600: ACACTTTTACAAGACTTCAGAGTTTAGAAAATGTGGCTTTTAATGTTGTAAATAAGGGACACTTTGATGGACAACAGGGTGAAGTACCAGTTTCTATCATTAATAACACTGTTTACACAAAAGTTGATGGTGTTGATGTAGAATTGTTTGAAAATAAAACAACATTACCTGTTAA 
+                                                                                                                                                                                                   
+Spanish_Flu 19600: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19775: TGTAGCATTTGAGCTTTGGGCTAAGCGCAACATTAAACCAGTACCAGAGGTGAAAATACTCAATAATTTGGGTGTGGACATTGCTGCTAATACTGTGATCTGGGACTACAAAAGAGATGCTCCAGCACATATATCTACTATTGGTGTTTGTTCTATGACTGACATAGCCAAGAAA 
+                                                                                                                                                                                                   
+Spanish_Flu 19775: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    19950: CCAACTGAAACGATTTGTGCACCACTCACTGTCTTTTTTGATGGTAGAGTTGATGGTCAAGTAGACTTATTTAGAAATGCCCGTAATGGTGTTCTTATTACAGAAGGTAGTGTTAAAGGTTTACAACCATCTGTAGGTCCCAAACAAGCTAGTCTTAATGGAGTCACATTAATTG 
+                                                                                                                                                                                                   
+Spanish_Flu 19950: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    20125: GAGAAGCCGTAAAAACACAGTTCAATTATTATAAGAAAGTTGATGGTGTTGTCCAACAATTACCTGAAACTTACTTTACTCAGAGTAGAAATTTACAAGAATTTAAACCCAGGAGTCAAATGGAAATTGATTTCTTAGAATTAGCTATGGATGAATTCATTGAACGGTATAAATT 
+                                                                                                                                                                                                   
+Spanish_Flu 20125: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    20300: AGAAGGCTATGCCTTCGAACATATCGTTTATGGAGATTTTAGTCATAGTCAGTTAGGTGGTTTACATCTACTGATTGGACTAGCTAAACGTTTTAAGGAATCACCTTTTGAATTAGAAGATTTTATTCCTATGGACAGTACAGTTAAAAACTATTTCATAACAGATGCGCAAACA 
+                                                                                                                                                                                                   
+Spanish_Flu 20300: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    20475: GGTTCATCTAAGTGTGTGTGTTCTGTTATTGATTTATTACTTGATGATTTTGTTGAAATAATAAAATCCCAAGATTTATCTGTAGTTTCTAAGGTTGTCAAAGTGACTATTGACTATACAGAAATTTCATTTATGCTTTGGTGTAAAGATGGCCATGTAGAAACATTTTACCCAA 
+                                                                                                                                                                                                   
+Spanish_Flu 20475: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    20650: AATTACAATCTAGTCAAGCGTGGCAACCGGGTGTTGCTATGCCTAATCTTTACAAAATGCAAAGAATGCTATTAGAAAAGTGTGACCTTCAAAATTATGGTGATAGTGCAACATTACCTAAAGGCATAATGATGAATGTCGCAAAATATACTCAACTGTGTCAATATTTAAACAC 
+                                                                                                                                                                                                   
+Spanish_Flu 20650: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    20825: ATTAACATTAGCTGTACCCTATAATATGAGAGTTATACATTTTGGTGCTGGTTCTGATAAAGGAGTTGCACCAGGTACAGCTGTTTTAAGACAGTGGTTGCCTACGGGTACGCTGCTTGTCGATTCAGATCTTAATGACTTTGTCTCTGATGCAGATTCAACTTTGATTGGTGAT 
+                                                                                                                                                                                                   
+Spanish_Flu 20825: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21000: TGTGCAACTGTACATACAGCTAATAAATGGGATCTCATTATTAGTGATATGTACGACCCTAAGACTAAAAATGTTACAAAAGAAAATGACTCTAAAGAGGGTTTTTTCACTTACATTTGTGGGTTTATACAACAAAAGCTAGCTCTTGGAGGTTCCGTGGCTATAAAGATAACAG 
+                                                                                                                                                                                                   
+Spanish_Flu 21000: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21175: AACATTCTTGGAATGCTGATCTTTATAAGCTCATGGGACACTTCGCATGGTGGACAGCCTTTGTTACTAATGTGAATGCGTCATCATCTGAAGCATTTTTAATTGGATGTAATTATCTTGGCAAACCACGCGAACAAATAGATGGTTATGTCATGCATGCAAATTACATATTTTG 
+                                                                                                                                                                                                   
+Spanish_Flu 21175: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21350: GAGGAATACAAATCCAATTCAGTTGTCTTCCTATTCTTTATTTGACATGAGTAAATTTCCCCTTAAATTAAGGGGTACTGCTGTTATGTCTTTAAAAGAAGGTCAAATCAATGATATGATTTTATCTCTTCTTAGTAAAGGTAGACTTATAATTAGAGAAAACAACAGAGTTGTT 
+                                                                                                                                                                                                   
+Spanish_Flu 21350: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21525: ATTTCTAGTGATGTTCTTGTTAACAACTAAACGAACAATGTTTGTTTTTCTTGTTTTATTGCCACTAGTCTCTAGTCAGTGTGTTAATCTTACAACCAGAACTCAATTACCCCCTGCATACACTAATTCTTTCACACGTGGTGTTTATTACCCTGACAAAGTTTTCAGATCCTCA 
+                                                                                                                                                                                                   
+Spanish_Flu 21525: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21700: GTTTTACATTCAACTCAGGACTTGTTCTTACCTTTCTTTTCCAATGTTACTTGGTTCCATGCTATACATGTCTCTGGGACCAATGGTACTAAGAGGTTTGATAACCCTGTCCTACCATTTAATGATGGTGTTTATTTTGCTTCCACTGAGAAGTCTAACATAATAAGAGGCTGGA 
+                                                                                                                                                                                                   
+Spanish_Flu 21700: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    21875: TTTTTGGTACTACTTTAGATTCGAAGACCCAGTCCCTACTTATTGTTAATAACGCTACTAATGTTGTTATTAAAGTCTGTGAATTTCAATTTTGTAATGATCCATTTTTGGGTGTTTATTACCACAAAAACAACAAAAGTTGGATGGAAAGTGAGTTCAGAGTTTATTCTAGTGC 
+                                                                                                                                                                                                   
+Spanish_Flu 21875: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22050: GAATAATTGCACTTTTGAATATGTCTCTCAGCCTTTTCTTATGGACCTTGAAGGAAAACAGGGTAATTTCAAAAATCTTAGGGAATTTGTGTTTAAGAATATTGATGGTTATTTTAAAATATATTCTAAGCACACGCCTATTAATTTAGTGCGTGATCTCCCTCAGGGTTTTTCG 
+                                                                                                                                                                                                   
+Spanish_Flu 22050: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22225: GCTTTAGAACCATTGGTAGATTTGCCAATAGGTATTAACATCACTAGGTTTCAAACTTTACTTGCTTTACATAGAAGTTATTTGACTCCTGGTGATTCTTCTTCAGGTTGGACAGCTGGTGCTGCAGCTTATTATGTGGGTTATCTTCAACCTAGGACTTTTCTATTAAAATATA 
+                                                                                                                                                                                                   
+Spanish_Flu 22225: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22400: ATGAAAATGGAACCATTACAGATGCTGTAGACTGTGCACTTGACCCTCTCTCAGAAACAAAGTGTACGTTGAAATCCTTCACTGTAGAAAAAGGAATCTATCAAACTTCTAACTTTAGAGTCCAACCAACAGAATCTATTGTTAGATTTCCTAATATTACAAACTTGTGCCCTTT 
+                                                                                                                                                                                                   
+Spanish_Flu 22400: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22575: TGGTGAAGTTTTTAACGCCACCAGATTTGCATCTGTTTATGCTTGGAACAGGAAGAGAATCAGCAACTGTGTTGCTGATTATTCTGTCCTATATAATTCCGCATCATTTTCCACTTTTAAGTGTTATGGAGTGTCTCCTACTAAATTAAATGATCTCTGCTTTACTAATGTCTAT 
+                                                                                                                                                                                                   
+Spanish_Flu 22575: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22750: GCAGATTCATTTGTAATTAGAGGTGATGAAGTCAGACAAATCGCTCCAGGGCAAACTGGAAAGATTGCTGATTATAATTATAAATTACCAGATGATTTTACAGGCTGCGTTATAGCTTGGAATTCTAACAATCTTGATTCTAAGGTTGGTGGTAATTATAATTACCTGTATAGAT 
+                                                                                                                                                                                                   
+Spanish_Flu 22750: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    22925: TGTTTAGGAAGTCTAATCTCAAACCTTTTGAGAGAGATATTTCAACTGAAATCTATCAGGCCGGTAGCACACCTTGTAATGGTGTTGAAGGTTTTAATTGTTACTTTCCTTTACAATCATATGGTTTCCAACCCACTAATGGTGTTGGTTACCAACCATACAGAGTAGTAGTACT 
+                                                                                                                                                                                                   
+Spanish_Flu 22925: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23100: TTCTTTTGAACTTCTACATGCACCAGCAACTGTTTGTGGACCTAAAAAGTCTACTAATTTGGTTAAAAACAAATGTGTCAATTTCAACTTCAATGGTTTAACAGGCACAGGTGTTCTTACTGAGTCTAACAAAAAGTTTCTGCCTTTCCAACAATTTGGCAGAGACATTGCTGAC 
+                                                                                                                                                                                                   
+Spanish_Flu 23100: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23275: ACTACTGATGCTGTCCGTGATCCACAGACACTTGAGATTCTTGACATTACACCATGTTCTTTTGGTGGTGTCAGTGTTATAACACCAGGAACAAATACTTCTAACCAGGTTGCTGTTCTTTATCAGGATGTTAACTGCACAGAAGTCCCTGTTGCTATTCATGCAGATCAACTTA 
+                                                                                                                                                                                                   
+Spanish_Flu 23275: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23450: CTCCTACTTGGCGTGTTTATTCTACAGGTTCTAATGTTTTTCAAACACGTGCAGGCTGTTTAATAGGGGCTGAACATGTCAACAACTCATATGAGTGTGACATACCCATTGGTGCAGGTATATGCGCTAGTTATCAGACTCAGACTAATTCTCCTCGGCGGGCACGTAGTGTAGC 
+                                                                                                                                                                                                   
+Spanish_Flu 23450: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23625: TAGTCAATCCATCATTGCCTACACTATGTCACTTGGTGCAGAAAATTCAGTTGCTTACTCTAATAACTCTATTGCCATACCCACAAATTTTACTATTAGTGTTACCACAGAAATTCTACCAGTGTCTATGACCAAGACATCAGTAGATTGTACAATGTACATTTGTGGTGATTCA 
+                                                                                                                                                                                                   
+Spanish_Flu 23625: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23800: ACTGAATGCAGCAATCTTTTGTTGCAATATGGCAGTTTTTGTACACAATTAAACCGTGCTTTAACTGGAATAGCTGTTGAACAAGACAAAAACACCCAAGAAGTTTTTGCACAAGTCAAACAAATTTACAAAACACCACCAATTAAAGATTTTGGTGGTTTTAATTTTTCACAAA 
+                                                                                                                                                                                                   
+Spanish_Flu 23800: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    23975: TATTACCAGATCCATCAAAACCAAGCAAGAGGTCATTTATTGAAGATCTACTTTTCAACAAAGTGACACTTGCAGATGCTGGCTTCATCAAACAATATGGTGATTGCCTTGGTGATATTGCTGCTAGAGACCTCATTTGTGCACAAAAGTTTAACGGCCTTACTGTTTTGCCACC 
+                                                                                                                                                                                                   
+Spanish_Flu 23975: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    24150: TTTGCTCACAGATGAAATGATTGCTCAATACACTTCTGCACTGTTAGCGGGTACAATCACTTCTGGTTGGACCTTTGGTGCAGGTGCTGCATTACAAATACCATTTGCTATGCAAATGGCTTATAGGTTTAATGGTATTGGAGTTACACAGAATGTTCTCTATGAGAACCAAAAA 
+                                                                                                                                                                                                   
+Spanish_Flu 24150: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    24325: TTGATTGCCAACCAATTTAATAGTGCTATTGGCAAAATTCAAGACTCACTTTCTTCCACAGCAAGTGCACTTGGAAAACTTCAAGATGTGGTCAACCAAAATGCACAAGCTTTAAACACGCTTGTTAAACAACTTAGCTCCAATTTTGGTGCAATTTCAAGTGTTTTAAATGATA 
+                                                                                                                                                                                                   
+Spanish_Flu 24325: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    24500: TCCTTTCACGTCTTGACAAAGTTGAGGCTGAAGTGCAAATTGATAGGTTGATCACAGGCAGACTTCAAAGTTTGCAGACATATGTGACTCAACAATTAATTAGAGCTGCAGAAATCAGAGCTTCTGCTAATCTTGCTGCTACTAAAATGTCAGAGTGTGTACTTGGACAATCAAA 
+                                                                                                                                                                                                   
+Spanish_Flu 24500: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    24675: AAGAGTTGATTTTTGTGGAAAGGGCTATCATCTTATGTCCTTCCCTCAGTCAGCACCTCATGGTGTAGTCTTCTTGCATGTGACTTATGTCCCTGCACAAGAAAAGAACTTCACAACTGCTCCTGCCATTTGTCATGATGGAAAAGCACACTTTCCTCGTGAAGGTGTCTTTGTT 
+                                                                                                                                                                                                   
+Spanish_Flu 24675: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    24850: TCAAATGGCACACACTGGTTTGTAACACAAAGGAATTTTTATGAACCACAAATCATTACTACAGACAACACATTTGTGTCTGGTAACTGTGATGTTGTAATAGGAATTGTCAACAACACAGTTTATGATCCTTTGCAACCTGAATTAGACTCATTCAAGGAGGAGTTAGATAAAT 
+                                                                                                                                                                                                   
+Spanish_Flu 24850: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25025: ATTTTAAGAATCATACATCACCAGATGTTGATTTAGGTGACATCTCTGGCATTAATGCTTCAGTTGTAAACATTCAAAAAGAAATTGACCGCCTCAATGAGGTTGCCAAGAATTTAAATGAATCTCTCATCGATCTCCAAGAACTTGGAAAGTATGAGCAGTATATAAAATGGCC 
+                                                                                                                                                                                                   
+Spanish_Flu 25025: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25200: ATGGTACATTTGGCTAGGTTTTATAGCTGGCTTGATTGCCATAGTAATGGTGACAATTATGCTTTGCTGTATGACCAGTTGCTGTAGTTGTCTCAAGGGCTGTTGTTCTTGTGGATCCTGCTGCAAATTTGATGAAGACGACTCTGAGCCAGTGCTCAAAGGAGTCAAATTACAT 
+                                                                                                                                                                                                   
+Spanish_Flu 25200: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25375: TACACATAAACGAACTTATGGATTTGTTTATGAGAATCTTCACAATTGGAACTGTAACTTTGAAGCAAGGTGAAATCAAGGATGCTACTCCTTCAGATTTTGTTCGCGCTACTGCAACGATACCGATACAAGCCTCACTCCCTTTCGGATGGCTTATTGTTGGCGTTGCACTTCT 
+                                                                                                                                                                                                   
+Spanish_Flu 25375: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25550: TGCTGTTTTTCAGAGCGCTTCCAAAATCATAACCCTCAAAAAGAGATGGCAACTAGCACTCTCCAAGGGTGTTCACTTTGTTTGCAACTTGCTGTTGTTGTTTGTAACAGTTTACTCACACCTTTTGCTCGTTGCTGCTGGCCTTGAAGCCCCTTTTCTCTATCTTTATGCTTTA 
+                                                                                                                                                                                                   
+Spanish_Flu 25550: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25725: GTCTACTTCTTGCAGAGTATAAACTTTGTAAGAATAATAATGAGGCTTTGGCTTTGCTGGAAATGCCGTTCCAAAAACCCATTACTTTATGATGCCAACTATTTTCTTTGCTGGCATACTAATTGTTACGACTATTGTATACCTTACAATAGTGTAACTTCTTCAATTGTCATTA 
+                                                                                                                                                                                                   
+Spanish_Flu 25725: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    25900: CTTCAGGTGATGGCACAACAAGTCCTATTTCTGAACATGACTACCAGATTGGTGGTTATACTGAAAAATGGGAATCTGGAGTAAAAGACTGTGTTGTATTACACAGTTACTTCACTTCAGACTATTACCAGCTGTACTCAACTCAATTGAGTACAGACACTGGTGTTGAACATGT 
+                                                                                                                                                                                                   
+Spanish_Flu 25900: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26075: TACCTTCTTCATCTACAATAAAATTGTTGATGAGCCTGAAGAACATGTCCAAATTCACACAATCGACGGTTCATCCGGAGTTGTTAATCCAGTAATGGAACCAATTTATGATGAACCGACGACGACTACTAGCGTGCCTTTGTAAGCACAAGCTGATGAGTACGAACTTATGTAC 
+                                                                                                                                                                                                   
+Spanish_Flu 26075: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26250: TCATTCGTTTCGGAAGAGACAGGTACGTTAATAGTTAATAGCGTACTTCTTTTTCTTGCTTTCGTGGTATTCTTGCTAGTTACACTAGCCATCCTTACTGCGCTTCGATTGTGTGCGTACTGCTGCAATATTGTTAACGTGAGTCTTGTAAAACCTTCTTTTTACGTTTACTCTC 
+                                                                                                                                                                                                   
+Spanish_Flu 26250: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26425: GTGTTAAAAATCTGAATTCTTCTAGAGTTCCTGATCTTCTGGTCTAAACGAACTAAATATTATATTAGTTTTTCTGTTTGGAACTTTAATTTTAGCCATGGCAGATTCCAACGGTACTATTACCGTTGAAGAGCTTAAAAAGCTCCTTGAACAATGGAACCTAGTAATAGGTTTC 
+                                                                                                                                                                                                   
+Spanish_Flu 26425: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26600: CTATTCCTTACATGGATTTGTCTTCTACAATTTGCCTATGCCAACAGGAATAGGTTTTTGTATATAATTAAGTTAATTTTCCTCTGGCTGTTATGGCCAGTAACTTTAGCTTGTTTTGTGCTTGCTGCTGTTTACAGAATAAATTGGATCACCGGTGGAATTGCTATCGCAATGG 
+                                                                                                                                                                                                   
+Spanish_Flu 26600: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26775: CTTGTCTTGTAGGCTTGATGTGGCTCAGCTACTTCATTGCTTCTTTCAGACTGTTTGCGCGTACGCGTTCCATGTGGTCATTCAATCCAGAAACTAACATTCTTCTCAACGTGCCACTCCATGGCACTATTCTGACCAGACCGCTTCTAGAAAGTGAACTCGTAATCGGAGCTGT 
+                                                                                                                                                                                                   
+Spanish_Flu 26775: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    26950: GATCCTTCGTGGACATCTTCGTATTGCTGGACACCATCTAGGACGCTGTGACATCAAGGACCTGCCTAAAGAAATCACTGTTGCTACATCACGAACGCTTTCTTATTACAAATTGGGAGCTTCGCAGCGTGTAGCAGGTGACTCAGGTTTTGCTGCATACAGTCGCTACAGGATT 
+                                                                                                                                                                                                   
+Spanish_Flu 26950: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    27125: GGCAACTATAAATTAAACACAGACCATTCCAGTAGCAGTGACAATATTGCTTTGCTTGTACAGTAAGTGACAACAGATGTTTCATCTCGTTGACTTTCAGGTTACTATAGCAGAGATATTACTAATTATTATGAGGACTTTTAAAGTTTCCATTTGGAATCTTGATTACATCATA 
+                                                                                                                                                                                                   
+Spanish_Flu 27125: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    27300: AACCTCATAATTAAAAATTTATCTAAGTCACTAACTGAGAATAAATATTCTCAATTAGATGAAGAGCAACCAATGGAGATTGATTAAACGAACATGAAAATTATTCTTTTCTTGGCACTGATAACACTCGCTACTTGTGAGCTTTATCACTACCAAGAGTGTGTTAGAGGTACAA 
+                                                                                                                                                                                                   
+Spanish_Flu 27300: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    27475: CAGTACTTTTAAAAGAACCTTGCTCTTCTGGAACATACGAGGGCAATTCACCATTTCATCCTCTAGCTGATAACAAATTTGCACTGACTTGCTTTAGCACTCAATTTGCTTTTGCTTGTCCTGACGGCGTAAAACACGTCTATCAGTTACGTGCCAGATCAGTTTCACCTAAACT 
+                                                                                                                                                                                                   
+Spanish_Flu 27475: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    27650: GTTCATCAGACAAGAGGAAGTTCAAGAACTTTACTCTCCAATTTTTCTTATTGTTGCGGCAATAGTGTTTATAACACTTTGCTTCACACTCAAAAGAAAGACAGAATGATTGAACTTTCATTAATTGACTTCTATTTGTGCTTTTTAGCCTTTCTGCTATTCCTTGTTTTAATTA 
+                                                                                                                                                                                                   
+Spanish_Flu 27650: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    27825: TGCTTATTATCTTTTGGTTCTCACTTGAACTGCAAGATCATAATGAAACTTGTCACGCCTAAACGAACATGAAATTTCTTGTTTTCTTAGGAATCATCACAACTGTAGCTGCATTTCACCAAGAATGTAGTTTACAGTCATGTACTCAACATCAACCATATGTAGTTGATGACCC 
+                                                                                                                                                                                                   
+Spanish_Flu 27825: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28000: GTGTCCTATTCACTTCTATTCTAAATGGTATATTAGAGTAGGAGCTAGAAAATCAGCACCTTTAATTGAATTGTGCGTGGATGAGGCTGGTTCTAAATCACCCATTCAGTACATCGATATCGGTAATTATACAGTTTCCTGTTTACCTTTTACAATTAATTGCCAGGAACCTAAA 
+                                                                                                                                                                                                   
+Spanish_Flu 28000: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28175: TTGGGTAGTCTTGTAGTGCGTTGTTCGTTCTATGAAGACTTTTTAGAGTATCATGACGTTCGTGTTGTTTTAGATTTCATCTAAACGAACAAACTAAAATGTCTGATAATGGACCCCAAAATCAGCGAAATGCACCCCGCATTACGTTTGGTGGACCCTCAGATTCAACTGGCAG 
+                                                                                                                                                                                                   
+Spanish_Flu 28175: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28350: TAACCAGAATGGAGAACGCAGTGGGGCGCGATCAAAACAACGTCGGCCCCAAGGTTTACCCAATAATACTGCGTCTTGGTTCACCGCTCTCACTCAACATGGCAAGGAAGACCTTAAATTCCCTCGAGGACAAGGCGTTCCAATTAACACCAATAGCAGTCCAGATGACCAAATT 
+                                                                                                                                                                                                   
+Spanish_Flu 28350: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28525: GGCTACTACCGAAGAGCTACCAGACGAATTCGTGGTGGTGACGGTAAAATGAAAGATCTCAGTCCAAGATGGTATTTCTACTACCTAGGAACTGGGCCAGAAGCTGGACTTCCCTATGGTGCTAACAAAGACGGCATCATATGGGTTGCAACTGAGGGAGCCTTGAATACACCAA 
+                                                                                                                                                                                                   
+Spanish_Flu 28525: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28700: AAGATCACATTGGCACCCGCAATCCTGCTAACAATGCTGCAATCGTGCTACAACTTCCTCAAGGAACAACATTGCCAAAAGGCTTCTACGCAGAAGGGAGCAGAGGCGGCAGTCAAGCCTCTTCTCGTTCCTCATCACGTAGTCGCAACAGTTCAAGAAATTCAACTCCAGGCAG 
+                                                                                                                                                                                                   
+Spanish_Flu 28700: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    28875: CAGTAGGGGAACTTCTCCTGCTAGAATGGCTGGCAATGGCGGTGATGCTGCTCTTGCTTTGCTGCTGCTTGACAGATTGAACCAGCTTGAGAGCAAAATGTCTGGTAAAGGCCAACAACAACAAGGCCAAACTGTCACTAAGAAATCTGCTGCTGAGGCTTCTAAGAAGCCTCGG 
+                                                                                                                                                                                                   
+Spanish_Flu 28875: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    29050: CAAAAACGTACTGCCACTAAAGCATACAATGTAACACAAGCTTTCGGCAGACGTGGTCCAGAACAAACCCAAGGAAATTTTGGGGACCAGGAACTAATCAGACAAGGAACTGATTACAAACATTGGCCGCAAATTGCACAATTTGCCCCCAGCGCTTCAGCGTTCTTCGGAATGT 
+                                                                                                                                                                                                   
+Spanish_Flu 29050: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    29225: CGCGCATTGGCATGGAAGTCACACCTTCGGGAACGTGGTTGACCTACACAGGTGCCATCAAATTGGATGACAAAGATCCAAATTTCAAAGATCAAGTCATTTTGCTGAATAAGCATATTGACGCATACAAAACATTCCCACCAACAGAGCCTAAAAAGGACAAAAAGAAGAAGGC 
+                                                                                                                                                                                                   
+Spanish_Flu 29225: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    29400: TGATGAAACTCAAGCCTTACCGCAGAGACAGAAGAAACAGCAAACTGTGACTCTTCTTCCTGCTGCAGATTTGGATGATTTCTCCAAACAATTGCAACAATCCATGAGCAGTGCTGACTCAACTCAGGCCTAAACTCATGCAGACCACACAAGGCAGATGGGCTATATAAACGTT 
+                                                                                                                                                                                                   
+Spanish_Flu 29400: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    29575: TTCGCTTTTCCGTTTACGATATATAGTCTACTCTTGTGCAGAATGAATTCTCGTAACTACATAGCACAAGTAGATGTAGTTAACTTTAATCTCACATAGCAATCTTTAATCAGTGTGTAACATTAGGGAGGACTTGAAAGAGCCACCACATTTTCACCGAGGCCACGCGGAGTAC 
+                                                                                                                                                                                                   
+Spanish_Flu 29575: ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+COVID-19    29750: GATCGAGTGTACAGTGAACAATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
+                                                                                                                                                                             
+Spanish_Flu 29750: --------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Score: -26501 out of maximum score of -26501
+100.0% Similarity based on scoring scheme 
