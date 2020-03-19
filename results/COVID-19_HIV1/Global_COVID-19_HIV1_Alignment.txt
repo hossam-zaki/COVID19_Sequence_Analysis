@@ -1,0 +1,686 @@
+COVID-19 0: ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAGTGCACTCACGCAGTATAATTAATAACTAATTACTGTCGTTGACAGGACACGAGTAACTCGT 
+                  |||/|/| | |     |||/|                 || | |    |||||||      |   |  |        ||| | |      |   | || | | ||  | ||  | |   |             |||      |  |  || |/  | | |    || |  
+HIV1     0: ------GGTCTCT-C-T-----GGTTA-----------------GA-C-C----AGATCTG------A---G--C--------CTG-G-G------A---G-CT-C-T-CT--G-GC--T-A---A-------------CTA------G--G--GA-AC--C-C-A----CT-G- 
+
+COVID-19 175: CTATCTTCTGCAGGCTGCTTACGGTTTCGTCCGTGTTGCAGCCGATCATCAGCACATCTAGGTTTCGTCCGGGTGTGACCGAAAGGTAAGATGGAGAGCCTTGTCCCTGGTTTCAACGAGAAAACACACGTCCAACTCAGTTTGCCTGTTTTACAGGTTCGCGACGTGCTCGTAC 
+              || |       |        | |    |  |  |    ||    || |  |  |      |    | |     ||   ||      |    || ||    | | |  |  |  ||| |            |  |     ||  |  |||      |   | |  ||| || ||/  
+HIV1     175: CT-T-------A--------A-G----C--C--T----CA----AT-A--A--A------G----C-T-----TG---CC------T----TG-AG----T-G-C--T--T--CAA-G------------T--A-----GT--G--TGT------G---C-C--CGT-CT-GTT- 
+
+COVID-19 350: GTGGCTTTGGAGACTCCGTGGAGGAGGTCTTATCAGAGGCACGTCAACATCTTAAAGATGGCACTTGTGGCTTAGTAGAAGTTGAAAAAGGCGTTTTGCCTCAACTTGAACAGCCCTATGTGTTCATCAAACGTTCGGATGCTCGAACTGCACCTCATGGTCATGTTATGGTTGA 
+              |||  |  | |  |||  |||      |   |  |    |   | |          || |  | |     |                    |      | |||    || |  || | | | |  |      || |  | | | |   ||        |   |    |      | 
+HIV1     350: GTG--T--G-A--CTC--TGG------T---A--A----C---T-A----------GA-G--A-T-----C--------------------C------C-TCA----GA-C--CC-T-T-T-T--A------GT-C--A-G-T-G---TG--------G---A----A------A 
+
+COVID-19 525: GCTGGTAGCAGAACTCGAAGGCATTCAGTACGGTCGTAGTGGTGAGACACTTGGTGTCCTTGTCCCTCATGTGGGCGAAATACCAGTGGCTTACCGCAAGGTTCTTCTTCGTAAGAACGGTAATAAAGGAGCTGGTGGCCATAGTTACGGCGCCGATCTAAAGTCATTTGACTTA 
+                    |       ||       | |  || |  |  |||||     |    |    ||    |      |      ||   | || ||   |||      |        | || |  |            | |      | |   | || |   |   ||   |      |  | 
+HIV1     525: ------A-------TC-------T-C--TA-G--C--AGTGG-----C----G----CC----C------G------AA---C-AG-GG---ACC------T--------G-AA-A--G------------C-G------A-A---A-GG-G---A---AA---C------C--A 
+
+COVID-19 700: GGCGACGAGCTTGGCACTGATCCTTATGAAGATTTTCAAGAAAACTGGAACACTAAACATAGCAGTGGTGTTACCCGTGAACTCATGCGTGAGCTTAACGGAGGGGCATACACTCGCTATGTCGATAACAACTTCTGTGGCCCTGATGGCTACCCTCTTGAGTGCATTAAAGACC 
+              |   | | |      |  |  | |            |        |    |  |   |   | |         |  |    |  | | |  | ||   |||     | |    | |||  |   | |         |   |   |    |         |    ||       |  
+HIV1     700: G---A-G-G------A--G--C-T------------C--------T----C--T---C---G-A---------C--G----C--A-G-G--A-CT---CGG-----C-T----T-GCT--G---A-A---------G---C---G----C---------G----CA-------C- 
+
+COVID-19 875: TTCTAGCACGTGCTGGTAAAGCTTCATGCACTTTGTCCGAACAACTGGACTTTATTGACACTAAGAGGGGTGTATACTGCTGCCGTGAACATGAGCATGAAATTGCTTGGTACACGGAACGTTCTGAAAAGAGCTATGAATTGCAGACACCTTTTGAAATTAAATTGGCAAAGAA 
+                   |   |  |    || |    | |      | | ||      ||        |       |           | |  || |  | | || |  |||    | |    ||  |   |   |  |||| |  | |   ||| |  |   |    |         | |   |   
+HIV1     875: -----G---G--C----AA-G----A-G------G-C-GA------GG--------G-------G-----------C-G--GC-G--A-C-TG-G--TGA----G-T----AC--G---C---C--AAAA-A--T-T---TTG-A--C---T----A---------G-C---G-- 
+
+COVID-19 1050: ATTTGACACCTTCAATGGGGAATGTCCAAATTTTGTATTTCCCTTAAATTCCATAATCAAGACTATTCAACCAAGGGTTGAAAAGAAAAAGCTTGATGGCTTTATGGGTAGAATTCGATCTGTCTATCCAGTTGCGTCACCAAATGAATGCAACCAAATGTGCCTTTCAACTCTC 
+                   ||          ||       |    |     |                       ||  |         ||    |   ||    |    | |     |||||| |    |||   |   |    |   |||||      |  |  |      | |       ||      
+HIV1     1050: ----GA----------GG-------C----T-----A-----------------------GA--A---------GG----A---GA----G----A-G-----ATGGGT-G----CGA---G---A----G---CGTCA------G--T--A------T-T-------AA----- 
+
+COVID-19 1225: ATGAAGTGTGATCATTGTGGTGAAACTTCATGGCAGACGGGCGATTTTGTTAAAGCCACTTGCGAATTTTGTGGCACTGAGAATTTGACTAAAGAAGGTGCCACTACTTGTGGTTACTTACCCCAAAATGCTGTTGTTAAAATTTATTGTCCAGCATGTCACAATTCAGAAGTAG 
+                 |         |   | || |         |  |||      |||     |  |  | |  ||| |   | || |   | ||    |  |       |     | |  | | |||   |//|||    |  |  |            |    | |    | |     |||  |  
+HIV1     1225: --G---------C---G-GG-G---------G--AGA------ATT-----A--G--A-T--CGA-T---G-GG-A---A-AA----A--A-------T-----T-C--G-G-TTA---AGGCCA----G--G--G------------G----G-A----A-A-----GAA--A- 
+
+COVID-19 1400: GACCTGAGCATAGTCTTGCCGAATACCATAATGAATCTGGCTTGAAAACCATTCTTCGTAAGGGTGGTCGCACTATTGCCTTTGGAGGCTGTGTGTTCTCTTATGTTGGTTGCCATAACAAGTGTGCCTATTGGGTTCCACGTGCTAGCGCTAACATAGGTTGTAACCATACAGG 
+                |    |  ||| |       || |   |  | ||         ||  | ||       |    |      |     |  |    |   || | |  |    |           |      |    |  |  |||    | |  ||||    |||/ |  ||    |      |  
+HIV1     1400: -A----A--ATA-T-------AA-A---T--T-AA---------AA--C-AT-------A----T------A-----G--T----A---TG-G-G--C----A-----------A------G----C--A--GGG----A-G--CTAG----AACG-A--TT----C------G- 
+
+COVID-19 1575: TGTTGTTGGAGAAGGTTCCGAAGGTCTTAATGACAACCTTCTTGAAATACTCCAAAAAGAGAAAGTCAACATCAATATTGTTGGTGACTTTAAACTTAATGAAGAGATCGCCATTATTTTGGCATCTTTTTCTGCTTCCACAAGTGCTTTTGTGGAAACTGTGAAAGGTTTGGAT 
+                                |  | | | | |||  |  | |    |              |       |  | |       |||    |             ||| |   |   ||        ||         |     | | | |||   ||  |    |  |            
+HIV1     1575: -----------------C--A-G-T-T-AAT--C--C-T----G--------------G-------C--C-T-------GTT----A-------------GAA-A---C---AT--------CA---------G-----A-A-G-GCT---GT--A----G--A----------- 
+
+COVID-19 1750: TATAAAGCATTCAAACAAATTGTTGAATCCTGTGGTAATTTTAAAGTTACAAAAGGAAAAGCTAAAAAAGGTGCCTGGAATATTGGTGAACAGAAATCAATACTGAGTCCTCTTTATGCATTTGCATCAGAGGCTGCTCGTGTTGTACGATCAATTTTCTCCCGCACTCTTGAAA 
+                      ||   ||     |     |  | || || |            ||   |      |||         |    ||          |      || | |     ||| |     ||   | | ||| |              |   |||          | |      |   
+HIV1     1750: -------CA---AA-----T-----A--C-TG-GG-A------------CA---G------CTA---------C----AA----------C------CA-T-C-----CCT-T-----CA---G-A-CAG-G--------------A---TCA----------G-A------A-- 
+
+COVID-19 1925: CTGCTCAAAATTCTGTGCGTGTTTTACAGAAGGCCGCTATAACAATACTAGATGGAATTTCACAGTATTCACTGAGACTCATTGATGCTATGATGTTCACATCTGATTTGGCTACTAACAATCTAGTTGTAATGGCCTACATTACAGGTGGTGTTGTTCAGTTGACTTCGCAGTG 
+                 |   ||    || |         |  ||       |    || |  ||  |  | |   | | ||  ||  |    | |  |   | |  |    | |  ||       ||| |     |   || ||   | |/| ||  | |||           | |  |    | ||   
+HIV1     1925: --G---AA----CT-T---------A--GA-------T----CA-T--TA--T--A-T---A-A-TA--CA--G----T-A--G---C-A--A----C-C--CT-------CTA-T-----T---GT-GT---G-CAT-CA--A-AGG-----------A-T--A----G-AG-- 
+
+COVID-19 2100: GCTAACTAACATCTTTGGCACTGTTTATGAAAAACTCAAACCCGTCCTTGATTGGCTTGAAGAGAAGTTTAAGGAAGGTGTAGAGTTTCTTAGAGACGGTTGGGAAATTGTTAAATTTATCTCAACCTGTGCTTGTGAAATTGTCGGTGGACAAATTGTCACCTGTGCAAAGGAA 
+                  |  ||| |        |  |   |       |  |  ||        |        | | ||||/||        |  |||    |  | |||   |    |    |  |               | |      ||   |/ |     ||||     ||      |||  |  
+HIV1     2100: ---A--TAA-A--------A--G---A-------C--A--CC--------A--------A-G-GAAGCTT--------T--AGA----C--A-AGA---T----A----G--A---------------G-G------AA---GA-G-----CAAA-----AC------AAA--A- 
+
+COVID-19 2275: ATTAAGGAGAGTGTTCAGACATTCTTTAAGCTTGTAAATAAATTTTTGGCTTTGTGTGCTGACTCTATCATTATTGGTGGAGCTAAACTTAAAGCCTTGAATTTAGGTGAAACATTTGTCACGCACTCAAAGGGATTGTACAGAAAGTGTGTTAAATCCAGAGAAGAAACTGGCC 
+                    |     |    | |          |     ||| |||     | |           ||   |        |      | ||       ||    |     |      ||   | |      |    |  |     ||               | || ||     |      
+HIV1     2275: -----G-----T----A-A----------G-----AAA-AAA-----G-C-----------AC---A--------G------C-AA-------GC----A-----G------CA---G-C------T----G--A-----CA---------------C-AG-GA-----C----- 
+
+COVID-19 2450: TACTCATGCCTCTAAAAGCCCCAAAAGAAATTATCTTCTTAGAGGGAGAAACACTTCCCACAGAAGTGTTAACAGAGGAAGTTGTCTTGAAAACTGGTGATTTACAACCATTAGAACAACCTACTAGTGAAGCTGTTGAAGCTCCATTGGTTGGTACACCAGTTTGTATTAACGG 
+                ||  | ||    ||               |   |     || |          | |  |  |         |            |   |||| |  | |    |  || | |        ||   |||   |     | |    |         |||    |         |   
+HIV1     2450: -AC--A-GC----AA---------------T---C-----AG-G----------T-C--A--G---------C------------C---AAAA-T--T-A----C--CC-T-A--------TA---GTG---C-----A-G----A---------ACA----T---------C-- 
+
+COVID-19 2625: GCTTATGTTGCTCGAAATCAAAGACACAGAAAAGTACTGTGCCCTTGCACCTAATATGATGGTAACAAACAATACCTTCACACTCAAAGGCGGTGCACCAACAAAGGTTACTTTTGGTGATGACACTGTGATAGAAGTGCAAGGTTACAAGAGTGTGAATATCACTTTTGAACTT 
+                |  | |  |   |        | || | |    |   | |   |   ||  | |/  | ||   |   || ||  | ||| || |  |       |  | |     ||  |       |  | | ||           ||   |     | | || || |  |     |   |  
+HIV1     2625: -C--A-G--G---G--------G-CA-A-A----T---G-G---T---AC--A-TC--A-GG---C---CA-TA--T-CAC-CT-A--G-------A--A-C-----TT--T-------A--A-A-TG-----------CA---T-----G-G-GT-AA-A--A-----G---T- 
+
+COVID-19 2800: GATGAAAGGATTGATAAAGTACTTAATGAGAAGTGCTCTGCCTATACAGTTGAACTCGGTACAGAAGTAAATGAGTTCGCCTGTGTTGTGGCAGATGCTGTCATAAAAACTTTGCAACCAGTATCTGAATTACTTACACCACTGGGCATTGATTTAGATGAGTGGAGTATGGCTA 
+                | |      |  |    | |   |  |||||| ||| |   |   |||     | |    |||||||/| | |   | ||           |  || | |  |      |   ||    |   |  | ||| |  ||     |   |   |    |  |||          |   
+HIV1     2800: -A-G------T--A----G-A---A--GAGAAG-GCT-T---T---CAG-----C-C----CAGAAGTGA-T-A---C-CC-----------A--TG-T-T--T------T---CA----G---C--A-TTA-T--CA-----G---A---A----G--GAG----------C-- 
+
+COVID-19 2975: CATACTACTTATTTGATGAGTCTGGTGAGTTTAAATTGGCTTCACATATGTATTGTTCTTTCTACCCTCCAGATGAGGATGAAGAAGAAGGTGATTGTGAAGAAGAAGAGTTTGAGCCATCAACTCAATATGAGTATGGTACTGAAGATGATTACCAAGGTAAACCTTTGGAATT 
+               ||  |  |             |                 |   ||| | | ||| |       |      | |                                           | | |  |  | |  |         || || |      | |       |      |    
+HIV1     2975: CA--C--C-------------C-----------------C---ACA-A-G-ATT-T-------A------A-A-------------------------------------------C-A-C--C--A-T--G---------CT-AA-A------C-A-------C------A--- 
+
+COVID-19 3150: TGGTGCCACTTCTGCTGCTCTTCAACCTGAAGAAGAGCAAGAAGAAGATTGGTTAGATGATGATAGTCAACAAACTGTTGGTCAACAAGACGGCAGTGAGGACAATCAGACAACTACTATTCAAACAATTGTTGAGGTTCAACC-TCAATTAGAGATGGAACTTACACCAGTTGT 
+                | ||        |  |           |  |  || ||         |                  |||      |     ||    | |  || ||/  | |||  |     |  ||   |||     |   ||    | || |||||  |||  | ||/   |     | |  
+HIV1     3150: -G-TG--------G--G-----------G--G--GA-CA---------T------------------CAA------G-----CA----G-C--CA-TGC--A-AAT--G-----T--TA---AAA-----G---AG----A-CCATCAAT--GAG--G-AAG---C-----T-G- 
+
+COVID-19 3325: TCAGACTATTGAAGTGAATAGTTTTAGTGGTTATTTAAAACTTACTGACAATGTATACATTAAAAATGCAGACATTGTGGAAGAAGCTAAAAAGGTAAAACCAACAGTGGTTGTTAATGCAGCCAATGTTTACCTTAAACATGGAGGAGGTGTTGCAGGAGCCTTAAATAAGGCT 
+                ||||  || |  | || |||    ||||/  ||/     |  |  |    ||    |||       ||||     | |/      |||      |           ||          || |||/ |    ||  |     | |     ||    || ||    ||      |  
+HIV1     3325: -CAGA--AT-G--G-GA-TAG----AGTGC--ATC-----C--A--G----TG----CAT-------GCAG-----G-GC------CTA------T-----------TG----------CA-CCAG-G----CC--A-----G-A-----TG----AG-AG----AA------C- 
+
+COVID-19 3500: ACTAACAATGCCATGCAAGTTGAATCTGATGATTACATAGCTACTAATGGACCACTTAAAGTGGGTGGTAGTTGTGTTTTAAGCGGACACAATCTTGCTAAACACTGTCTTCATGTTGTCGGCCCAAATGTTAACAAAGGTGAAGACATTCAACTTCTTAAGAGTGCTTATGAAA 
+                | ||    |    |   |  |||   | |||   |||||| |     |||  ||| |                         |        |      |      ||    |      |  ||    | |   ||  ||  ||  ||   || |    | | |     |||    
+HIV1     3500: -C-AA----G----G---G--GAA---G-TGA---CATAGC-A-----GGA--ACT-A-------------------------C--------T------A------GT----A------C--CC----T-T---CA--GG--AA--CA---AA-T----A-G-G-----ATG--- 
+
+COVID-19 3675: ATTTTAATCAGCACGAAGTTCTACTTGCACCATTATTATCAGCTGGTATTTTTGGTGCTGACCCTATACATTCTTTAAGAGTTTGTGTAGATACTGTTCGCACAAATGTCTACTTAGCTGTCTTTGATAAAAATCTCTATGACAAACTTGTTTCAAGCTTTTTGGAAATGAAGAG 
+                         | |     |       | || |  |  || |      ||        |   |   |  |   ||  |    |           |    | ||     ||  |    |  |      |             || ||  || |   |   |      |||  | ||  
+HIV1     3675: ----------G-A-----T-------G-AC-A--A--AT-A------AT--------C---C---A--C---CT--A----T-----------C----C-CA-----GT--A----G--G------A-------------GA-AA--TT-T---A---T------AAA--A-GA- 
+
+COVID-19 3850: TGAAAAGCAAGTTGAACAAAAGATCGCTGAGATTCCTAAAGAGGAAGTTAAGCCATTTATAACTGAAAGTAAACCTTCAGTTGAACAGAGAAAACAAGATGATAAGAAAATCAAAGCTTGTGTTGAAGAAGTTACAACAACTCTGGAAGAAACTAAGTTCCTCACAGAAAACTTG 
+               ||    | |  |  ||       || ||| |         ||     ||||   ||  | ||   |   ||        ||  ||  || |        || ||      | |  ||                 |  |/|| |   | |   | |  ||| |/   ||   |    
+HIV1     3850: TG----G-A--T--AA-------TC-CTG-G---------GA-----TTAA---AT--A-AA---A---TA--------GT--AA--GA-A--------TG-TA------T-A--GC-----------------C--CTAC-C---A-G---C-A--TTC-TG---GA---C--- 
+
+COVID-19 4025: TTACTTTATATTGACATTAATGGCAATCTTCATCCAGATTCTGCCACTCTTGTTAGTGACATTGACATCACTTTCTTAAAGAAAGATGCTCCATATATAGTGGGTGATGTTGTTCAAGAGGGTGTTTTAACTGCTGTGGTTATACCTACTAAAAAGGCTGGTGGCACTACTGAAA 
+                 | |  | |  ||||  |  || |  |  ||   | |    |        |  |   ||     |  |  |||   |  ||  ||  ||  ||     ||     | |      |              |  | | | ||   | || |||||   ||     |  ||   |   
+HIV1     4025: --A-T--A-A--GACA--A--GG-A--C--CA---A-A----G--------G--A---AC-----C--C--TTT---A--GA--GA--CT--AT-----GT-----A-G------A--------------C--C-G-G-TT---C-TA-TAAAA---CT-----C--TA---A-- 
+
+COVID-19 4200: TGCTAGCGAAAGCTTTGAGAAAAGTGCCAACAGACAATTATATAACCACTTACCCGGGTCAGGGTTTAAATGGTTACACTGTAGAGGAGGCAAAGACAGTGCTTAAAAAGTGTAAAAGTGCCTTTTACATTCTACCATCTATTATCTCTAATGAGAAGCAAGAAATTCTTGGAAC 
+                |  |||     |   |||       | ||  | |  ||      | ||  |   ||   ||| |  |||     | |    |                |  |      | | |    ||      |||/   |  |   |    | ||  ||            ||   ||    
+HIV1     4200: -G--AGC-----C---GAG-------C-AA--G-C--TT------C-AC--A---GG---AGG-T--AAA-----A-A----A----------------T--T------G-G-A----TG------ACAG---A--A---A----C-CT--TG------------TT---GG--- 
+
+COVID-19 4375: TGTTTCTTGGAATTTGCGAGAAATGCTTGCACATGCAGAAGAAACACGCAAATTAATGCCTGTCTGTGTGGAAACTAAAGCCATAGTTTCAACTATACAGCGTAAATATAAGGGTATTAAAATACAAGAGGGTGTGGTTGATTATGGTGCTAGATTTTACTTTTACACCAGTAAA 
+               |    |          | | ||||||  |/||   |        || | |  ||   |  |          ||/  |   |  || |||    || | |    |       |            ||      | |||  ||        |         |    |     |     
+HIV1     4375: T----C----------C-A-AAATGC--GAAC---C--------CA-G-A--TT---G--T----------AAG--A---C--TA-TTT----TA-A-A----A-------G------------CA------T-TGG--GA--------C---------C----A-----G---- 
+
+COVID-19 4550: ACAACTGTAGCGTCACTTATCAACACACTTAACGATCTAAATGAAACTCTTGTTACAATGCCACTTGGCTATGTAACACATGGCTTAAATTTGGAAGAAGCTGCTCGGTATATGAGATCTCTCAAAGTGCCAGCTACAGTTTCTGTTTCTTCACCTGATGCTGTTACAGCGTATA 
+                |    |  || | ||  | |       | |  ||   |   |||| |   |  |   ||/||   | | ||||  ||   ||         | | |/||  |      |   | || | | |   | ||||  || ||     |   |/  |   || | | ||      |    
+HIV1     4550: -C----G--GC-T-AC--A-C-------T-A--GA---A---GAAA-T---G--A---TGACA---G-C-ATGT--CA---GG---------G-A-GTAG--G------A---G-GA-C-C-C---G-GCCA--TA-AG-----G---CA--A---GA-G-T-TT------T--- 
+
+COVID-19 4725: ATGGTTATCTTACTTCTTCTTCTAAAACACCTGAAGAACATTTTATTGAAACCATCTCACTTGCTGGTTCCTATA-AAGATTGGTCCTATTCTGGACAATCTACACAACTAGGTATAGAATTTCTTAAGAGAGGTGATAAAAGTGTATATTACACTAGTAATCCTACCACATTCC 
+                 ||    ||                      ||||  ||    || ||/ |||    |   | |       | | || |||   |  |    |  |  |  || ||  ||   || || |/ |  | ||||||                  ||  | |  |  |      |    
+HIV1     4725: --GG----CT----------------------GAAG--CA----AT-GAG-CCA----A---G-T-------A-ACAA-ATT---C--A----G--C--T--AC-CA--TA---AT-GA-TG-C--A-GAGAGG------------------CA--A-T--T--T------T--- 
+
+COVID-19 4900: ACCTAGATGGTGAAGTTATCACCTTTGACAATCTTAAGACACTTCTTTCTTTGAGAGAAGTGAGGACTATTAAGGTGTTTACAACAGTAGACAACATTAACCTCCACACGCAAGTTGTGGACATGTCAATGACATATGGACAACAGTTTGGTCCAACTTATTTGGATGGAGCTGA 
+               |    |  |   ||     | |     | ||      || |            |||    |      |     | | |  | |   || |      ||    || | |      |||||| ||    || || |   ||      |      | | |  |           |  | 
+HIV1     4900: A----G--G---AA-----C-C-----A-AA------GA-A------------AGA----T------T-----G-T-T--A-A---GT-G------TT----TC-A-A------TTGTGG-CA----AA-GA-A---GG------G------C-A-C--A-----------C--A 
+
+COVID-19 5075: TGTTACTAAAATAAAACCTCATAATTCACATGAAGGTAAAACATTTTATGTTTTACCTAATGATGACACTCTACGTGTTGAGGCTTTTGAGTACTACCACACAACTGATCCTAGTTTTCTGGGTAGGTACATGTCAGCATTAAATCACACTAAAAAGTGGAAATACCCACAAGTT 
+                |   |          |   |          |||   |     ||    |     |  |/ |  | | | |  | |    |||      |  |  |  | |     |      |      |        | |||     |                | | ||||        ||  
+HIV1     5075: -G---C----------C---A----------GAA---A-----TT----G-----C--AG-G--G-C-C-C--C-T----AGG------A--A--A--A-A-----G------G------G--------C-TGT-----T----------------G-G-AAAT--------GT- 
+
+COVID-19 5250: AATGGTTTAACTTCTATTAAATGGGCAGATAACAACTGTTATCTTGCCACTGCATTGTTAACACTCCAACAAATAGAGTTGAAGTTTAATCCACCTGCTCTACAAGATGCTTATTACAGAGCAAGGGCTGGTGAAGCTGCTAACTTTTGTGCACTTATCTTAGCCTACTGTAATA 
+                  ||   ||     |      ||  | |        |       |  ||   |       | |   || |  | ||    |||   | |     || |  ||    ||   |     ||| |    |     | |  ||||| |||| |    | |     |      |      
+HIV1     5250: ---GG---AA-----A------GG--A-A--------G-------G--AC---A-------C-C---AA-A--T-GA----AAG---A-T-----TG-T--AC----TG---A-----GAG-A----C-----A-G--GCTAA-TTTT-T----T-A-----G------G----- 
+
+COVID-19 5425: AGACAGTAGGTGAGTTAGGTGATGTTAGAGAAACAATGAGTTACTTGTTTCAACATGCCAATTTAGATTCTTGCAAAAGAGTCTTGAACGTGGTGTGTAAAACTTGTGGACAACAGCAGACAACCCTTAAGGGTGTAGAAGCTGTTATGTACATGGGCACACTTTCTTATGAACA 
+                || || |  |                      |  || |   |      |    |     |       |   |       |    | |         ||     | ||| |   |  | |  |    | |||   | |   | || |   | |        |  |  | ||    
+HIV1     5425: -GA-AG-A--T----------------------C--TG-G---C------C----T-----T-------C---C-------T----A-C---------AA-----G-GGA-A---G--G-C--C----A-GGG---A-A---T-TT-T---C-T--------T--C--A-GA--- 
+
+COVID-19 5600: ATTTAAGAAAGGTGTTCAGATACCTTGTACGTGTGGTAAACAAGCTACAAAATATCTAGTACAACAGGAGTCACCTTTTGTTATGATGTCAGCACCACCTGCTCAGTATGAACTTAAGCATGGTACATTTACTTGTGCTAGTGAGTACACTGGTAATTACCAGTGTGGTCACTAT 
+                     |         ||||  ||    | |      |     ||  |||     | ||/ |  |      ||||       | ||    || |      |   ||      |||   || ||| | |      | |   | |  ||    |  |       |       || |  
+HIV1     5600: ------G---------CAGA--CC----A-G------A-----GC--CAA-----C-AGC-C--C------CACC-------A-GA----AG-A------G---AG------CTT---CA-GGT-C-T------G-G---G-G--TA----G--A-------G-------AC-A- 
+
+COVID-19 5775: AAACATATAACTTCTAAAGAAACTTTGTATTGCATAGACGGTGCTTTACTTACAAAGTCCTCAGAATACAAAGGTCCTATTACGGATGTTTTCTACAAAGAAAACAGTTACACAACAACCATAAAACCAGTTACTTATAAATTGGATGGTGTTGTTTGTACAGAAATTGACCCTA 
+               |  || |   || |        |         |     |    ||   |  |    |     | |       |  |  |    ||| |    |  |   ||      | |                   |  ||  | |    |||             ||     | |    || 
+HIV1     5775: A--CA-A---CT-C--------C---------C-----C----CT---C--A----G-----A-A-------G--C--A----GGA-G----C--C---GA------T-A-------------------G--AC--A-A----GGA-------------AC-----T-G----TA 
+
+COVID-19 5950: AGTTGGACAATTATTATAAGAAAGACAATTCTTATTTCACAGAGCAACCAATTGATCTTGTACCAAACCAACCATATCCAAACGCAAGCTTCGATAATTTTAAGTTTGTATGTGATAATATCAAATTTGCTGATGATTTAAACCAGTTAACTGGTTATAAGAAACCTGCTTCAAG 
+                 |    |                 |  || | |    ||           ||   |     ||          |  | |   |   | | | |                           |   |   ||  |  |        |      |           |       ||  
+HIV1     5950: --T----C-----------------C--TT-T-A----AC-----------TT---C-----CC----------T--C-A---G---G-T-C-A---------------------------C---T---CT--T--T--------G------G-----------C-------AA- 
+
+COVID-19 6125: AGAGCTTAAAGTTACATTTTTCCCTGACTTAAATGGTGATGTGGTGGCTATTGATTATAAACACTACACACCCTCTTTTAAGAAAGGAGCTAAATTGTTACATAAACCTATTGTTTGGCATGTTAACAATGCAACTAATAAAGCCACGTATAAACCAAATACCTGGTGTATACGT 
+                   |     |  ||      ||||  |      | |          | |           ||  |       |     || |  | |  ||    |               |   ||   |        |||||||| |  |    | | |            |       | | 
+HIV1     6125: ----C-----G--AC------CCCT--C------G-T----------C-A-----------CA--A-------T-----AA-A--G-A--TA----G---------------G---GG---G--------GCAACTAA-A--G----G-A-A------------G-------C-T 
+
+COVID-19 6300: TGTCTTTGGAGCACAAAACCAGTTGAAACATCAAATTCGTTTGATGTACTGAAGTCAGAGGACGCGCAGGGAATGGATAATCTTGCCTGCGAAGATCTAAAACCAGTCTCTGAAGAAGTAGTGGAAAATCCTACCATACAGAAAGACGTTCTTGAGTGTAATGTGAAAACTACCG 
+                  ||    |            || |            |    ||  ||  | |   |||  |    ||  | || |||  |/ |  |   |   | ||      |      |||||  | || |/  |  |    |   |     |   |   || | || |  |    |   | 
+HIV1     6300: ---CT----A------------TT-A------------G----AT--AC--A-G---GAG--C----AG--A-TG-ATA--CA-G--T---A---T-TA------G------AAGAA--A-TG-AG--T--T----T---G-----C---C---AG-G-AA-G--A----T---G 
+
+COVID-19 6475: AAGTTGTAGGAGACATTATACTTAAACCAGCAAATAATAGTTTAAAAATTACAGAAGAGGTTGGCCACACAGATCTAATGGCTGCTTATGTAGACAATTCTAGTCTTACTATTAAGAAACCTAATGAATTATCTAGAGTATTAGGTTTGAAAACCCTTGCTACTCATGGTTTAGC 
+                 |    |  | ||      |  |||  |  |  |    |   |    | |  |  | ||  |   | |    | |   ||      | |  |    || |  |   | |         |  ||  |        |  ||  ||     |   |       |     | |  |   
+HIV1     6475: --G----A--A-AC------C--AAA--A--A--T----G---A----T-A--G--G-GG--G---A-A----T-T---GG------A-G--G----TT-T--T---A-T---------C--AA--A--------G--TA--AG-----A---C-------A-----G-T--A-- 
+
+COVID-19 6650: TGCTGTTAATAGTGTCCCTTGGGATACTATAGCTAATTATGCTAAGCCTTTTCTTAACAAAGTTGTTAGTACAACTACTAACATAGTTACACGGTGTTTAAACCGTGTTTGTACTAATTATATGCCTTATTTCTTTACTTTATTGCTACAATTGTGTACTTTTACTAGAAGTACA 
+               ||     | |     |       |       |  | | |  ||   |        |      |    || | || | ||      ||     ||     |  |         | |||  |   || | ||      |       |        ||  ||    |   |   ||   
+HIV1     6650: TG-----A-T-----C-------A-------G--A-T-A--CT---C--------A------T----AG-A-AA-T-CT------GT-----GG-----A--C---------A-TAA--A---GC-T-AT------A-------G--------GT--AC----A---G---TA-- 
+
+COVID-19 6825: AATTCTAGAATTAAAGCATCTATGCCGACTACTATAGCAAAGAATACTGTTAAGAGTGTCGGTAAATTTTGTCTAGAGGCTTCATTTAATTATTTGAAGTCACCTAATTTTTCTAAACTGATAAATATTATAATTTGGTTTTTACTATTAAGTGTTTGCCTAGGTTCTTTAATCT 
+                 ||  ||  | |  |       |   ||  |||   ||       |            |  |       ||| | |  |   ||  ||||    |  |  |   |             || || |                  ||     || |  |   |    ||     |  
+HIV1     6825: --TT--AG--T-A--G-------G---AC--CTA---CA-------C------------C--T-------GTC-A-A--C---AT--AATT----G--G--A---A-------------GA-AA-T------------------CT-----GT-T--G---A----CT-----C- 
+
+COVID-19 7000: ACTCAACCGCTGCTTTAGGTGTTTTAATGTCTAATTTAGGCATGCCTTCTTACTGTACTGGTTACAGAGAAGGCTATTTGAACTCTACTAATGTCACTATTGCAACCTACTGTACTGGTTCTATACCTTGTAGTGTTTGTCTTAGTGGTTTAGATTCTTTAGACACCTATCCTTC 
+               |       |       |  | |      |         |   |   |       |  |     ||         | ||  ||    | |  | |   |    |  || | | ||  |   |    |||   | | |  |    ||      |    ||   |     || ||    
+HIV1     7000: A-------G-------A--T-T------G---------G---T---T-------G--C-----AC---------T-TT--AA----A-T--T-T---T----C--CC-A-T-TA--G---C----CCT---A-T-T--G----AG------A----CT---G-----TA-CC--- 
+
+COVID-19 7175: TTTAGAAACTATACAAATTACCATTTCATCTTTTAAATGGGATTTAACTGCTTTTGGCTTAGTTGCAGAGTGGTTTTTGGCATATATTCTTTTCACTAGGTTTTTCTATGTACTTGGATTGGCTGCAATCATGCAATTGTTTTTCAGCTATTTTGCAGTACATTTTATTAGTAAT 
+                  ||    || | || |||  |    |          |        |  |         ||  | | | |||/|   |||       |    ||  |         |   |   |  ||      ||  |  |||| |       ||       || |   |       | |   
+HIV1     7175: ---AG----TA-A-AA-TTA--A----A----------G--------C--C---------AG--G-A-A-TGGAT---GGC-------C----CA--A---------A---A---G--TT------AA--A--CAAT-G-------GC-------CA-T---T-------G-A-- 
+
+COVID-19 7350: TCTTGGCTTATGTGGTTAATAATTAATCTTGTACAAATGGCCCCGATTTCAGCTATGGTTAGAATGTACATCTTCTTTGCATCATTTTATTATGTATGGAAAAGTTATGTGCATGTTGTAGACGGTTGTAATTCATCAACTTGTATGATGTGTTACAAACGTAATAGAGCAACAA 
+                |       | |     ||           | | |||        |    |  ||     | || |  ||| |       |            ||| | |||  || |||  |         |      |            | | |||| |  | ||| |     ||  |     
+HIV1     7350: -C-------A-G-----AA-----------G-A-AAA--------A----A--TA-----A-AA-G--CAT-T-------A------------GTA-G-AAA--TT-TGT--A---------C------A------------G-A-GATG-G--A-AAA-G-----GA--A---- 
+
+COVID-19 7525: GAGTCGAATGTACAACTATTGTTAATGGTGTTAGAAGGTCCTTTTATGTCTATGCTAATGGAGGTAAAGGCTTTTGCAAACTACACAATTGGAATTGTGTTAATTGTGATACATTCTGTGCTGGTAGTACATTTATTAGTGATGAAGTTGCGAGAGACTTGTCACTACAGTTTAA 
+               | |  |||   | |  | ||                   |     |     |    ||   |  |      |   |              ||                   |   |||       |  | |   ||              |      |     | ||||    |  
+HIV1     7525: G-G--GAA---A-A--T-TT-------------------C-----A-----A----AA---A--T------T---G--------------GG-------------------C---CTG-------A--A-A---AT--------------C------C-----A-TACA----A- 
+
+COVID-19 7700: AAGACCAATAAATCCTACTGACCAGTCTTCTTACATCGTTGATAGTGTTACAGTGAAGAATGGTTCCATCCATCTTTACTTTGATAAAGCTGGTCAAAAGACTTATGAAAGACATTCTCTCTCTCATTTTGTTAACTTAGACAACCTGAGAGCTAATAACACTAAAGGTTCATTG 
+                       ||   | | |   | |||      |  |  |||         |              | ||  |     |     |    |      |||| |   | ||    ||                || | || | | |   || |||  || ||   |     |  |  | 
+HIV1     7700: --------TA---C-T-C---C-AGT------A--T--TTG---------C--------------C-AT--A-----A-----A----G------AAAA-A---A-GA----CA----------------GT-A-CT-A-A-A---TG-GAG--AA-AA---T-----T--A--G 
+
+COVID-19 7875: CCTATTAATGTTATAGTTTTTGATGGTAAATCAAAATGTGAAGAATCATCTGCAAAATCAGCGTCTGTTTACTACAGTCAGCTTATGTGTCAACCTATACTGTTACTAGATCAGGCATTAGTGTCTGATGTTGGTGATAGTGCGGAAGTTGCAGTTAAAATGTTTGATGCTTACG 
+                 ||     |  ||  ||             ||    |  | ||| | | |  ||  | |          |     |  ||   |      | | |   |    |  ||| |     ||     |||  |  |   | |||       |  ||   |   | |   | |     | 
+HIV1     7875: --TA-----G--AT--TT-------------CA----G--A-GAA-C-T-T--AA--T-A----------A-----G--AG---A------A-C-T---C----A--AGA-C-----TT-----CTG--G--G---A-AGT-------T--CA---A---T-T---A-G-----G 
+
+COVID-19 8050: TTAATACGTTTTCATCAACTTTTAACGTACCAATGGAAAAACTCAAAACACTAGTTGCAACTGCAGAAGCTGAACTTGCAAAGAATGTGTCCTTAGACAATGTCTTATCTACTTTTATTTCAGCAGCTCGGCAAGGGTTTGTTGATTCAGATGTAGAAACTAAAGATGTTGTTGA 
+                 |||||     || ||  |     |   ||   |      |  |        |  |     |       |    |   ||| ||         ||| ||      |   |     ||  |||    |    ||             ||| |  |    ||   |  |      | 
+HIV1     8050: --AATAC-----CA-CA--T-----C---CC---G------C--A--------G--G-----G-------T----T---AAA-AA---------AGA-AA------A---A-----AT--CAG----T----AA-------------CAG-T--A----CT---G--G------A 
+
+COVID-19 8225: ATGTCTTAAATTGTCACATCAATCTGACATAGAAGTTACTGGCGATAGTTGTAATAACTATATGCTCACCTATAACAAAGTTGAAAACATGACACCCCGTGACCTTGGTGCTTGTATTGACTGTAGTGCGCGTCATATTAATGCGCAGGTAGCAAAAAGTCACAACATTGCTTTG 
+                |||        |            |     |   |    |   || |         | ||||  |    | |       |      || |        |    |     |         |       |   |  ||     |   |  | | ||   |  ||    || |     
+HIV1     8225: -TGT--------G------------G-----G---T----G---AT-G---------C-ATAT--T----T-T-------T------CA-G--------T----T-----C---------C-------C---T--TA-----G---A--T-G-AA---G--AC----TT-C---- 
+
+COVID-19 8400: ATATGGAACGTTAAAGATTTCATGTCATTGTCTGAACAACTACGAAAACAAATACGTAGTGCTGCTAAAAAGAATAACTTACCTTTTAAGTTGACATGTGCAACTACTAGACAAGTTGTTAATGTTGTAACAACAAAGATAGCACTTAAGGGTGGTAAAATTGTTAATAATTGGT 
+               |   |||| || |    |   |   | | | |  |     |           |   ||   |  | |       || |   | |   | ||  |  |    ||  || | |    | |  |  |    | || |        ||     |||    |   ||   |      |   
+HIV1     8400: A---GGAA-GT-A----T---A---C-T-G-C--A-----T-----------T---TA---C--C-A-------TA-C---C-T---A-GT--A--T----AA--AC-A-A----T-G--A--G----A-CA-C--------CA-----GGG----A---TT---A------G-- 
+
+COVID-19 8575: TGAAGCAGTTAATTAAAGTTACACTTGTGTTCCTTTTTGTTGCTGCTATTTTCTATTTAATAACACCTGTTCATGTCATGTCTAAACATACTGACTTTTCAAGTGAAATCATAGGATACAAGGCTATTGATGGTGGTGTCACTCGTGACATAGCATCTACAGATACTTGTTTTGC 
+                 |     | | |        ||   ||                   |    | |   | |       ||    | | | ||    ||  |  |        | |        | ||    ||  |   |          |   | ||  |  || |  |||   |          
+HIV1     8575: --A-----T-A-T--------CA---GT-------------------A----C-A---A-T-------GT----G-C-T-TC----CA--C--A--------G-G--------G-AT----GG--A---A----------A---G-GA--T--CA-C--CAG---C--------- 
+
+COVID-19 8750: TAACAAACATGCTGATTTTGACACATGGTTTAGCCAGCGTGGTGGTAGTTATACTAATGACAAAGCTTGCCCATTGATTGCTGCAGTCATAACAAGAGAAGTGGGTTTTGTCGTGCCTGGTTTGCCTGGCACGATATTACGCACAACTAATGGTGACTTTTTGCATTTCTTACCT 
+                ||      |    |||    | ||      |   ||  |      ||     | | |||||||        |   ||  ||    | |      |||             |   | |  |||       | || |  |   ||||  |||//  |      | |   |  |  | 
+HIV1     8750: -AA------T----ATT----C-CA------A---AG--T------AG-----C-A-TGACAAA--------A---AT--CT----T-A------GAG-------------C---C-T--TTT-------A-GA-A--A---ACAA--AATCC--A------G-A---C--A--T 
+
+COVID-19 8925: AGAGTTTTTAGTGCAGTTGGTAACATCTGTTACACACCATCAAAACTTATAGAGTACACTGACTTTGCAACATCAGCTTGTGTTTTGGCTGCTGAATGTACAATTTTTAAAGATGCTTCTGGTAAGCCAGTACCATATTGTTATGATACCAATGTACTAGAAGGTTCTGTTGCTT 
+               ||  ||   | | |  |    |   ||    | |     | |   |  || | | |   ||| ||||     | |  | ||             |  |             ||| ||   |  |  |   |    ||  |  |  | |    |  |   |  ||  |         
+HIV1     8925: AG--TT---A-T-C--T----A---TC----A-A-----T-A---C--AT-G-G-A---TGA-TTTG-----T-A--T-GT-------------A--G-------------GAT-CT---G--A--C---T----TA--G--A--A-A----T--A---G--GG--C-------- 
+
+COVID-19 9100: ATGAAAGTTTACGCCCTGACACACGTTATGTGCTCATGGATGGCTCTATTATTCAATTTCCTAACACCTACCTTGAAGGTTCTGTTAGAGTGGTAACAACTTTTGATTCTGAGTACTGTAGGCACGGCACTTGTGAAAGATCAGAAGCTGGTGTTTGTGTATCTACTAGTGGTAG 
+               | |        |      |      | | |     |   |   |   |  |   ||      |     ||    || ||       ||        |   |   ||    ||   |   |   ||   | |          |      || | |  |   |       | | | | 
+HIV1     9100: A-G--------C------A------T-A-G-----A---A---C---A--A---AA------A-----TA----GA-GG-------AG--------C---T---GA----GA---C---A---AC---A-T----------C------TG-T-T--G---A-------G-G-T-G 
+
+COVID-19 9275: ATGGGTACTTAACAATGATTATTACAGATCTTTACCAGGAGTTTTCTGTGGTGTAGATGCTGTAAATTTACTTACTAATATGTTTACACCACTAATTCAACCTATTGGTGCTTTGGACATATCAGCATCTATAGTAGCTGGTGGTATTGTAGCTATCGTAGTAACATGCCTTGCC 
+                 ||| ||||| |           ||   |   ||||| |     |        | |      |||   ||/| | |    |   | |  |/ ||  |  | |       |      ||| ||  | | | |/| |  ||| | | |   |  |   | |  | | | ||/| || 
+HIV1     9275: --GGG-ACTTA-C-----------CA---C---ACCAG-A-----C--------A-A------AAA---ACAT-C-A----G---A-A--AG-AA--C--C-T-------C------CAT-TC--C-T-T-TGG-A--TGG-G-T-T---A--T---G-A--A-C-T-CCAT-CC 
+
+COVID-19 9450: TACTATTTTATGAGGTTTAGAAGAGCTTTTGGTGAATACAGTCATGTAGTTGCCTTTAATACTTTACTATTCCTTATGTCATTCACTGTACTCTGTTTAACACCAGTTTACTCATTCTTACCTGGTGTTTATTCTGTTATTTACTTGTACTTGACATTTTATCTTACTAATGATG 
+               |          ||  |  | ||    |   ||  |   |||| |/  ||   |||  | ||/|/  ||         | |   ||  | |        || |  ||   ||  |         |         |||          | ||| |   |     |  |  | |||   
+HIV1     9450: T----------GA--T--A-AA----T---GG--A---CAGT-AC--AG---CCT--A-TAGTG--CT---------G-C---CA--G-A--------AA-A--AG---AC--A---------G---------CTG----------G-ACT-G---T-----C--A--A-TGA-- 
+
+COVID-19 9625: TTTCTTTTTTAGCACATATTCAGTGGATGGTTATGTTCACACCTTTAGTACCTTTCTGGATAACAATTGCTTATATCATTTGTATTTCCACAAAGCATTTCTATTGGTTCTTTAGTAATTACCTAAAGAGACGTGTAGTCTTTAATGGTGTTTCCTTTAGTACTTTTGAAGAAGC 
+                  |      |     ||  |||   |     | ||| |        ||        ||         |            | |     | |     ||      |       |  | ||       | |  |      |   || | |    |    || | |||  |     | 
+HIV1     9625: ---C------A-----TA--CAG---A-----A-GTT-A--------GT--------GG---------G------------G-A-----A-A-----TT------G-------A--A-TT-------G-G--G------C---AA-G-T----C----AG-A-TTT--A-----C 
+
+COVID-19 9800: TGCGCTGTGCACCTTTTTGTTAAATAAAGAAATGTATCTAAAGTTGCGTAGTGATGTGCTATTACCTCTTACGCAATATAATAGATACTTAGCTCTTTATAATAAGTACAAGTATTTTAGTGGAGCAATGGATACAACTAGCTACAGAGAAGCTGCTTGTTGTCATCTCGCAAAG 
+                 | |     |       |         |    | || ||||||     |   | | ||/||||  |     |   || ||      ||   | ||| |      | |   |       |   |  |       |  | |   | ||     |           | ||   ||   
+HIV1     9800: --C-C-----A-------G---------G----G-AT-TAAAGT-----A---A-G-GCAATTA--T-----G---TA-AA------CT---C-CTT-A------G-A---G-------G---A--A-------C--C-A---A-AG-----C-----------A-CT---AA-- 
+
+COVID-19 9975: GCTCTCAATGACTTCAGTAACTCAGGTTCTGATGTTCTTTACCAACCACCACAAACCTCTATCACCTCAGCTGTTTTGCAGAGTGGTTTTAGAAAAATGGCATTCCCATCTGGTAAAGTTGAGGGTTGTATGGTACAAGTAACTTGTGGTACAACTACACTTAACGGTCTTTGGC 
+                |    |  ||    ||||| | |    |       |   ||               |  |  ||   ||         | ||       | |     | ||         |  |  |                 |   ||    |    | | ||         || |       
+HIV1     9975: -C----A--GA----AGTAA-T-A----C-------C---AC---------------T--A--AC---AG---------A-AG-------A-A-----G-CA---------G--A--G-----------------C---TA----G----A-A-CT---------GG-C------ 
+
+COVID-19 10150: TTGATGACGTAGTTTACTGTCCAAGACATGTGATCTGCACCTCTGAAGACATGCTTAACCCTAATTATGAAGATTTACTCATTCGTAAGTCTAATCATAATTTCTTGGTACAGGCTGGTAATGTTCAACTCAGGGTTATTGGACATTCTATGCAAAATTGTGTACTTAAGCTTAA 
+                   | ||   |    |      |   || |  |   | |     ||     |  |   |  |||  |  | ||   || ||   |||   | | |           || |  |  || || | |  |  |  |    |/    |   | || |||||  |   ||||||  | |  
+HIV1     10150: ---A-GA---A----A------A---CA-G--A---G-A-----GA-----T--T---C--TAA--A--A-GA---AC-CA---GTA---C-A-T-----------GG-A--G--TG-TA-T-T--A--T--G----AC----C---C-AT-CAAAA--G---ACTTAA--T-A- 
+
+COVID-19 10325: GGTTGATACAGCCAATCCTAAGACACCTAAGTATAAGTTTGTTCGCATTCAACCAGGACAGACTTTTTCAGTGTTAGCTTGTTACAATGGTTCACCATCTGGTGTTTACCAATGTGCTATGAGGCCCAATTTCACTATTAAGGGTTCATTCCTTAATGGTTCATGTGGTAGTGTT 
+                |       |||  ||    |       ||              |  |        | | || |      || |   |   |   ||| ||/ ||  ||  ||     || | |     ||    |  ||    | | |||    | ||      |  |    | |//  | | || 
+HIV1     10325: G-------CAG--AA----A-------TA--------------C--A--------G-A-AG-C------AG-G---G---G---CAA-GGC-CA--AT--GG-----AC-A-T-----AT----C--AA----A-T-TTA----T-CA------A--G----A-GCC--A-T-TT 
+
+COVID-19 10500: GGTTTTAACATAGATTATGACTGTGTCTCTTTTTGTTACATGCACCATATGGAATTACCAACTGGAGTTCATGCTGGCACAGACTTAGAAGGTAACTTTTATGGACCTTTTGTTGACAGGCAAACAGCACAAGCAGCTGGTACGGACACAACTATTACAGTTAATGTTTTAGCTT 
+                      || | | ||/ |||                 | |   || |   ||||  |  |  |  | |    ||    | |||   |     |         | |      |  |   ||                 ||   |   | || | |   |  | ||||    |  |  
+HIV1     10500: ------AA-A-A-ATC-TGA-----------------A-A---AC-A---GGAA--A--A--T--A-T----GC----A-AGA---A-----T---------G-A------G--G---GG-----------------TG---C---C-CA-C-A---C--T-AATG----A--T- 
+
+COVID-19 10675: GGTTGTACGCTGCTGTTATAAATGGAGACAGGTGGTTTCTCAATCGATTTACCACAACTCTTAATGACTTTAACCTTGTGGCTATGAAGTACAATTATGAACCTCTAACACAAGACCATGTTGACATACTAGGACCTCTTTCTGCTCAAACTGGAATTGCCGTTTTAGATATGTG 
+                | |   |          | ||       ||           | |   |  |  |||/     |/ | |   |     ||| | |  ||  | ||| |  | ||   | ||   ||  |     |       |  |            |   |  |   |   |   | ||||| | 
+HIV1     10675: G-T---A----------A-AA-------CA-----------A-T---T--A--ACAG-----AG-G-C---A-----GTG-C-A--AA--A-AAT-A--A-CC---A-CA---GA--A-----A-------G--C------------A---T--A---G---T---A-ATATG-G 
+
+COVID-19 10850: TGCTTCATTAAAAGAATTACTGCAAAATGGTATGAATGGACGTACCATATTGGGTAGTGCTTTATTAGAAGATGAATTTACACCTTTTGATGTTGTTAGACAATGCTCAGGTGTTACTTTCCAAAGTGCAGTGAAAAGAACAATCAAGGGTACACACCACTGGTTGTTACTCACA 
+                 |           |||  |  | |                | | || ||      |       |||      | ||   ||   |   |           |    | ||  |   ||     |||    || ||||    || |   ||| | | || | ||||/|  ||  |/| 
+HIV1     10850: -G-----------GAA--A--G-A----------------C-T-CC-TA------A-------ATT------T-AA---AC---T---G-----------C----C-CA--T---AC-----AAA----AG-GAAA----CA-T---GGG-A-A-AC-A-TGGTGG--AC--AGA 
+
+COVID-19 11025: ATTTTGACTTCACTTTTAGTTTTAGTCCAGAGTACTCAATGGTCTTTGTTCTTTTTTTTGTATGAAAATGCCTTTTTACCTTTTGCTATGGGTATTATTGCTATGTCTGCTTTTGCAATGATGTTTGTCAAACATAAGCATGCATTTCTCTGTTTGTTTTTGTTACCTTCTCTTG 
+                     |  |  | ||   |     | | | ||  | ||     |      ||       |   ||   |   |     |||   |  | |  |      |    |   |       |  | | || ||      |||   |  |   | |               ||| | |    
+HIV1     11025: -----G--T--A-TT---G-----G-C-A-AG--C-CA-----C------CT-------G---GA---T---T-----CCT---G--A-G--T------G----G---G-------A--G-T-TT-GT------TAA---T--A---C-C---------------CCT-C-C--- 
+
+COVID-19 11200: CCACTGTAGCTTATTTTAATATGGTCTATATGCCTGCTAGTTGGGTGATGCGTATTATGACATGGTTGGATATGGTTGATACTAGTTTGTCTGGTTTTAAGCTAAAAGACTGTGTTATGTATGCATCAGCTGTAGTGTTACTAATCCTTATGACAGCAAGAACTGTGTATGATGA 
+                |   | ||| |           |    | |        | ||     ||| |||      |                    | ||||           | |  |   ||       |   | | |  | |          |    |   || |  |       |    | |  || 
+HIV1     11200: C---T-TAG-T-----------G----A-A--------A-TT-----ATG-GTA------C--------------------C-AGTT-----------A-G--A---GA-------A---A-G-A--A-C----------C----C---AT-A--G-------T----A-G--GA 
+
+COVID-19 11375: TGGTGCTAGGAGAGTGTGGACACTTATGAATGTCTTGACACTCGTTTATAAAGTTTATTATGGTAATGCTTTAGATCAAGCCATTTCCATGTGGGCTCTTATAATCTCTGTTACTTCTAACTACTCAGGTGTAGTTACAACTGTCATGTTTTTGGCCAGAGGTATTGTTTTTATG 
+                 |   | || | |      || |||        ||  |   | ||  |    |   ||   ||    |     |  || ||  |    |           |    |      |              || | ||  ||   |   |           | |  | |       | | 
+HIV1     11375: -G---C-AG-A-A------AC-CTT--------CT--A---T-GT--A----G---AT---GG----G-----G--CA-GC--T----A-----------A----C------A--------------GG-G-AG--AC---T---A-----------A-A--T-T-------A-G 
+
+COVID-19 11550: TGTGTTGAGTATTGCCCTATTTTCTTCATAACTGGTAATACACTTCAGTGTATAATGCTAGTTTATTGTTTCTTAGGCTATTTTTGTACTTGTTACTTTGGCCTCTTTTGTTTACTCAACCGCTACTTTAGACTGACTCTTGGTGTTTATGATTACTTAGTTTCTACACAGGAGT 
+                 |     |  |       |        |     |      ||     | | ||| || |  |  |      || |    ||      |   |  |    ||            |   |   |  ||   | |   |            |  |       |||        |   | 
+HIV1     11550: -G-----A--A-------A--------A-----G------CA-----G-G-ATA-TG-T--T--A------CT-A----AT------A---G--A----GG------------A---A---G--AC---A-A---A------------A--A-------GTT--------G---T 
+
+COVID-19 11725: TTAGATATATGAATTCACAGGGACTACTCCCACCCAAGAATAGCATAGATGCCTTCAAACTCAACATTAAATTGTTGGGTGTTGGTGGCAAACCTTGTATCAAAGTAGCCACTGTACAGTCTAAAATGTCAGATGTAAAGTGCACATCAGTAGTCTTACTCTCAGTTTTGCAACA 
+                               |||     |  ||   |   |       | | ||  |    |  |  ||||  || |                ||      | |  |  | | |   || |  || ||      || | |       || ||   |  |   | ||| ||     |     
+HIV1     11725: ---------------CAC-----C--CT---A---A-------C-T-GA--C----A--C--AACA--AA-T----------------CA------G-A--A--G-A-C---TG-A--GT-TA------CA-A-G-------CA-AT---T--T---A-TCT-AG-----C---- 
+
+COVID-19 11900: ACTCAGAGTAGAATCATCATCTAAATTGTGGGCTCAATGTGTCCAGTTACACAATGACATTCTCTTAGCTAAAGATACTACTGAAGCCTTTGAAAAAATGGTTTCACTACTTTCTGTTTTGCTTTCCATGCAGGGTGCTGTAGACATAAACAAGCTTTGTGAAGAAATGCTGGAC 
+                  |     |    |             |    |  |  | |   | || |     |           |     |||  ||  ||||  |   |||         || ||      ||          |   |     |   |||| |   ||  |      ||    |     |  
+HIV1     11900: --T-----T----T-------------G----C--A--G-G---A-TT-C-----G-----------G-----GAT--TA--GAAG--T---AAA---------CA-TA------GT----------A---A-----C---AGAC-T---CA--C------AA----T-----A- 
+
+COVID-19 12075: AACAGGGCAACCTTACAAGCTATAGCCTCAGAGTTTAGTTCCCTTCCATCATATGCAGCTTTTGCTACTGCTCAAGAAGCTTATGAGCAGGCTGTTGCTAATGGTGATTCTGAAGTTGTTCTTAAAAAGTTGAAGAAGTCTTTGAATGTGGCTAAATCTGAATTTGACCGTGATG 
+                            |     || ||    | || |   |          ||||| | ||         |  ||  |     |  |  | |   |       |  |   || |  ||         |    || |||    ||    |  |     |     |  ||  |  ||     
+HIV1     12075: ------------T-----GC-AT----T-AG-G---A----------ATCAT-T-CA---------A--GC--A-----C--A--A-C---C-------A--G---AT-C--AA---------A----GT-GAA----TC----A--G-----A-----G--TT--A--GT---- 
+
+COVID-19 12250: CAGCCATGCAACGTAAGTTGGAAAAGATGGCTGATCAAGCTATGACCCAAATGTATAAACAGGCTAGATCTGAGGACAAGAGGGCAAAAGTTACTAGTGCTATGCAGACAATGCTTTTCACTATGCTTAGAAAGTTGGATAATGATGCACTCAACAACATTATCAACAATGCAAG 
+                ||   || |||   |  |   ||    |     |    |  | | |  |   || |||      || |    |  | ||| |   |||||      || |||| |      ||           ||  |     | ||     | |  || ||/|| ||    ||| |  |   | 
+HIV1     12250: CA---AT-CAA---A--T---AA----T-----A----G--A-G-C--A---GT-TAA------TA-A----A--A-AAG-G---AAAAG------GT-CTAT-C------TG-----------GC--A-----T-GG-----G-T--AC-CAGCA-CA----CAA-A--G---G 
+
+COVID-19 12425: AGATGGTTGTGTTCCCTTGAACATAATACCTCTTACAACAGCAGCCAAACTAATGGTTGTCATACCAGACTATAACACATATAAAAATACGTGTGATGGTACAACATTTACTTATGCATCAGCATTGTGGGAAATCCAACAGGTTGTAGATGCAGATAGTAAAATTGTTCAACTT 
+                | ||  | | |        |                    |  |  ||| |   |      | ||/||  ||                  |    ||   | ||  || |     |  ||||  | |        |       | |  ||   |  |            ||     
+HIV1     12425: A-AT--T-G-G--------A--------------------G--G--AAA-T---G------A-ACAAG--TA------------------G----AT---A-AA--TT-A-----G--TCAG--T-G--------C-------T-G--GA---A--T------------CA---- 
+
+COVID-19 12600: AGTGAAATTAGTATGGACAATTCACCTAATTTAGCATGGCCTCTTATTGTAACAGCTTTAAGGGCCAATTCTGCTGTCAAATTACAGAATAATGAGCTTAGTCCTGTTGCACTACGACAGATGTCTTGTGCTGCCGGTACTACACAAACTGCTTGCACTGATGACAATGCGTTAG 
+                 | ||||   |||    |  |  |  |  |||    |        |  | |     |    ||   |||         |       || ||| | ||     ||      |  | ||    ||               |  |||     ||     |  ||  | | |     |  
+HIV1     12600: -G-GAAA---GTA----C--T--A--T--TTT----T--------A--G-A-----T----GG---AAT---------A-------GA-TAA-G-GC-----CC------A--A-GA----TG---------------A--ACA-----TG-----A--GA--A-A-T-----A- 
+
+COVID-19 12775: CTTACTACAACACAACAAAGGGAGGTAGGTTTGTACTTGCACTGTTATCCGATTTACAGGATTTGAAATGGGCTAGATTCCCTAAGAGTGATGGAACTGGTACTATCTATACAGAACTGGAACCACCTTGTAGGTTTGTTACAGACACACCTAAAGGTCCTAAAGTGAAGTATTT 
+                 |  | |||          |/ |   |  || |     | |  |  |   |     ||  ||  |    |  |||| |       || |  |     |  ||  | |    |     ||   |||||| |||| |     |  | || |   || |     ||| | | |||    
+HIV1     12775: -T--C-ACA----------GT-A---A--TT-G-----G-A--G--A---G-----CA--AT--G----G--CTAG-T-------GA-T--T-----T--TA--A-C----C-----TG---CCACCT-GTAG-T-----A--G-CA-A---AA-G-----AAA-T-A-GTA--- 
+
+COVID-19 12950: ATACTTTATTAAAGGATTAAACAACCTAAATAGAGGTATGGTACTTGGTAGTTTAGCTGCCACAGTACGTCTACAAGCTGGTAATGCAACAGAAGTGCCTGCCAATTCAACTGTATTATCTTTCTGTGCTTTTGCTGTAGATGCTGCTAAAGCTTACAAAGATTATCTAGCTAGT 
+                             |       |  |  |    |          || | | |   |  |   | |  |  |      | |       ||   |     | |   ||   ||  |            |            |||       |  ||   ||    |      || | | 
+HIV1     12950: -------------G-------C--C--A----G----------CT-G-T-G---A--T---A-A--A--T------G-T-------CA---G-----C-T---AA---AA--G------------G------------AGA-------A--GC---CA----T------GC-A-T 
+
+COVID-19 13125: GGGGGACAACCAATCACTAATTGTGTTAAGATGTTGTGTACACACACTGGTACTGGTCAGGCAATAACAGTTACACCGGAAGCCAATATGGATCAAGAATCCTTTGGTGGTGCATCGTGTTGTCTGTACTGCCGTTGCCACATAGATCATCCAAATCCTAAAGGATTTTGTGACT 
+                ||   ||||             ||   | ||         |      || ||  | ||   ||      |       | ||     |||||  |||    | |          |  |          | |    | |     ||   || | |  |  |      |      |   
+HIV1     13125: GG---ACAA-------------GT---A-GA---------C------TG-TA--G-TC---CA------G-------G-AA-----TATGG--CAA----C-T----------A--G----------A-T----T-G-----TA---CA-C-A--T--T------T------A-- 
+
+COVID-19 13300: TAAAAGGTAAGTATGTACAAATACCTACAACTTGTGCTAATGACCCTGTGGGTTTTACACTTAAAAACACAGTCTGTACCGTCTGCGGTATGTGGAAAGGTTATGGCTGTAGTTGTGATCAACTCCGCGAACCCATGCTTCAGTCAGCTGATGCACAATCGTTTTTAAACGGGTT 
+                     |  |||   | | |||            ||  || |  || || |  |   |              | |   |  || | |   ||||  |  |/      |   ||| | ||| |  |     |/   | |    |   |||  | | | |   |||   |      || 
+HIV1     13300: -----G--AAG---G-A-AAA------------GT--TA-T--CC-TG-G--T---A--------------G-C---A--GT-T-C---ATGT--A--GC------C---AGT-G-GAT-A--T-----AT---A-G----A---AGC--A-G-A-A---GTT---A------TT 
+
+COVID-19 13475: TGCGGTGTAAGTGCAGCCCGTCTTACACCGTGCGGCACAGGCACTAGTACTGATGTCGTATACAGGGCTTTTGACATCTACAATGATAAAGTAGCTGGTTTTGCTAAATTCCTAAAAACTAATTGTTGTCGCTTCCAAGAAAAGGACGAAGATGACAATTTAATTGATTCTTACT 
+                  |          ||||       |    |      | |   || ||    |  | |  |    ||       | |   |||  |/ |   ||  |  |||  ||   ||  |||||/ ||   |    |      | |    | |  | ||||           |   |   |  
+HIV1     13475: --C----------CAGC-------A----G------A-A---AC-AG----G--G-C--A----GG-------A-A---ACA--GC-A---TA--T--TTT--CT---TT--TAAAAT-TA---G----C------A-G----G-A--A-GATG-----------G---C---C- 
+
+COVID-19 13650: TTGTAGTTAAGAGACACACTTTCTCTAACTACCAACATGAAGAAACAATTTATAATTTACTTAAGGATTGTCCAGCTGTTGCTAAACATGACTTCTTTAAGTTTAGAATAGACGGTGACATGGTACCACATATATCACGTCAACGTCTTACTAAATACACAATGGCAGACCTCGT 
+                    ||| || | | |||        |  ||| |   | |     |  |               | |    | |         |    ||          |           |    |   |   | | || | ||||  |   |                  |       | |  
+HIV1     13650: ----AGT-AA-A-A-ACA--------A--TAC-A---T-A-----C--T---------------G-A----C-A---------A----TG----------G-----------C----A---G---C-A-AT-T-TCAC--C---G------------------G-------T-G- 
+
+COVID-19 13825: CTATGCTTTAAGGCATTTTGATGAAGGTAATTGTGACACATTAAAAGAAATACTTGTCACATACAATTGTTGTGATGATGATTATTTCAATAAAAAGGACTGGTATGATTTTGTAGAAAACCCAGATATATTACGCGTATACGCCAACTTAGGTGAACGTGTACGCCAAGCTTTG 
+                |||  |     ||  ||   | |  ||         | |       |     |    |   |      |||| | ||  |                |  | ||   ||      |           |      |    | | || |     ||  ||  | |         |  | 
+HIV1     13825: CTA--C-----GG--TT---A-G--GG---------C-C-------G-----C----C---T------GTTG-G-TG--G----------------G--C-GG---GA------A-----------T------C----A-A-GC-A-----GG--AA--T-T---------T--G 
+
+COVID-19 14000: TTAAAAACAGTACAATTCTGTGATGCCATGCGAAATGCTGGTATTGTTGGTGTACTGACATTAGATAATCAAGATCTCAATGGTAACTGGTATGATTTCGGTGATTTCATACAAACCACGCCAGGTAGTGGAGTTCCTGTTGTAGATTCTTATTATTCATTGTTAATGCCTATAT 
+                         | | | |||       || |   |    |    |          | |  |          |     | |||    |   | |       |    |    |          |   |  |||  |||         |||     ||    | |    | ||   | || 
+HIV1     14000: ---------G-A-A-TTC-------CC-T---A----C----A----------A-T--C----------C-----C-CAA----A---G-T-------C----A----A----------G---G--AGT--AGT---------AGA-----AT----C-T----A-TG---A-AT 
+
+COVID-19 14175: TAACCTTGACCAGGGCTTTAACTGCAGAGTCACATGTTGACACTGACTTAACAAAGCCTTACATTAAGTGGGATTTGTTAAAATATGACTTCACGGAAGAGAGGTTAAAACTCTTTGACCGTTATTTTAAATATTGGGATCAGACATACCACCCAAATTGTGTTAACTGTTTGGA 
+                 ||     |   |      || |      | | |     |    ||   || |     |||  | | | |  |               |   | ||        | ||        ||  |  ||               |||                |      |||     | 
+HIV1     14175: -AA-----A---G------AA-T------T-A-A-----A----GA---AA-A-----TTA--T-A-G-G--A---------------C---A-GG--------T-AA--------GA--G--AT---------------CAG----------------G------CTG-----A 
+
+COVID-19 14350: TGACAGATGCATTCTGCATTGTGCAAACTTTAATGTTTTATTCTCTACAGTGTTCCCACCTACAAGTTTTGGACCACTAGTGAGAAAAATATTTGTTGATGGTGTTCCATTTGTAGTTTCAACTGGATACCACTTCAGAGAGCTAGGTGTTGTACATAATCAGGATGTAAACTTA 
+                  |||  | | ||    |      |         |    |  |   |  |    |  |       ||     || |  |   |      |    |  |        | |   ||| || ||  |     ||||   | |    |   | ||  | | ||   | |   |||/    
+HIV1     14350: --ACA--T-C-TT----A------A---------G----A--C---A--G----C--A-------GT-----AC-A--A---A------T----G--G--------C-A---GTA-TT-CA--T-----CCAC---A-A----T---T-TT--A-A-AA---G-A---AAAG--- 
+
+COVID-19 14525: CATAGCTCTAGACTTAGTTTTAAGGAATTACTTGTGTATGCTGCTGACCCTGCTATGCACGCTGCTTCTGGTAATCTATTACTAGATAAACGCACTACGTGCTTTTCAGTAGCTGCACTTACTAACAATGTTGCTTTTCAAACTGTCAAACCCGGTAATTTTAACAAAGACTTCT 
+                    |     |     |      ||| ||    | |   |  |  |     | ||  || | |||//  ||             || ||  | |  |  |       |||||    ||  | |||   |          |    | ||| |     |           |||     
+HIV1     14525: ----G-----G-----G------GGA-TT----G-G---G--G--G-----G-TA--CA-G-TGCAG--GG-------------GA-AA--G-A--A--T-------AGTAG----AC--A-TAA---T----------A----G-CAA-C-----A-----------GAC---- 
+
+COVID-19 14700: ATGACTTTGCTGTGTCTAAGGGTTTCTTTAAGGAAGGAAGTTCTGTTGAATTAAAACACTTCTTCTTTGCTCAGGATGGTAATGCTGCTATCAGCGATTATGACTACTATCGTTATAATCTACCAACAATGTGTGATATCAGACAACTACTATTTGTAGTTGAAGTTGTTGATAA 
+                || ||/           ||      ||  ||  | | || ||      |       ||              |  |    ||  |    |  |   ||||   | |  |     | ||| | | || ||| | |  |  | |             |  |||    |     ||   
+HIV1     14700: AT-ACA-----------AA------CT--AA--A-G-AA-TT------A-------CA--------------A--A----AA--C----A--A---ATTA---C-A--A-----A-AAT-T-C-AA-AAT-T-T--T--C-G-------------G--GTT----T-----AT-- 
+
+COVID-19 14875: GTACTTTGATTGTTACGATGGTGGCTGTATTAATGCTAACCAAGTCATCGTCAACAACCTAGACAAATCAGCTGGTTTTCCATTTAATAAATGGGGTAAGGCTAGACTTTATTATGATTCAATGAGTTATGAGGATCAAGATGCACTTTTCGCATATACAAAACGTAATGTCATC 
+                 |||    |  |    |  |        |      | |     | ||  |  || |   |   |    || ||  ||               ||   ||    ||          ||  |                || |   ||        | |        |      | || 
+HIV1     14875: -TAC----A--G----G--G--------A------C-A-----G-CA--G--AA-A---T---C----CA-CT--TT---------------GG---AA----AG----------GA--C----------------CA-G---CA--------A-A--------G------C-TC 
+
+COVID-19 15050: CCTACTATAACTCAAATGAATCTTAAGTATGCCATTAGTGCAAAGAATAGAGCTCGCACCGTAGCTGGTGTCTCTATCTGTAGTACTATGACCAATAGACAGTTTCATCAAAAATTATTGAAATCAATAGCCGCCACTAGAGGAGCTACTGTAGTAATTGGAACAAGCAAATTCT 
+                | | ||           |        | |    |  || |       | ||      |  |  |  ||   |   |   ||||||  || || ||  ||   |   |  |    | |/|||   || ||      |  | ||    ||  || |/        |||| ||      
+HIV1     15050: C-T-CT-----------G--------G-A----A--AG-G-------T-GA------A--G--G--GG---C---A---GTAGTA--AT-AC-AA--GA---T---A--A----T-AGTGA---CA-TA------A--A-AG----TA--GT-GC--------CAAG-AA----- 
+
+COVID-19 15225: ATGGTGGTTGGCACAACATGTTAAAAACTGTTTATAGTGATGTAGAAAACCCTCACCTTATGGGTTGGGATTATCCTAAATGTGATAGAGCCATGCCTAACATGCTTAGAATTATGGCCTCACTTGTTCTTGCTCGCAAACATACAACGTGTTGTAGCTTGTCACACCGTTTCTA 
+                  |         | || | |       |     | |   | | |        |||  ||| |||     |||||       | || | |   |  |  |    |   |   |   |||   |   |     | | | |    |/ |   | | || | | |       |   | | 
+HIV1     15225: --G---------A-AA-A-G-------C-----A-A---A-G-A--------TCA--TTA-GGG-----ATTAT-------G-GA-A-A---A--C--A----G---A---T---GGC---A---G-----G-T-G-A----TG-A---T-T-GT-G-T-G-------G---C-A 
+
+COVID-19 15400: TAGATTAGCTAATGAGTGTGCTCAAGTATTGAGTGAAATGGTCATGTGTGGCGGTTCACTATATGTTAAACCAGGTGGAACCTCATCAGGAGATGCCACAACTGCTTATGCTAATAGTGTTTTTAACATTTGTCAAGCTGTCACGGCCAATGTTAATGCACTTTTATCTACTGAT 
+                 || | ||  |         |  | |    || |||   ||  || |          |      |  || | |  |||||    |  ||    |        |  | | | ||| |        | ||/    ||   |   |       ||| | ||   |||   | |  |   
+HIV1     15400: -AG-T-AG--A---------C--A-G----GA-TGA---GG--AT-T----------A------G--AA-C-A--TGGAA----A--AG----T--------T--T-A-G-TAA-A--------A-CAC----CA---T---A-------TGT-A-TG---TTT---C-A--G-- 
+
+COVID-19 15575: GGTAACAAAATTGCCGATAAGTATGTCCGCAATTTACAACACAGACTTTATGAGTGTCTCTATAGAAATAGAGATGTTGACACAGACTTTGTGAATGAGTTTTACGCATATTTGCGTAAACATTTCTCAATGATGATACTCTCTGACGATGCTGTTGTGTGTTTCAATAGCACTT 
+                || || |     ||   || |   |   |              || |    | || | | ||||||/||           |||    |     | |||     |   |     ||     |    |||| |       | |    |  | |              ||||  |    
+HIV1     15575: GG-AA-A-----GC---TA-G---G---G--------------GA-T----G-GT-T-T-TATAGACAT-----------CAC----T-----A-TGA-----A---A-----GC-----C----CTCA-T-------C-C----A--A-G--------------AATA--A--- 
+
+COVID-19 15750: ATGCATCTCAAGGTCTAGTGGCTAGCATAAAGAACTTTAAGTCAGTTCTTTATTATCAAAACAATGTTTTTATGTCTGAAGCAAAATGTTGGACTGAGACT-GACCTTACTAAAGGACCTCATGAATTTTGCTCTCAACATACAATGCTAGTTAAACAGGGTGATGATTATGTGT 
+                  |  | ||| |    |      ||  ||     |   |   || | |        |    ||            || | |      |  ||| ||   || ||  ||      ||   | |  | |         |||| ||| |   | ||     ||| | |           
+HIV1     15750: --G--T-TCA-G----A------AG--TA-----C---A---CA-T-C--------C----CA------------CT-A-G------G--GGA-TG---CTAGA--TT------GG---T-A--A-T---------AACA-ACA-T---A-TT-----GGG-G-T---------- 
+
+COVID-19 15925: ACCTTCCTTACCCAGATCCATCAAGAATCCTAGGGGCCGGCTGTTTTGTAGATGATATCGTAAAAACAGATGGTACACTTATGATTGAACGGTTCGTGTCTTTAGCTATAGATGCTTACCCACTTACTAAACATCCTAATCAGGAGTATGCTGATGTCTTTCATTTGTACTTACA 
+                 | |          |  | || |     |  |||               |||  | |  | |/|  |   |||  || || ||   |   | | |/ |      |     || | |  |    |  |    |||   |    | |  |||  || |          | |   | | 
+HIV1     15925: -C-T----------G--C-AT-A-----C--AGG---------------AGA--A-A--G-AGA--C---TGG--CA-TT-TG---G---G-T-CA-G------G-----GA-G-T--C----T--C----CAT---A----G-A--ATG--GA-G----------G-A---A-A 
+
+COVID-19 16100: ATACATAAGAAAGCTACATGATGAGTTAACAGGACACATGTTAGACATGTATTCTGTTATGCTTACTAATGATAACACTTCAAGGTATTGGGAACCTGAGTTTTATGAGGCTATGTACACACCGCATACAGTCTTACAGGCTGTTGGGGCTTGTGTTCTTTGCAATTCACAGACT 
+                | |     ||  |  |  | || ||/ | ||   || | || ||||       |       ||       || | |  |  | |          |   ||    |     |      || ||    || | | |  ||   |       || ||         | || ||    | 
+HIV1     16100: A-A-----GA--G--A--T-AT-AGC-A-CA---CA-A-GT-AGAC-------C-------CT-------GA-A-C--T--A-G----------C---AG----A-----C------CA-AC----TA-A-T-T--CA---T-------CT-GT---------A-TT-AC----T 
+
+COVID-19 16275: TCATTAAGATGTGGTGCTTGCATACGTAGACCATTCTTATGTTGTAAATGCTGTTACGACCATGTCATATCAACATCACATAAATTAGTCTTGTCTGTTAATCCGTATGTTTGCAATGCTCCAGGTTGTGATGTCACAGATGTGACTCAACTTTACTTAGGAGGTATGAGCTATT 
+                |  |   ||/ || |  ||   |   |   | |       |    |    ||    |     || | ||| ||              |           ||     | |   ||    ||     |    || | |  |  |  ||  | |   | | ||    | | |||     
+HIV1     16275: T--T---GAC-TG-T--TT---T---T---C-A-------G----A----CT----C-----TG-C-TAT-AA--------------G-----------AA-----A-G---GC----CT-----T----AT-T-A--G--G--AC--A-C---A-T-AG----T-T-AGC---- 
+
+COVID-19 16450: ATTGTAAATCACATAAACCACCCATTAGTTTTCCATTGTGTGCTAATGGACAAGTTTTTGGTTTATATAAAAATACATGTGTTGGTAGCGATAATGTTACTGACTTTAATGCAATTGCAACATGTGACTGGACAAATGCTGGTGATTACATTTTAGCTAACACCTGTACTGAAAG 
+                         | | ||            |         |||||  |||  |    |                    ||         ||| |    |     |||   | |  ||   |||   | |  |  |     |  |   ||  | |     ||| ||     | | |    
+HIV1     16450: ---------C-C-TA------------G---------GTGTG--AAT--A----T--------------------CA---------AGC-A----G-----GAC---A-T--AA---CAA---G-G--T--A-----G--G---AT--C-T-----CTA-CA-----A-T-A--- 
+
+COVID-19 16625: ACTCAAGCTTTTTGCAGCAGAAACGCTCAAAGCTACTGAGGAGACATTTAAACTGTCTTATGGTATTGCTACTGTACGTGAAGTGCTGTCTGACAGAGAATTACATCTTTCATGGGAAGTTGGTAAACCTAGACCACCACTTAACCGAAATTATGTCTTTACTGGTTATCGTGTA 
+                 ||     |    |  |||    |  | |  || |  |      |||| ||  |     |    |   | ||    |   ||          | | | |              |  |  |    |||    | |||||  ||        |   | |    ||    |  ||||  
+HIV1     16625: -CT-----T----G--GCA----C--T-A--GC-A--G------CATT-AA--T-----A----A---C-AC----C---AA----------A-A-A-A--------------G--A--T----AAA----G-CCACC--TT--------T---G-C----CT----A--GTGT- 
+
+COVID-19 16800: ACTAAAAACAGTAAAGTACAAATAGGAGAGTACACCTTTGAAAAAGGTGACTATGGTGATGCTGTTGTTTACCGAGGTACAACAACTTACAAATTAAATGTTGGTGATTATTTTGTGCTGACATCACATACAGTAATGCCATTAAGTGCACCTACACTAGTGCCACAAGAGCACT 
+                  ||    | | |||   |   | | |     ||     ||    ||  | || |   |||  |      |   |    |||                 |                 |   |  | ||/| || |   |||  | | |           |  ||||| |||     
+HIV1     16800: --TA----C-G-AAA---C---T-G-A-----CA-----GA----GG--A-TA-G---ATG--G------A---A----CAA-----------------G-----------------C---C--C-CAGA-AG-A---CCA--A-G-G-----------G--CCACA-GAG---- 
+
+COVID-19 16975: ATGTTAGAATTACTGGCTTATACCCAACACTCAATATCTCAGATGAGTTTTCTAGCAATGTTGCAAATTATCAAAAGGTTGGTATGCAAAAGTATTCTACACTCCAGGGACCACCTGGTACTGGTAAGAGTCATTTTGCTATTGGCCTAGCTCTCTACTACCCTTCTGCTCGCAT 
+                  |   ||      | |     |  | |||  |||/    | ||| |      | ||      |   | |      |      | ||     | || ||/|     || |      |   ||  |||||   ||   |  |       ||||               | |    | 
+HIV1     16975: --G---GA------G-C-----C--A-CAC--AATG----A-ATG-G------A-CA------C---T-A------G------A-GC-----T-TT-TAGA-----GG-A------G---CT--TAAGA---AT---G--A-------AGCT---------------G-T----T 
+
+COVID-19 17150: AGTGTATACAGCTTGCTCTCATGCCGCTGTTGATGCACTATGTGAGAAGGCATTAAAATATTTGCCTATAGATAAATGTAGTAGAATTATACCTGCACGTGCTCGTGTAGAGTGTTTTGATAAATTCAAAGTGAATTCAACATTAGAACAGTATGTCTTTTGTACTGTAAATGCA 
+                ||   |  ||  ||  | ||   |   |/  |  | | | | || |    | |           || || |      |             | |     |        || | |            |||        ||   | |      |    ||     | || |||  |  
+HIV1     17150: AG---A--CA--TT--T-TC---C---TA--G--G-A-T-T-TG-G----C-T-----------CC-AT-G------G-------------C-T-----T--------AG-G-G------------CAA--------CA---T-A------T----CT-----A-TG-AAA--C- 
+
+COVID-19 17325: TTGCCTGAGACGACAGCAGATATAGTTGTCTTTGATGAAATTTCAATGGCCACAAATTATGATTTGAGTGTTGTCAATGCCAGATTACGTGCTAAGCACTATGTGTACATTGGCGACCCTGCTCAATTACCTGCACCACGCACATTGCTAACTAAGGGCACACTAGAACCAGAAT 
+                ||     |            |   |  |     |  ||  |   |    |      ||  |    | |      ||  |   ||    |||    | |  | |    |     | |   |    ||| |     |    | | ||| ||      |  || || | | |     | 
+HIV1     17325: TT-----A------------T---G--G-----G--GA--T---A----C------TT--G----G-G------CA--G---GA----GTG----G-A--A-G----C-----C-A---T----AAT-A-----A----G-A-ATT-CT------G--CA-AC-A-A-C-----T 
+
+COVID-19 17500: ATTTCAATTCAGTGTGTAGACTTATGAAAACTATAGGTCCAGACATGTTCCTCGGAACTTGTCGGCGTTGTCCTGCTGAAATTGTTGACACTGTGAGTGCTTTGGTTTATGATAATAAGCTTAAAGCACATAAAGACAAATCAGCTCAATGCTTTAAAATGTTTTATAAGGGTGT 
+                           |        ||   |     | |   |  |    |   ||    |  || |     |   |      |    |   | | | || | | |  | |             |     | |||||  | ||     |   |||     |    |        |      
+HIV1     17500: -----------G--------CT---G-----T-T---T--A----T---CC----A--TT-T-----T---C------A----G---A-A-T-TG-G-G-T--G-T-------------C-----G-ACATA--G-CA-----G---AAT-----A----G--------G----- 
+
+COVID-19 17675: TATCACGCATGATGTTTCATCTGCAATTAACAGGCCACAAATAGGCGTGGTAAGAGAATTCCTTACACGTAACCCTGCTTGGAGAAAAGCTGTCTTTATTTCACCTTATAATTCACAGAATGCTGTAGCCTCAAAGATTTTGGGACTACCAACTCAAACTGTTGATTCATCACAG 
+                   |  |  |  |     | || |        |   |||    |       | | ||           | |     ||    | |   |        |    |    ||        |   |    ||||  |  | |      |               |   || |  |     
+HIV1     17675: ---C--G--T--T-----A-CT-C--------G---ACA----G-------A-G-GA-----------G-A-----GC----A-A---G--------A----A----AT--------G---G----AGCC--A--G-T------A---------------G---AT-C--C---- 
+
+COVID-19 17850: GGCTCAGAATATGACTATGTCATATTCACTCAAACCACTGAAACAGCTCACTCTTGTAATGTAAACAGATTTAATGTTGCTATTACCAGAGCAAAAGTAGGCATACTTTGCATAATGTCTGATAGAGACCTTTATGACAAGTTGCAATTTACAAGTCTTGAAATTCCACGTAGGA 
+                   | |||      ||| |  |                 |   |  | |  |   |    | ||   |           | ||  |||| | ||  ||   ||      ||       || | | | || |    | |   |||   |  ||    |   || ||    |      
+HIV1     17850: ---T-AGA------CTA-G--A-----------------G---C--C-C--T---G----G-AA---G-----------C-AT--CCAG-G-AA--GT---CA------GC-------CT-A-A-A-AC-T----G-C---TTG---T--AC----C---AA-TT----G----- 
+
+COVID-19 18025: ATGTGGCAACTTTACAAGCTGAAAATGTAACAGGACTCTTTAAAGATTGTAGTAAGGTAATCACTGGGTTACATCCTACACAGGCACCTACACACCTCAGTGTTGACACTAAATTCAAAACTGAAGGTTTATGTGTTGACATACCTGGCATACCTAAGGACATGACCTATAGAAG 
+                      |   |  |     |     ||||| |  |      |  | | ||  |  |     |  |   || |||  |     | | |  | |       || |||    |   ||||    | ||              || |      | |     |  |    | | |||  | 
+HIV1     18025: ------C---T--A-----T-----TGTAA-A--A------A--G-T-GT--T--G-----C--T---TT-CAT--T-----G-C-C--A-A-------GT-TTG----T---TTCA----T-AA--------------CA-A------A-A-----G--C----C-T-TAG--G 
+
+COVID-19 18200: ACTCATCTCTATGATGGGTTTTAAAATGAATTATCAAGTTAATGGTTACCCTAACATGTTTATCACCCGCGAAGAAGCTATAAGACATGTACGTGCATGGATTGGCTTCGATGTCGAGGGGTGTCATGCTACTAGAGAAGCTGTTGGTACCAATTTACCTTTACAGCTAGGTTTT 
+                 |  |||||                         |   | | |||   |   |    |          |  |||||||     |    | | |   |        |    | | |||       |  |  |  ||||   ||       | | |   |    |  |  |       
+HIV1     18200: -C--ATCTC-------------------------C---T-A-TGG---C---A----G----------G--AAGAAGC-----G----G-A-G---A--------C----A-G-CGA-------C--G--A--AGAG---CT-------C-A-T---C----A--G--A------ 
+
+COVID-19 18375: TCTACAGGTGTTAACCTAGTTGCTGTACCTACAGGTTATGTTGATACACCTAATAATACAGATTTTTCCAGAGTTAGTGCTAAACCACCGCCTGGAGATCAATTTAAACACCTCATACCACTTATGTACAAAGGACTTCCTTGGAATGTAGTGCGTATAAAGATTGTACAAATGT 
+                   |||| |     |  ||       || | ||  |          ||   |        |      |     ||    ||   |       |  |  ||||   |                   |  ||  |   |       || |||||    |           ||  ||| 
+HIV1     18375: ---ACAG-T-----C--AG-------AC-T-CA--T----------CA---A--------G------C-----TT----CT---C-------T--A--TCAA---A-------------------G--CA--G---T-------AA-GTAGT----A-----------CA--TGT 
+
+COVID-19 18550: TAAGTGACACACTTAAAAATCTCTCTGACAGAGTCGTATTTGTCTTATGGGCACATGGCTTTGAGTTGACATCTATGAAGTATTTTGTGAAAATAGGACCTGAGCGCACCTGTTGTCTATGTGATAGACGTGCCACATGCTTTTCCACTGCTTCAGACACTTATGCCTGTTGGCA 
+                 || || || ||/||/|   | |    | |   |   |   ||   | |  || ||/| |   ||    ||| || |   ||    || |     |  |   |    |  |       |    ||| |  |   |   ||/     | |     ||    ||  |  ||| ||   
+HIV1     18550: -AA-TG-CA-ACCTATA---C-C----A-A---T---A---GT---A-G--CA-ATAG-T---AG----CAT-TA-G---TA----GT-A-----G--C---A----A--T-------A----ATA-A--T---A---GCA-----A-T-----AG----TT--G--TGT-GG-- 
+
+COVID-19 18725: TCATTCTATTGGATTTGATTACGTCTATAATCCGTTTATGATTGATGTTCAACAATGGGGTTTTACAGGTAACCTACAAAGCAACCATGATCTGTATTGTCAAGTCCATGGTAATGCACATGTAGCTAGTTGTGATGCAATCATGACTAGGTGTCTAGCTGTCCACGAGTGCTTT 
+                ||   | ||   |   | | |     ||   |     || |  ||     |    |        |    ||         |       ||     |     || |  ||  ||| | |||   |   ||     |   ||  |  | |||      | |     | | ||  |   
+HIV1     18725: TC---C-AT---A---G-T-A-----AT---C-----AT-A--GA-----A----T--------A----TA---------G-------GA-----A-----AA-T--AT--TAA-G-ACA---A---AG-----A---AA--A--A-TAG------A-C-----A-G-GT--T-- 
+
+COVID-19 18900: GTTAAGCGTGTTGACTGGACTATTGAATATCCTATAATTGGTGATGAACTGAAGATTAATGCGGCTTGTAGAAAGGTTCAACACATGGTTGTTAAAGCTGCATTATTAGCAGACAAATTCCCAGTTCTTCACGACATTGGTAACCCTAAAGCTATTAAGTGTGTACCTCAAGCTG 
+                   ||   | | || |  |     ||    | || | |     | |||   | ||     ||       |||| |    | ||   | | |     ||   |  ||  | |||          ||       || |  || |        |  |  || |    |  ||| ||   
+HIV1     18900: ---AA---T-T-GA-T--A-----GA----C-TA-A-T-----A-GAA---A-GA-----GC-------AGAA-G----A-CA---G-T-G-----GC---A--AT--G-AGA----------GT-------GA-A--GG-A--------G--A--AA-T----A--TCA-GC-- 
+
+COVID-19 19075: A-TGTAGAATGGAAGTTCTATGATGCACAGCCTTGTAGTGACAAAGCTTATAAAATAGAAGAATTATTCTATTCTTATGCCACACATTCTGACAAATTCACAGATGGTGTATGCCTATTTTGGAATTGCAATGTCGATAGATATCCTGCTAATTCCATTGTTTGTAGATTTGACA 
+                | | | |  |||| |    |||/ |    |    || | ||    |   ||/     |  |                 || || |||   | |   | | |   |  ||   |        | | | |   | | ||| |||  | || ||        ||  |/   |   ||| 
+HIV1     19075: ACT-T-G--TGGA-G----ATGG-G----G----GT-G-GA----G---ATG-----G--G-----------------GC-AC-CAT---G-C---T-C-C---T--TG---G--------G-A-T-G---T-T-GAT-GAT--C-TG-TA--------GT--GC---T---ACA 
+
+COVID-19 19250: CTAGAGTGCTATCTAACCTTAACTTGCCTGGTTGTGATGGTGGCAGTTTGTATGTAAATAAACATGCATTCCACACACCAGCTTTTGATAAAAGTGCTTTTGTTAATTTAAAACAATTACCATTTTTCTATTACTCTGACAGTCCATGTGAGTCTCATGGAAAACAAGTAGTGTC 
+                   ||     |   ||    |  |||  |||  ||/|      ||||               | |  |||  |         |   |      | |     || |        |     |  |              |    |    ||| |    |   |      |  |     
+HIV1     19250: ---GA-----A---AA----A--TTG--TGG--GTCA------CAGT---------------C-T--ATT--A---------T---G------G-G-----GT-A--------C-----C--T--------------G----T----GTG-G----A---A------G--G---- 
+
+COVID-19 19425: AGATATAGATTATGTACCACTAAAGTCTGCTACGTGTATAACACGTTGCAATTTAGGTGGTGCTGTCTGTAGACATCATGCTAATGAGTACAGATTGTATCTCGATGCTTATAACATGATGATCTCAGCTGGCTTTAGCTTGTGGGTTTACAAACAATTTGATACTTATAACCTC 
+                | |    |        | |  |    |  | ||        ||| |  |  |  |  |  |  | |  || | ||||| |  | ||/ || | |  |   |   ||    ||     ||| | |  ||        ||   ||      |||/| | |  | |  ||/        
+HIV1     19425: A-A----G--------C-A--A----C--C-AC--------CAC-T--C--T--A--T--T--T-T--GT-G-CATCA-G--A-TGC-TA-A-A--G---C---AT----AT-----GAT-A-C--AG--------AG---GT------ACATA-A-T--G-T--TTG------- 
+
+COVID-19 19600: TGGAACACTTTTACAAGACTTCAGAGTTTAGAAAATGTGGCTTTTAATGTTGTAAATAAGGGACACTTTGATGGACAACAGGGTGAAGTACCAGTTTCTATCATTAATAACACTGTTTACACAAAAGTTGATGGTGTTGATGTAGAATTGTTTGAAAATAAAACAACATTACCTG 
+                 ||  | |    |||   |   |   |   |/        ||      || |||         | |         || |||    |    ||     |   ||  |    | |      |||||/|    | | |    | |||   |||   |    ||||      |     | 
+HIV1     19600: -GG--C-C----ACA---C---A---T---GC--------CT------GT-GTA---------C-C---------CA-CAG----A----CC-----C---CA--A----C-C------CACAAGA----A-G-T----A-GTA---TTG---G----TAAA------T-----G 
+
+COVID-19 19775: TTAATGTAGCATTTGAGCTTTGGGCTAAGCGCAACATTAAACCAGTACCAGAGGTGAAAATACTCAATAATTTGGGTGTGGACATTGCTGCTAATACTGTGATCTGGGACTACAAAAGAGATGCTCCAGCACATATATCTACTATTGGTGTTTGTTCTATGACTGACATAGCCAA 
+                |    | | ||   ||          ||    |   ||       |        | ||    |  | |     |  || | | |        || | ||  | |    | |      | | |     || | |     | |/ || |         | ||||  |     |  |  
+HIV1     19775: T----G-A-CA---GA----------AA----A---TT-------T--------T-AA----C--A-T-----G--TG-G-A-A--------AA-A-TG--A-C----A-T------G-G-T-----AG-A-A-----C-AG-AT-G---------C-ATGA--G-----G--A- 
+
+COVID-19 19950: GAAACCAACTGAAACGATTTGTGCACCACTCACTGTCTTTTTTGATGGTAGAGTTGATGGTCAAGTAGACTTATTTAGAAATGCCCGTAATGGTGTTCTTATTACAGAAGGTAGTGTTAAAGGTTTACAACCA-TCTGTAGGTCCCAAACAAGCTAGTCTTAATGGAGTCACATT 
+                         | |     |      |  | |||  || ||     ||||  || |       |||  ||/|| |   | |   |||   | || |||    |  | | |   |  |   ||/      |  ||| ||||| | |           |||| ||||   |||/ ||   
+HIV1     19950: ---------T-A-----T------A--A-TCA--GT-TT-----ATGG--GA-T-------CAA--AGCCT-A---A-A---GCC---A-TG-TGT----A--A-A-A---T--T---AAC------C--CCACTCTGT-G-T-----------TAGT-TTAA---AGTG-CA-- 
+
+COVID-19 20125: AATTGGAGAAGCCGTAAAAACACAGTTCAATTATTATAAGAAAGTTGATGGTGTTGTCCAACAATTACCTGAAACTTACTTTACTCAGAGTAGAAATTTACAAGAATTTAAACCCAGGAGTCAAATGGAAATTGATTTCTTAGAATTAGCTATGGATGAATTCATTGAACGGTAT 
+                           |  |         |   | || |/| | |||  | |||          | |  | |    |   | ||    |  | | |||   |  |   |  |  |/ |   || |  |   | || | |||     | | |  |    | | |||   |  |   |  |  
+HIV1     20125: -----------C--T---------G---A-TT-TGA-A-GAA--T-GAT----------A-C--T-A----A---T-AC----C--A-A-TAG---T--A---G--T--AG-C---GG-G--A---G-AA-T-GAT-----A-A-T--G----G-A-GAA---A--G---G--A- 
+
+COVID-19 20300: AAATTAGAAGGCTATGCCTTCGAACATATCGTTTATGGAGATTTTAGTCATAGTCAGTTAGGTGGTTTACATCTACTGATTGGACTAGCTAAACGTTTTAAGGAATCACCTTTTGAATTAGAAGATTTTATTCCTATGGACAGTACAGTTAAAAACTATTTCATAACAGATGCGC 
+                      || |   ||       || | |      |   |         | | | |  |           | | |  |       | |   |    |   |     |||      |                 |  |    ||  |  |       | ||   | |   || | |  
+HIV1     20300: ------GA-G---AT-------AA-A-A------A---A---------C-T-G-C--T-----------C-T-T--T-------C-A---A----T---A-----TCA------G-----------------C--A----CA--A--G-------C-AT---A-A---GA-G-G- 
+
+COVID-19 20475: AAACAGGTTCATCTAAGTGTGTGTGTTCTGTTATTGATTTATTACTTGATGATTTTGTTGAAATAATAAAATCCCAAGATTTATCTGTAGTTTCTAAGGTTGTCAAAGTGACTATTGACTATACAGAAATTTCATTTATGCTTTGGTGTAAAGATGGCCATGTAGAAACATTTTA 
+                       |  |   | | |||      |    |  ||   |  |   ||  ||       |  |             |      |   | ||| |    || | |   | |  |   ||| |   ||  |   ||  |           |    |    |        |       
+HIV1     20475: -------T--A---A-G-GTG------C----A--GA---A--A---GA--AT-------A--T-------------G------C---A-TTT-T----TT-T-A---T-A--A---ACT-T---GA--T---AT--A-----------A----T----A--------C------ 
+
+COVID-19 20650: CCCAAAATTACAATCTAGTCAAGCGTGGCAACCGGGTGTTGCTATGCCTAATCTTTACAAAATGCAAAGAATGCTATTAGAAAAGTGTGACCTTCAAAATTATGGTGATAGTGCAACATTACCTAAAGGCATAATGATGAATGTCGCAAAATATACTCAACTGTGTCAATATTTA 
+                |  ||  | |       |  |    |   ||     ||     ||    |  ||  ||      ||  |    |||| | |   || ||||    ||      | |  | ||  ||||   |||     ||    | |      |  |   | |||/||   | | |         
+HIV1     20650: C--AA--T-A-------G--A----T---AA-----TG-----AT----A--CT--AC------CA--G----CTAT-A-A---GT-TGAC----AA------G-T--T-GT--AACA---CCT-----CA----G-T------C--A---T-TACACA---G-G-C-------- 
+
+COVID-19 20825: AACACATTAACATTAGCTGTACCCTATAATATGAGAGTTATACATTTTGGTGCTGGTTCTGATAAAGGAGTTGCACCAGGTACAGCTGTTTTAAGACAGTGGTTGCCTACGGGTACGCTGCTTGTCGATTCAGATCTTAATGACTTTGTCTCTGATGCAGATTCAACTTTGATTG 
+                  |   |        | |   ||  | ||   | |  | || |         ||  ||  ||    |      | | |   |    | |       |        || |    |||           ||| |  | |    |  |  | | |     |     |      |   | 
+HIV1     20825: --C---T--------G-T---CC--A-AA---G-G--T-AT-C---------CT--TT--GA----G------C-C-A---A----T-T-------C--------CC-A----TAC-----------ATT-A--T-T----G--T--G-C-C-----C-----C------G---G 
+
+COVID-19 21000: GTGATTGTGCAACTGTACATACAGCTAATAAATGGGATCTCATTATTAGTGATATGTACGACCCTAAGACTAAAAATGTTACAAAAGAAAATGACTCTAAAGAGGGTTTTTTCACTTACATTTGTGGGTTTATACAACAAAAGCTAGCTCTTGGAGGTTCCGTGGCTATAAAGAT 
+                /||   ||     | |   |   ||        |  || || | |  |   | |||||  |   |||   |||    |  ||    |    |   || ||      |                | |     | |||      |   |       |    ||      ||   | | 
+HIV1     21000: CTG---GT-----T-T---T---GC--------G--AT-TC-T-A--A---A-ATGTA--A---TAA---TAA----G--AC----G----T---TC-AA------T----------------G-G-----A-ACA------G---G-------A----CC------AT---G-T 
+
+COVID-19 21175: AACAGAACATTCTTGGAATGCTGATCTTTATAAGCTCATGGGACACTTCGCATGGTGGACAGCCTTTGTTACTAATGTGAATGCGTCATCATCTGAAGCATTTTTAATTGGATGTAATTATCTTGGCAAACCACGCGAACAAATAGATGGTTATGTCATGCATGCAAATTACATA 
+                | || ||  |    |   | |  |         ||  |     ||    |  |     |||         | |   || |   |   | |||  |  | |     | ||  | |          | |   | | |        ||| |    ||  ||   |  |   |  || | 
+HIV1     21175: A-CA-AA--T----G---T-C--A---------GC--A-----CA----G--T-----ACA---------A-T---GT-A---C---A-CAT--G--G-A-----A-TT--A-G----------G-C---C-A-G--------TAG-T----AT--CA---A--C---T--CA-A 
+
+COVID-19 21350: TTTTGGAGGAATACAAATCCAATTCAGTTGTCTTCCTATTCTTTATTTGACATGAGTAAATTTCCCCTTAAATTAAGGGGTACTGCTGTTATGTCTTTAAAAGAAGGTCAAATCAATGATATGATTTTATCTCTTCTTAGTAAAGGTAGACTTATAATTAGAGAAAACAACAGAG 
+                             |   |        |    ||               |   |   |||||               ||    |       | ||||  |   |     ||       || | ||    |          | |  |||||  | | | |||||/    |        
+HIV1     21350: -------------C---T--------G----CT---------------G---T---TAAAT---------------GG----C-------A-GTCT--A---G-----CA-------GA-A-GA----A----------G-A--GGTAG--T-A-A-TTAGAT----C------- 
+
+COVID-19 21525: TTGTTATTTCTAGTGATGTTCTTGTTAACAACTAAACGAACAATGTTTGTTTTTCTTGTTTTATTGCCACTAGTCTCTAGTCAGTGTGTTAATCTTACAACCAGAACTCAATTACCCCCTGCATACA-CTAATTCTTTCACACGTGGTGTTTATTACCCTGACAAAGTTTTCAGA 
+                | ||     | |   || |||     | |        |      |                 |   | |  | |     | |  |     ||    | | |||    | ||| |      |  |||| ||/|       ||||         ||  |  ||      |    ||| 
+HIV1     21525: T-GT-----C-A---AT-TTC-----A-C--------G------G-----------------A---C-A--A-T-----G-C--T-----AA----A-A-CCA----T-AAT-A------G--TACAGCTGA-------ACAC---------AT--C--TG------T----AGA 
+
+COVID-19 21700: TCCTCAGTTTTACATTCAACTCAGGACTTGTTCTTACCTTTCTTTTCCAATGTTACTTGGTTCCATGCTATACATGTCTCTGGGACCAATGGTACTAAGAGGTTTGATAACCCTGTCCTACCATTTAATGATGGTGTTTATTTTGCTTCCACTGAGAAGTCTAACATAATAAGAG 
+                     |     |  || || |      | ||    ||           || |  ||      |||    |  ||          || |||   || ||||      | ||         |         ||        ||    |  |/  | |    ||   ||      ||| 
+HIV1     21700: -----A-----A--TT-AA-T------T-GT----AC-----------AA-G--AC------CCA----A--CA----------AC-AAT---AC-AAGA------A-AA---------A---------GA--------AT----C--CG--T-A----TC---CA------GAG 
+
+COVID-19 21875: GCTGGATTTTTGGTACTACTTTAGATTCGAAGACCCAGTCCCTACTTATTGTTAATAACGCTACTAATGTTGTTATTAAAGTCTGTGAATTTCAATTTTGTAATGATCCATTTTTGGGTGTTTATTACCACAAAAACAACAAAAGTTGGATGGAAAGTGAGTTCAGAGTTTATTC 
+                     |     || ||  |   ||/   || ||    | |   | || | ||||    |   |  | |      |     |   |  ||    ||      | | |         ||      |  |  |               |   ||| |  |  |   || ||      | 
+HIV1     21875: -----A-----GG-AC--C---AGG---GA-GA----G-C---A-TT-T-GTTA----C---A--A-T------A-----G---G--AA----AA------A-T-A---------GG------A--A--A---------------T---ATG-A--G--A---CA-AG------C 
+
+COVID-19 22050: TAGTGCGAATAATTGCACTTTTGAATATGTCTCTCAGCCTTTTCTTATGGACCTTGAAGGAAAACAGGGTAATTTCAAAAATCTTAGGGAATTTGTGTTTAAGAATATTGATGGTTATTTTAAAATATATTCTAAGCACACGCCTATTAATTTAGTGCGTGATCTCCCTCAGGGT 
+                 |   | | |  | |   |    ||     |    |   ||     | |    |  | | |     |        ||||| |    || |||        ||                             | |  |       | ||||   |       | |      ||    
+HIV1     22050: -A---C-A-T--T-G---T----AA-----C----A---TT-----A-G----T--A-G-A-----G--------CAAAA-T----GG-AAT--------AA-----------------------------C-A--C-------T-TTAA---A-------A-C------AG--- 
+
+COVID-19 22225: TTTTCGGCTTTAGAACCATTGGTAGATTTGCCAATAGGTATTAACATCACTAGGTTTCAAACTTTACTTGCTTTACATAGAAGTTATTTGACTCCTGGTGATTCTTCTTCAGGTTGGACAGCTGGTGCTGCAGCTTATTATGTGGGTTATCTTCAACCTAGGACTTTTCTATTAA 
+                           |      |    ||     |   |||       ||  |  |  ||  ||         |    |    |||         |        |         |  ||       |||      |    |  ||       |     |   ||  |       |  |  
+HIV1     22225: -----------A------T----AG-----C---TAG-------CA--A--A--TT--AA---------G----A----GAA---------C--------A---------A--TT-------TGG------A----A--AT-------A-----A---TA--A-------A--A- 
+
+COVID-19 22400: AATATAATGAAAATGGAACCATTACAGATGCTGTAGACTGTGCACTTGACCCTCTCTCAGAAACAAAGTGTACGTTGAAATCCTTCACTGTAGAAAAAGGAATCTATCAAACTTCTAACTTTAGAGTCCAACCAACAGAATCTATTGTTAGATTTCCTAATATTACAAACTTGTG 
+                                  | |  |    |     | | |   |  ||     |     | |      |    |    || |||| ||  |  ||    ||                       | |   | ||  |||||   ||||| | |   |/        ||  |      
+HIV1     22400: ------------------C-A--A----T-----A-A-T---C--TT-----T-----A-A------G----C----AA-TCCT-CA--G--GA----GG-----------------------G-G---A-CC--CAGAA---ATTGT-A-A---CG--------CA--C----- 
+
+COVID-19 22575: CCCTTTTGGTGAAGTTTTTAACGCCACCAGATTTGCATCTGTTTATGCTTGGAACAGGAAGAGAATCAGCAACTGTGTTGCTGATTATTCTGTCCTATATAATTCCGCATCATTTTCCACTTTTAAGTGTTATGGAGTGTCTCCTACTAAATTAAATGATCTCTGCTTTACTAAT 
+                           | ||||| ||          || |  |  |     |     |   ||  | ||||       | | || || |     ||||   | ||  | |   |  |    | ||    ||/|||| |  |         | ||/ | |      || ||           
+HIV1     22575: -----------A-GTTTT-AA----------TT-G--T--G-----G-----A---GG--G-GAAT-------T-T-TT-CT-A-----CTGT---A-AT--T-C---A--A----C-AC----AACTGTT-T--A---------A-TAG-T-A------CT-TG---------- 
+
+COVID-19 22750: GTCTATGCAGATTCATTTGTAATTAGAGGTGATGAAGTCAGACAAATCGCTCCAGGGCAAACTGGAAAGATTGCTGATTATAATTATAAATTACCAGATGATTTTACAGGCTGCGTTATAGCTTGGAATTCTAACAATCTTGATTCTAAGGTTGGTGGTAATTATAATTACCTGT 
+                || | |  | ||  |   |||/|| | |   | |   | |  |   | |    |    |    ||   | |  |  |  | | | | |/|   |    |||    |  ||       | || | | |   | | |||||   |  |                        |||   
+HIV1     22750: GT-T-T--A-AT--A---GTACTT-G-G---A-G---T-A--C---T-G----A----A----GG---G-T--C--A--A-A-T-A-ACA---C----TGA----A--GG-------A-AG-T-G-A---C-A-CAATC---A--C------------------------CCT-- 
+
+COVID-19 22925: ATAGATTGTTTAGGAAGTCTAATCTCAAACCTTTTGAGAGAGATATTTCAACTGAAATCTATCAGGCCGGTAGCACACCTTGTAATGGTGTTGAAGGTTTTAATTGTTACTTTCCTTTACAATCATATGGTTTCCAACCCACTAATGGTGTTGGTTACCAACCATACAGAGTAGT 
+                                  |    | ||    |   |            ||   ||| |  |  |       |  |||      |||  |    |   |   ||     ||        |   |     | |               ||         | |        ||  |   
+HIV1     22925: ------------------C----C-CA----T---G------------CA---GAA-T--A--A-------A--ACA------AAT--T----A---T---AA-----AC--------A---T-----G-T---------------GG---------C-A--------GA--A-- 
+
+COVID-19 23100: AGTACTTTCTTTTGAACTTCTACATGCACCAGCAACTGTTTGTGGACCTAAAAAGTCTACTAATTTGGTTAAAAACAAATGTGTCAATTTCAACTTCAATGGTTTAACAGGCACAGGTGTTCTTACTGAGTCTAACAAAAAGTTTCTGCCTTTCCAACAATTTGGCAGAGACATT 
+                ||||         |           | |  |  ||  |        |  ||    |          | | |        ||   |     |  |  |  |       |   | ||  |   |  |  |  |          |     |       | |||      |      || 
+HIV1     23100: AGTA---------G-----------G-A--A--AA--G--------C--AA----T----------G-T-A--------TG---C-----C--C--C--T-------C---C-CA--T---C--A--G--T----------G-----G-------A-CAA------A------TT 
+
+COVID-19 23275: GCTGACACTACTGATGCTGTCCGTGATCCACAGACACTTGAGATTCTTGACATTACACCATGTTCTTTTGGTGGTGTCAGTGTTATAACACCAGGAACAAATACTTCTAACCAGGTTGCTGTTCTTTATCAGGATGTTAACTGCACAGAAGTCCCTGTTGCTATTCATGCAGATC 
+                    |       |||| | ||    ||| | | |   |  |  ||    |||         |       ||      |  ||      |            || ||  ||| |              |   | | |  |  ||    |   |    |  | ||   ||  ||  | 
+HIV1     23275: ----A-------GATG-T-TC----ATC-A-A-A---T--A--TT----ACA---------G-------GG------C--TG------C------------TA-TT--AAC-A--------------A---G-A-G--A--TG----G---T----G--G-TA---AT--AG--C 
+
+COVID-19 23450: AACTTACTCCTACTTGGCGTGTTTATTCTACAGGTTCTAATGTTTTTCAAACACGTGCAGGCTGTTTAATAGGGGCTGAACATGTCAACAACTCATATGAGTGTGACATACCCATTGGTGCAGGTATATGCGCTAGTTATCAGACTCAGACTAATTCTCCTCGGCGGGCACGTAG 
+                |||  |     | | |/ ||       |  | |     |  |      |      | |    | |          |  |    |  | |  ||/    ||| |  |          ||   ||  |||||    ||      |     ||| ||||      ||/|   |   || 
+HIV1     23450: AAC--A-----A-T-GA-GT-------C--C-G-----A--G------A------T-C----T-T----------C--A----G--A-C--CTG----GAG-G--A----------GG---AG--ATATG----AG------G-----GAC-AATT------GGAG---A---AG 
+
+COVID-19 23625: TGTAGCTAGTCAATCCATCATTGCCTACACTATGTCACTTGGTGCAGAAAATTCAGTTGCTTACTCTAATAACTCTATTGCCATACCCACAAATTTTACTATTAGTGTTACCACAGAAATTCTACCAGTGTCTATGACCAAGACATCAGTAGATTGTACAATGTACATTTGTGGT 
+                || |   | |   |  || ||     | |  ||   | |      | ||/ |  |||     |    || || | |   |  | ||| |    ||  |//|   ||   |     |     | |||     | |   |||||/||  |  |||  | | |  | |     ||||| 
+HIV1     23625: TG-A---A-T---T--AT-AT-----A-A--AT---A-T------A-AAG-T--AGT-----A----AA-AA-T-T---G--A-ACC-A----TT--AGGA---GT---A-----G-----C-ACC-----C-A---CCAAGGCA--A--AGA--G-A-A--G-A-----GTGGT 
+
+COVID-19 23800: GATTCAACTGAATGCAGCAATCTTTTGTTGCAATATGGCAGTTTTTGTACACAATTAAACCGTGCTTTAACTGGAATAGCTGTTGAACAAGACAAAAACACCCAAGAAGTTTTTGCACAAGTCAAACAAATTTACAAAACACCACCAATTAAAGATTTTGGTGGTTTTAATTTTT 
+                |   ||   ||  | ||/||           || | |  ||        ||          |||        |||||||  |   |    | |                |||  |      |        |   |    |        ||   |     |||  |           
+HIV1     23800: G---CA---GA--G-AGAAA-----------AA-A-G--AG--------CA----------GTG--------GGAATAG--G---A----G-C----------------TTT--G------T--------T---C----C--------TT---G-----GGT--T---------- 
+
+COVID-19 23975: CACAAATATTACCAGATCCATCAAAACCAAGCAAGAGGTCATTTATTGAAGATCTACTTTTCAACAAAGTGACACTTGCAGATGCTGGCTTCATCAAACAATATGGTGATTGCCTTGGTGATATTGCTGCTAGAGACCTCATTTGTGCACAAAAGTTTAACGGCCTTACTGTTTT 
+                |     | |     |               |   |||  ||      |     | |            | || |   |||    ||      ||          || |    |   |         |    ||   |||||       |      |     |     || |     
+HIV1     23975: C-----T-T-----G---------------G---GAG--CA------G-----C-A------------G-GA-A---GCA----CT------AT----------GG-G----C---G---------C----AG---CCTCA-------A------T-----G-----AC-G---- 
+
+COVID-19 24150: GCCACCTTTGCTCACAGATGAAATGATTGCTCAATACACTTCTGCACTGTTAGCGGGTACAATCACTTCTGGTTGGACCTTTGGTGCAGGTGCTGCATTACAAATACCATTTGCTATGCAAATGGCTTATAGGTTTAATGGTATTGGAGTTACACAGAATGTTCTCTATGAGAAC 
+                 |    |  |   || |  |   | |   |  |/         || |    ||     |||||   |         |  || | | |   ||  |  | |    ||/  |  || | |||   | |  |  |    ||/   |    | ||        ||  ||    |||    
+HIV1     24150: -C----T--G---AC-G--G---T-A---C--AG---------GC-C----AG-----ACAAT---T---------A--TT-G-T-C---TG--G--T-A----TAG--T--GC-A-GCA---G-C--A--G----AAC---A----A-TT--------TG--CT----GAG--- 
+
+COVID-19 24325: CAAAAATTGATTGCCAACCAATTTAATAGTGCTATTGGCAAAATTCAAGACTCACTTTCTTCCACAGCAAGTGCACTTGGAAAACTTCAAGATGTGGTCAACCAAAATGCACAAGCTTTAAACACGCTTGTTAAACAACTTAGCTCCAATTTTGGTGCAATTTCAAGTGTTTTAA 
+                        |   ||       |  | |  ||  |  |||         | |  |         ||||||  | |  | |      ||   |       ||||     | |||| | |     |    | |            |          ||  || |  ||||         
+HIV1     24325: --------G---GC-------T--A-T--TG--A--GGC---------G-C--A---------ACAGCA--T-C--T-G------TT---G-------CAAC-----T-CACA-G-T-----C----T-G------------G----------GG--CA-T--CAAG-------- 
+
+COVID-19 24500: ATGATATCCTTTCACGTCTTGACAAAGTTGAGGCTGAAGTGCAAATTGATAGGTTGATCACAGGCAGACTTCAAAGTTTGCAGACATATGTGACTCAACAATTAATTAGAGCTGCAGAAATCAGAGCTTCTGCTAATCTTGCTGCTACTAAAATGTCAGAGTGTGTACTTGGACA 
+                       |     | | ||   |          |  | | ||||   || |  |    | |/|||    |     ||  |  || | | |  | | |/|  | ||  || |/| || |   |||  ||/|||/       |  |  | |    | |  | | | ||  | |  |  
+HIV1     24500: -------C-----A-G-CT---C----------C--A-G-GCAA---GA-A--T----C-CTGGC----T-----GT--G--GA-A-A-G--A-T-ACC--T-AA--AG-GAT-CA-A---CAG--CTCCTGG-------G--G--A-T----T-T--G-G-G-GT--T-G--C- 
+
+COVID-19 24675: ATCAAAAAGAGTTGATTTTTGTGGAAAGGGCTATCATCTTATGTCCTTCCCTCAGTCAGCACCTCATGGTGTAGTCTTCTTGCATGTGACTTATGTCCCTGCACAAGAAAAGAACTTCACAACTGCTCCTGCCATTTGTCATGATGGAAAAGCACACTTTCCTCGTGAAGGTGTC 
+                 ||/    | |   |         |||   ||  ||| ||  | |        |  |  ||| |   |/||| | |  ||||   |  |   ||| |  |  |   |        ||       |     |  |   || |  ||  |||/ |    |  | | | |||     | 
+HIV1     24675: -TCT----G-G---A---------AAA---CT--CAT-TT--G-C--------A--C--CAC-T---GCTGT-G-C--CTTG---G--A---ATG-C--T--A---G--------TT-------G-----G--A---GT-A--AT--AAAT-C----T--C-T-G-GAA-----C 
+
+COVID-19 24850: TTTGTTTCAAATGGCACACACTGGTTTGTAACACAAAGGAATTTTTATGAACCACAAATCATTACTACAGACAACACATTTGTGTCTGGTAACTGTGATGTTGTAATAGGAATTGTCAACAACACAGTTTATGATCCTTTGCAACCTGAATTAGACTCATTCAAGGAGGAGTTAG 
+                        |   |  |     |  || |         | |||         | |||   |         |||  |   |  | |/ ||| |   |||  |  | |/ || |   |  || |      || |  | |      ||  |   | |  |  |  ||||/     |||  
+HIV1     24850: --------A---G--A-----T--TT-G---------G-AAT---------C-ACA---C---------GAC--C---T--G-GA-TGG-A---GTG--G--G-AC-AG-A---G--AA-A------TT-A--A-C------AA--T---T-A--C--A--CAAGC-----TTA- 
+
+COVID-19 25025: ATAAATATTTTAAGAATCATACATCACCAGATGTTGATTTAGGTGACATCTCTGGCATTAATGCTTCAGTTGTAAACATTCAAAAAGAAATTGACCGCCTCAATGAGGTTGCCAAGAATTTAAATGAATCTCTCATCGATCTCCAAGAACTTGGAAAGTATGAGCAGTATATAAA 
+                |||              ||  | || |    | |/ |||  |   | |     |  |  | | |    |       ||   |||          ||     |  |      | |||||   ||  ||||        ||     |    |    || | |  |    | |||    
+HIV1     25025: ATA--------------CA--C-TC-C----T-TA-ATT--G---A-A-----G--A--A-T-C----G-------CA---AAA----------CC-----A--G------C-AAGAA---AA--GAAT--------GA-----A----C----AA-G-A--A----T-TAT--- 
+
+COVID-19 25200: ATGGCCATGGTACATTTGGCTAGGTTTTATAGCTGGCTTGATTGCCATAGTAATGGTGACAATTATGCTTTGCTGTATGACCAGTTGCTGTAGTTGTCTCAAGGGCTGTTGTTCTTGTGGATCCTGCTGCAAATTTGATGAAGACGACTCTGAGCCAGTGCTCAAAGGAGTCAAA 
+                 |||  |    |  ||     ||     |||         |     || |    ||   |||    | |||| ||   ||  | |||  ||  ||     ||   |              ||        ||/    |  ||      | || ||   || |    ||  | |   
+HIV1     25200: -TGG--A----A--TT-----AG-----ATA---------A-----AT-G----GG---CAA----G-TTTG-TG---GA--A-TTG--GT--TT-----AA---C--------------AT--------AAC----A--AA------T-TG-GC---TG-T----GG--T-A-- 
+
+COVID-19 25375: TTACATTACACATAAACGAACTTATGGATTTGTTTATGAGAATCTTCACAATTGGAACTGTAACTTTGAAGCAAGGTGAAATCAAGGATGCTACTCCTTCAGATTTTGTTCGCGCTACTGCAACGATACCGATACAAGCCTCACTCCCTTTCGGATGGCTTATTGTTGGCGTTGC 
+                | |  | | | | |       ||||   |              |   |   |   || || |  |   | |/| ||  |      ||   ||  |      |     ||/ | | |  |       ||   |     |    |           ||     |  |||    ||   
+HIV1     25375: T-A--T-A-A-A-A-------TTAT---T--------------C---A---T---AA-TG-A--T---A-GTA-GG--A------GG---CT--T------G-----GTA-G-G-T--T-------TA---A-----G----A-----------AT-----A--GTT----TT-- 
+
+COVID-19 25550: ACTTCTTGCTGTTTTTCAGAGCGCTTCCAAAATCATAACCCTCAAAAAGAGATGGCAACTAGCACTCTCCAAGGGTGTTCACTTTGTTTGCAACTTGCTGTTGTTGTTTGTAACAGTTTACTCACACCTTTTGCTCGTTGCTGCTGGCCTTGAAGCCCCTTTTCTCTATCTTTAT 
+                  |    |||||     |   |  ||      || ||    | |    |   ||  || ||| |        |  | |  |    |   |||    |  |  |        |    |  | |      |    |                  |  ||          || |  || 
+HIV1     25550: --T----GCTGT-----A---C--TT------TC-TA----T-A----G---TG--AA-TAG-A--------G--T-T--A----G---GCA----G--G--G--------A----T--A-T------T----C------------------A--CC----------AT-T--AT 
+
+COVID-19 25725: GCTTTAGTCTACTTCTTGCAGAGTATAAACTTTGTAAGAATAATAATGAGGCTTTGGCTTTGCTGGAAATGCCGTTCCAAAAACCCATTACTTTATGATGCCAACTATTTTCTTTGCTGGCATACTAATTGTTACGACTATTGTATACCTTACAATAGTGTAACTTCTTCAATTG 
+                 |    || |  | |    |||       |                     |     |        |    || |/||||   |||    |     || |               |  || |  |         |  |    | |  |   |     | |   |  |  |    | 
+HIV1     25725: -C----GT-T--T-C----AGA-------C---------------------C-----C--------A----CC-TCCCAA---CCC----C-----GA-G---------------G--GG-A--C---------C--C----G-A--C---A-----G-G---C--C--C----G 
+
+COVID-19 25900: TCATTACTTCAGGTGATGGCACAACAAGTCCTATTTCTGAACATGACTACCAGATTGGTGGTTATACTGAAAAATGGGAATCTGGAGTAAAAGACTGTGTTGTATTACACAGTTACTTCACTTCAGACTATTACCAGCTGTACTCAACTCAATTGAGTACAGACACTGGTGTTGA 
+                  |  |     ||  |    |       |   |     |||   ||  |   ||         |    |      |    |  |||| |   ||  |      |       |  ||   |     ||         |    ||  |        || | |   || |  |      
+HIV1     25900: --A--A-----GG--A----A-------T---A-----GAA---GA--A---GA---------A----G------G----T--GGAG-A---GA--G------A-------G--AC---A-----GA---------G----AC--A--------GA-T-C---CA-T--T----- 
+
+COVID-19 26075: ACATGTTACCTTCTTCATCTACAATAAAATTGTTGATGAGCCTGAAGAACATGTCCAAATTCACACAATCGACGGTTCATCCGGAGTTGTTAATCCAGTAATGGAACCAATTTATGATGAACCGACGACGACTACTAGCGTGCCTTTGTAAGCACAAGCTGATGAGTACGAACTT 
+                 |  |  |  ||    |              || ||  | |  |  ||   |  ||   ||         |  |   || |     ||   | ||   |   ||           ||    | ||       | || ||| |       | || |    || ||    |   ||  
+HIV1     26075: -C--G--A--TT----A--------------GT-GA--A-C--G--GA---T--CC---TT---------G--G---CA-C-----TT---A-TC---T---GG-----------GA----C-GA-------T-CT-GCG-G-------A-GC-C----TG-TG----C---CT- 
+
+COVID-19 26250: ATGTACTCATTCGTTTCGGAAGAGACAGGTACGTTAATAGTTAATAGCGTACTTCTTTTTCTTGCTTTCGTGGTATTCTTGCTAGTTACACTAGCCATCCTTACTGCGCTTCGATTGTGTGCGTACTGCTGCAATATTGTTAACGTGAGTCTTGTAAAACCTTCTTTTTACGTTT 
+                     ||  | |       | |   |   |||               |  ||  |        ||||  |    |     |  ||  ||  |     |    ||| |  || ||||||// || |  |  | | | | ||    | ||       |   | ||||      |    
+HIV1     26250: -----CT--T-C-------A-G---C---TAC---------------C--AC--C--------GCTT--G----A-----G--AG--AC--T-----T----ACT-C--TT-GATTGTAA-CG-A--G--G-A-T-T-GT----G-GA-------A---C-TTCT------G--- 
+
+COVID-19 26425: ACTCTCGTGTTAAAAATCTGAATTCTTCTAGAGTTCCTGATCTTCTGGTCTAAACGAACTAAATATTATATTAGTTTTTCTGTTTGGAACTTTAATTTTAGCCATGGCAGATTCCAACGGTACTATTACCGTTGAAGAGCTTAAAAAGCTCCTTGAACAATGGAACCTAGTAATA 
+                      | |  |     | |    |    || |     |       |||      |                 |       |     ||           |||    |   | | ||    | ||||/  ||/|||    |       |||||  | ||  |     || |  |  
+HIV1     26425: ------G-G--A-----C-G----C----AG-G-----G-------GGT------G-----------------G-------G-----AA-----------GCC----C---T-C-AA----A-TATTG--GTGGAA----T-------CTCCT--A-CA--G-----TA-T--T- 
+
+COVID-19 26600: GGTTTCCTATTCCTTACATGGATTTGTCTTCTACAATTTGCCTATGCCAACAGGAATAGGTTTTTGTATATAATTAAGTTAATTTTCCTCTGGCTGTTATGGCCAGTAACTTTAGCTTGTTTTGTGCTTGCTGCTGTTTACAGAATAAATTGGATCACCGGTGGAATTGCTATCG 
+                ||      |/||   |   |||          ||  |      |    ||  | ||||| |    |                    | |  |  | | | | |   |   |   |||         |            | |   |     |   | |      |    | |  | 
+HIV1     26600: GG------AGTC---A---GGA----------AC--T------A----AA--G-AATAG-T----G--------------------C-T--G--T-T-A-G-C---T---T---GCT---------C------------A-A---T-----G---C-C------A----C-A--G 
+
+COVID-19 26775: CAATGGCTTGTCTTGTAGGCTTGATGTGGCTCAGCTACTTCATTGCTTCTTTCAGACTGTTTGCGCGTACGCGTTCCATGTGGTCATTCAATCCAGAAACTAACATTCTTCTCAACGTGCCACTCCATGGCACTATTCTGACCAGACCGCTTCTAGAAAGTGAACTCGTAATCGG 
+                |     |         |   |  | |   |  || ||       |||       ||  |   | | | ||       | |     ||  |     |                    | |    |   |   | ||    ||  ||     |   ||    | | |    ||  || 
+HIV1     26775: C-----C---------A---T--A-G---C--AG-TA-------GCT-------GA--G---G-G-G-AC-------A-G-----AT--A-----G--------------------G-G----T---T---A-TA----GA--AG-----T---AG----T-A-C----AA--GG 
+
+COVID-19 26950: AGCTGTGATCCTTCGTGGACATCTTCGTATTGCTGGACACCATCTAGGACGCTGTGACATCAAGGACCTGCCTAAAGAAATCACTGTTGCTACATCACGAACGCTTTCTTATTACAAATTGGGAGCTTCGCAGCGTGTAGCAGGTGACTCAGGTTTTGCTGCATACAG-TCGCTA 
+                |||| || |         |       | |  |||  |/    ||  |  | |    |||| |    |||    |  |||      |     | || |  |  |       |   ||    |||  |||/| |      |  |||  | |    ||| |||  ||| || | |    
+HIV1     26950: AGCT-TG-T---------A-------G-A--GCT--AT----TC--G--C-C----ACAT-A----CCT----A--GAA------G-----A-AT-A--A--G-------A---CA----GGG--CTTGG-A------A--AGG--A-T----TTT-GCT--ATA-AGAT-G--- 
+
+COVID-19 27125: CAGGATTGGCAACTATAAATTAAACACAGACCATTCCAGTAGCAGTGACAATATTGCTTTGCTTGTACAGTAAGTGACAACAGATGTTTCATCTCGTTGACTTTCAGGTTACTATAGCAGAGATATTACTAATTATTATGAGGACTTTTAAAGTTTCCATTTGGAATCTTGATTA 
+                  || | |||||                |    |    |  |   |  ||| |             | |||| |||        ||    || | |  || |    ||   |     |     ||   ||         |     |   || |         ||||     |    
+HIV1     27125: --GG-T-GGCAA----------------G----T----G--G---T--CAA-A-------------A-AGTA-GTG--------TG----AT-T-G--GA-T----GG---C-----C-----TA---CT---------G-----T---AA-G---------GGAA-----A--- 
+
+COVID-19 27300: CATCATAAACCTCATAATTAAAAATTTATCTAAGTCACTAACTGAGAATAAATATTCTCAATTAGATGAAGAGCAACCAATGGAGATTGATTAAACGAACATGAAAATTATTCTTTTCTTGGCACTGATAACACTCGCTACTTGTGAGCTTTATCACTACCAAGAGTGTGTTAGA 
+                                                 |  |  |  |||||         |       || |     |      || ||          |   || |         |          |  |    ||   |  | |    ||               | ||| |   || 
+HIV1     27300: ---------------------------------G--A--A--TGAGA---------C-------GA-G-----C------TG-AG----------C---CA-G---------C----------A--G----CA---G--A-T----AG---------------G-GTG-G---GA 
+
+COVID-19 27475: GGTACAACAGTACTTTTAAAAGAACCTTGCTCTTCTGGAACATACGAGGGCAATTCACCATTTCATCCTCTAGCTGATAACAAATTTGCACTGACTTGCTTTAGCACTCAATTTGCTTTTGCTTGTCCTGACGGCGTAAAACACGTCTATCAGTTACGTGCCAGATCAGTTTCAC 
+                |   ||   |  |    |        |  |||    | |      ||   |    |    |           |  || || ||     || ||    |    ||||   | |   |              ||     ||     ||  |   |   |     | || |    ||  
+HIV1     27475: G---CA---G--C----A--------T--CTC----G-A------GA---C----C----T-----------G--GA-AA-AA-----CA-TG----G----AGCA---A-T---C--------------AC-----AA-----GT--A---G---C-----A-AT-A----CA- 
+
+COVID-19 27650: CTAAACTGTTCATCAGACAAGAGGAAGTTCAAGAACTTTACTCTCCAATTTTTCTTATTGTTGCGGCAATAGTGTTTATAACACTTTGCTTCACACTCAAAAGAAAGACAGAATGATTGAACTTTCATTAATTGACTTCTATTTGTGCTTTTTAGCCTTTCTGCTATTCCTTGTT 
+                       |  ||   | |         |  |    |    |     |||/   ||    |   |     |  |||            ||  |    |     |   | |    | |  |||            | |    |      |     |           |      |   
+HIV1     27650: -------G--CA---G-C---------T--A----C----C-----AATG---CT----G---C-----T--TGT------------GC--C----T-----G---G-C----T-A--GAA------------G-C----A------C-----A-----------A------G-- 
+
+COVID-19 27825: TTAATTATGCTTATTATCTTTTGGTTCTCACTTGAACTGCAAGATCATAATGAAACTTGTCACGCCTAAACGAACATGAAATTTCTTGTTTTCTTAGGAATCATCACAACTGTAGCTGCATTTCACCAAGAATGTAGTTTACAGTCATGTACTCAACATCAACCATATGTAGTTG 
+                  |     |             |      |   |    | | |        ||     |    |  |    |     |         ||||||        ||        ||  |   |   ||||     |        |||    |||| |    |      | |  |     
+HIV1     27825: --A-----G-------------G------A---G----G-A-G--------GA-----G----G--T----G-----G---------GTTTTC--------CA--------GT--C---A---CACC-----T--------CAG----GTAC-C----T------T-T--A---- 
+
+COVID-19 28000: ATGACCCGTGTCCTATTCACTTCTATTCTAAATGGTATATTAGAGTAGGAGCTAGAAAATCAGCACCTTTAATTGAATTGTGCGTGGATGAGGCTGGTTCTAAATCACCCATTCAGTACATCGATATCGGTAATTATACAGTTTCCTGTTTACCTTTTACAATTAATTGCCAGGA 
+                | ||||        |   | |            |  |              ||      | | ||     |   |    |  |    | |   ||| |   |/|||     || ||  |  | |   |  |  || |    |         |      | ||      |  |  | 
+HIV1     28000: A-GACC--------A---A-T------------G--A--------------CT------T-A-CA-----A---G----G--C----A-G---CTG-T---AGATC-----TT-AG--C--C-A---C--T--TT-T----T---------A------A-AA------G--A--A 
+
+COVID-19 28175: ACCTAAATTGGGTAGTCTTGTAGTGCGTTGTTCGTTCTATGAAGACTTTTTAGAGTATCATGACGTTCGTGTTGTTTTAGATTTCATCTAAACGAACAAACTAAAATGTCTGATAATGGACCCCAAAATCAGCGAAATGCACCCCGCATTACGTTTGGTGGACCCTCAGATTCAA 
+                |   |/   |||  |    | |   | | |   |    |  | |        | |   | | |               |  || || ||   |   |   | |||  |    | |  | ||   ||/|| |      | | |      ||  |/|       |  |  | |     
+HIV1     28175: A---AG---GGG--G----G-A---C-T-G---G----A--A-G--------G-G---C-T-A---------------A--TT-CA-CT---C---C---C-AAA--G----A-A--G-AC---AAGAT-A------T-C-C------TT--GAT-------C--T--G-T---- 
+
+COVID-19 28350: CTGGCAGTAACCAGAATGGAGAACGCAGTGGGGCGCGATCAAAACAACGTCGGCCCCAAGGTTTACCCAATAATACTGCGTCTTGGTTCACCGCTCTCACTCAACATGGCAAGGAAGACCTTAAATTCCCTCGAGGACAAGGCGTTCCAATTAACACCAATAGCAGTCCAGATGA 
+                  || | |  |     |  |   | ||      |   | ||   ||| |  | |       |  ||    |  | |  |  || |    |    | | |        | || | ||  | | |    |     |   ||   |   | |             |  |    |     
+HIV1     28350: --GG-A-T--C-----T--A---C-CA------C---A-CA---CAA-G--G-C-------T--AC----T--T-C--C--CT-G----A----T-T-A--------G-CA-G-AA--C-T-A----C-----A---CA---C---C-A-------------G--G----G---- 
+
+COVID-19 28525: CCAAATTGGCTACTACCGAAGAGCTACCAGACGAATTCGTGGTGGTGACGGTAAAATGAAAGATCTCAGTCCAAGATGGTATTTCTACTACCTAGGAACTGGGCCAGAAGCTGGACTTCCCTATGGTGCTAACAAAGACGGCATCATATGGGTTGCAACTGAGGGAGCCTTGAAT 
+                |||    ||        |  |   | | |||    |           |   |            | ||  |     ||  |   |  ||   |      |||   |     |||  |       |   ||| ||| | |    | |   |  |/ |  |  ||      ||||/  
+HIV1     28525: CCA----GG--------G--G---T-C-AGA----T-----------A---T------------C-CA--C-----TG--A---C--CT---T------TGG---A-----TGG--T-------G---CTA-CAA-G-C----T-A---G--TA-C--C--AG------TTGAG- 
+
+COVID-19 28700: ACACCAAAAGATCACATTGGCACCCGCAATCCTGCTAACAATGCTGCAATCGTGCTACAACTTCCTCAAGGAACAACATTGCCAAAAGGCTTCTACGCAGAAGGGAGCAGAGGCGGCAGTCAAGCCTCTTCTCGTTCCTCATCACGTAGTCGCAACAGTTCAAGAAATTCAACTC 
+                 | | |   ||| | |  |  |/    |     |  ||    |    |   | ||  ||| |     ||  |        |      |      | | ||||     ||    |  ||| |     | |    |||    | |||     | |     |    |   |        
+HIV1     28700: -C-C-A---GAT-A-A--G--AT----A-----G--AA----G----A---G-GC--CAA-T-----AA--A--------G------G------A-G-AGAA-----CA----C--CAG-C-----T-T----GTT----A-CAC-----C-C-----T----G---T------- 
+
+COVID-19 28875: CAGGCAGCAGTAGGGGAACTTCTCCTGCTAGAATGGCTGGCAATGGCGGTGATGCTGCTCTTGCTTTGCTGCTGCTTGACAGATTGAACCAGCTTGAGAGCAAAATGTCTGGTAAAGGCCAACAACAACAAGGCCAAACTGTCACTAAGAAATCTGCTGCTGAGGCTTCTAAGAA 
+                  |  |||          ||      || |   |||  |  | |||     |||                        ||        || |   ||||| |    |      || |                      |||   || ||     | ||  |||| || |  ||  
+HIV1     28875: --G--AGC----------CT------GC-A---TGG--G--A-TGG-----ATG------------------------AC--------CC-G---GAGAG-A----G------AA-G----------------------TGT---TA-GA-----G-TG--GAGG-TT-T--GA- 
+
+COVID-19 29050: GCCTCGGCAAAAACGTACTGCCACTAAAGCATACAATGTAACACAAGCTTTCGGCAGACGTGGTCCAGAACAAACCCAAGGAAATTTTGGGGACCAGGAACTAATCAGACAAGGAACTGATTACAAACATTGGCCGCAAATTGCACAATTTGCCCCCAGCGCTTCAGCGTTCTTC 
+                 |/  | |     ||  |  |   ||  ||||    | |  ||     |  |   |  |||||/|| ||          | |      |    |/ |   | | ||   |  |||   | | ||     ||  |   ||   | | |     |         |   || |      
+HIV1     29050: -CA--G-C-----CG--C--C---TA--GCAT----T-T--CA-----T--C---A--CGTGGCCC-GA----------G-A------G----CT-G---C-A-TC---C--GGA---G-T-AC-----TT--C---AA---G-A-A-----C---------T---GC-T----- 
+
+COVID-19 29225: GGAATGTCGCGCATTGGCATGGAAGTCACACCTTCGGGAACGTGGTTGACCTACACAGGTGCCATCAAATTGGATGACAAAGATCCAAATTTCAAAGATCAAGTCATTTTGCTGAATAAGCATATTGACGCATACAAAACATTCCCACCAACAGAGCCTAAAAAGGACAAAAAGA 
+                | |    |    ||   |  | | | |     || |    | |     ||  | |  || |  | |   ||   |  |      |           |  |   |      |  |     |      |||   |        |||| |      | |        | |      |  
+HIV1     29225: G-A----C----AT---C--G-A-G-C-----TT-G----C-T-----AC--A-A--GG-G--A-C---TT---T--C------C-----------G--C---T------G--G-----G------GAC---T--------TTCC-A------G-G--------G-A------G- 
+
+COVID-19 29400: AGAAGGCTGATGAAACTCAAGCCTTACCGCAGAGACAGAAGAAACAGCAAACTGTGACTCTTCTTCCTGCTGCAGATTTGGATGATTTCTCCAAACAATTGCAACAATCCATGAGCAGTGCTGACTCAACTCAGGCCTAAACTCATGCAGACCACACAAGGCAGATGGGCTATAT 
+                 |    | | ||        ||||    |  | | | |  |     | |  ||| |            |  | || |  ||/ ||               ||  |   |  |   |||     | ||  ||  | |/||   | |   || | |     | |   ||  || | | 
+HIV1     29400: -G----C-G-TG--------GCCT----G--G-G-C-G--G-----G-A--CTG-G------------G--G-AG-T--GGC-GA---------------GC--C---C--T---CAG-----A-TC--CT--G-CATA---T-A---AG-C-A-----G-C---TG--CT-T-T 
+
+COVID-19 29575: AAACGTTTTCGCTTTTCCGTTTACGATATATAGTCTACTCTTGTGCAGAATGAATTCTCGTAACTACATAGCACAAGTAGATGTAGTTAACTTTAATCTCACATAGCAATCTTTAATCAGTGTGTAACATTAGGGAGGACTTGAAAGAGCCACCACATTTTCACCGAGGCCACGC 
+                     ||   ||    |  |    | ||      ||      | |  |  |     ||| |  ||     |     ||   |  ||  | |      |  |    | | |||/ |/ |         | |  |||||  ||        |/ |    |       | | |/|    
+HIV1     29575: -----TT---GC----C--T----G-TA------CT------G-G--G--T-----CTC-T--CT-----G-----GT---T--AG--A-C------C--A----G-A-TCTG-AG-C---------C-T--GGGAG--CT--------CT-C----T-------G-G-CTA--- 
+
+COVID-19 29750: GGAGTACGATCGAGTGTACAGTGAACAATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAATTTTAGTAGTGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
+                  |   |  |  || |    |  |||/   | |       |||| | ||   | |  || |/|     |   | ||    ||     || |/||  | |||/|      |||||                                               
+HIV1     29750: --A---C--T--AG-G----G--AACC---C-A-------CTGC-T-TA---A-G--CC-TCA-----A---T-AA----AG-----CT-TGCC--T-TGAGT------GCTTC---------------------------------------------- 
+
+Score: -11886 out of maximum score of -11541
+102.98934234468418% Similarity based on scoring scheme 
