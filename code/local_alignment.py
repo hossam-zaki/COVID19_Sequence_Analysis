@@ -131,7 +131,7 @@ class local_aligning:
                     file.write((' ' * maxLen) + '   ' + (' ' * len(str(i))) + f"{self.final_alignment_seq[i:]} \n")
                     file.write(f"{matches1[1]} {i}:" + ' ' * offset1 +  f"{self.final_bottom_seq[i:]} \n")
                     file.write(f"\n")
-            file.write(f"Score: {self.alignment_matrix[len(self.seq1)][len(self.seq2)]} out of maximum score of {(min(len(self.seq1),len(self.seq2)))}\n")
+            file.write(f"Score: {self.alignment_matrix[self.max_Rindex][self.max_Cindex]} out of maximum score of {(min(len(self.seq1),len(self.seq2)) - abs(len(self.seq1) - len(self.seq2)))}\n")
             file.write(f"{self.alignment_matrix[len(self.seq1)][len(self.seq2)]/ (min(len(self.seq1),len(self.seq2))) * 100}% Similarity based on scoring scheme \n")
     def reverse_str(self, string):
         new_str = ""
