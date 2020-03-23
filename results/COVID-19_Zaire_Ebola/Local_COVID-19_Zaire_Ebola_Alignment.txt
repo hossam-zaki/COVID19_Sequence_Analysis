@@ -530,5 +530,5 @@ COVID-19    23100: -A-GCATTTTTA-ATTGG---A-T-GTAATTATC-TTGGCAAACCACGCGAAC-----AAA
                     | || |//|/| |/ ||   | | | |||/|/| ||| ||||/ | | ||/|     ||| | |||||/  | ||  ||  ||||  | || ||//  |  |||| || ||   |  | || ||||| | || ||| 
 Zaire_Ebola 23100: CACGC-TCATCAGAA-GGCTCACTAG-AATAAACGTTG-CAAAA-A-G-GATCCCTGGAAA-A-ATGGTC--G-CA--CA--CAAA--A-AT-TTAA--A--AATA-AA-TC---T--A-TT-TCTTC-T-TT-TTT 
 
-Score: 2235 out of maximum score of 18937
+Score: 2353 out of maximum score of 7971
 11.802291809684744% Similarity based on scoring scheme 
